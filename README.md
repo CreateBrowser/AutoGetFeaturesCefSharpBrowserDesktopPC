@@ -1,10 +1,9 @@
 ## A Fast CefSharp New Chromium Browser Microsoft Windows OS Desktop
 
+
+***
 > ## ***```The Prerequisites are Required: ```***
 > ## ```Microsoft .NET Framework 4.7```
-***
-> # Debug 
-> # [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/Create-Browser/AFastCefSharpNewChromiumBrowserDesktop/releases/tag/Debug)
  ***
  [![Build A Fast CefSharp New Chromium Browser Downloader](1.PNG)](https://github.com/Create-Browser/AFastCefSharpNewChromiumBrowserDesktop/releases/tag/Debug)
  
