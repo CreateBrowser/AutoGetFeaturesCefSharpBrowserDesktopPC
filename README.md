@@ -1,7 +1,8 @@
 ## A Fast CefSharp New Chromium Browser Microsoft Windows OS Desktop
-**If you have a question, ask it on StackOverflow or use ceforum (for questions specific to CEF).**
 
-# Please Now
+> **If you have a question, ask it on [StackOverflow](http://stackoverflow.com/questions/tagged/cefsharp) or use [ceforum](http://magpcss.org/ceforum/) (for questions specific to CEF).**
+
+> # Please Now
 
 **c# Cefsharp Winforms TabControl - how to get popup - Popup Windows New**
 
