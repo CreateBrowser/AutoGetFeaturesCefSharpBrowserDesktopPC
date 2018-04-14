@@ -9,11 +9,46 @@
 ***
 > ## ***```The Prerequisites are Required: ```***
 > ## ```Microsoft Windows 8.1 and 10 OS Desktop```
-
 > ## ```Microsoft Visual Studio 2015```
 > ## ```Microsoft .NET Framework 4.7```
  ***
- [![Build A Fast CefSharp New Chromium Browser Downloader](CEFGET.png)](https://github.com/Create-Browser/AFastCefSharpNewChromiumBrowserDesktop/releases/tag/Debug)
+
+> # Some Screenshots
+ 
+[![Build A Fast CefSharp New Chromium Browser Downloader](CEFGET.png)](https://github.com/Create-Browser/AFastCefSharpNewChromiumBrowserDesktop/releases/tag/Debug)
+  
+>  # NuGet
+ 
+> ##### ``[cef.redist.x86 at NuGet]``
+>     Install-Package CefSharp cef.redist.x86 version="3.3239.1723"
+    
+> ##### ``[CefSharp.Common at NuGet]``
+>     Install-Package CefSharp.Common version="63.0.3"
+    
+> ##### ``[CefSharp.WinForms at NuGet]``
+>     Install-Package CefSharp.WinForms version="63.0.3"
+    
+> ##### ``[MaterialSkin at NuGet]``
+>     Install-Package MaterialSkin version="0.2.1"
+    
+> ##### ``[MetroFramework.Design at NuGet]``
+>     Install-Package MetroFramework.Design version="1.2.0.3"
+    
+> ##### ``[MetroFramework.RunTime at NuGet]``
+>     Install-Package MetroFramework.RunTime version="1.2.0.3"
+    
+> ##### ``[Process.NET at NuGet]``
+>     Install-Package Process.NET version="1.0.8"
+    
+> ##### ``[Selenium.WebDriver.Server at NuGet]``
+>     Install-Package Selenium.WebDriver.Server version="3.0.1.1"
+    
+> ##### ``[Selenium.Chrome.WebDriver at NuGet]``
+>     Install-Package Selenium.Chrome.WebDriver version="2.37"
+
+> ##### ``[Selenium.Microsoft.Webdriver2 at NuGet]``
+>     Install-Package Selenium.Microsoft.Webdriver2 version="2.0.10586.1" (Windows 10)
+    
   
 > **If you have a question, ask it on [StackOverflow](http://stackoverflow.com/questions/tagged/cefsharp) or use [ceforum](http://magpcss.org/ceforum/) (for questions specific to CEF).**
 
