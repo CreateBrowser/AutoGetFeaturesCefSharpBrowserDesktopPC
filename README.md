@@ -14,10 +14,7 @@
 > ## ```Microsoft .NET Framework 4.7```
  ***
  [![Build A Fast CefSharp New Chromium Browser Downloader](CEFGET.png)](https://github.com/Create-Browser/AFastCefSharpNewChromiumBrowserDesktop/releases/tag/Debug)
- 
- 
- [![Build CefSharp Downloader](Open.png)](https://github.com/cefsharp/CefSharp) 
- 
+  
 > **If you have a question, ask it on [StackOverflow](http://stackoverflow.com/questions/tagged/cefsharp) or use [ceforum](http://magpcss.org/ceforum/) (for questions specific to CEF).**
 
 > # Please Now
