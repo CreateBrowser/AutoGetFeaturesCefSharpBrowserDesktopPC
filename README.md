@@ -7,6 +7,8 @@
 
 ***
 > ## ***```The Prerequisites are Required: ```***
+> ## ```Microsoft Windows 8.1 and 10 OS Desktop```
+
 > ## ```Microsoft Visual Studio 2015```
 > ## ```Microsoft .NET Framework 4.7```
  ***
