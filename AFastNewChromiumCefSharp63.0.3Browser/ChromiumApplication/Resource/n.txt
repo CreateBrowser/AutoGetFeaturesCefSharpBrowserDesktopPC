@@ -1,0 +1,61 @@
+﻿            // Register an object in javascript named "cefCustomObject" with function of the CefCustomObject class :3
+            chromeBrowser.RegisterJsObject("cefCustomObject", new CefCustomObject(chromeBrowser, this));
+
+			////////////////////////////////////////
+            CefSettings settings = new CefSettings();
+            // Initialize cef with the provided settings
+            Cef.Initialize(settings);
+            // Create a browser component
+            txtUrl.Text = "https://www.";
+
+            chromeBrowser = new ChromiumWebBrowser("https://www.youtube.com");
+            // Add it to the form and fill it to the form window.
+            this.Controls.Add(chromeBrowser);
+            chromeBrowser.Dock = DockStyle.Fill;
+            chrome.Parent = tabControl1.SelectedTab;
+			//////////////////////////////////////////////
+
+		using CefSharp;
+using CefSharp.Event;
+using CefSharp.Handler;
+using CefSharp.Internals;
+using CefSharp.ModelBinding;
+using CefSharp.SchemeHandler;
+using CefSharp.Structs;
+using CefSharp.WinForms;
+using CefSharp.WinForms.Internals;
+using ConsoleYouTube;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Runtime;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Controls;
+using System.Windows.Media.Media3D;
+using System.Windows.Forms;
+using Microsoft.VisualBasic;
+
+namespace ConsoleYouTube
+{
+
+    public partial class Form1 : Form
+    {
+        public ChromiumWebBrowser ChromiumWebBrowser;
+        public ChromiumWebBrowser chromeBrowser;
+        public ChromiumWebBrowser Chromium;
+        public ChromiumWebBrowser browser;
+        public ChromiumWebBrowser chrome;
+        public int height;
+        public int windowless_rendering_enabled;
+        private cef_string_t accept_language_list;
+        private cef_string_t databases;
+        private cef_string_t javascript;
+        private cef_string_t plugins;
+        private cef_string_t webgl;
+        private static ChromiumWebBrowser _instanceBrowser = null;
+        private static Form1 _instanceMainForm = null;
