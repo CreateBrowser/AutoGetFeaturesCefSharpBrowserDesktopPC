@@ -1,4 +1,4 @@
-## C# A Fast CefSharp New Chromium Browser Microsoft Windows OS Desktop
+## C# A Fast CefSharp New Chromium Browser Microsoft Windows OS Desktop  :1st_place_medal: 
 
 [![CefSharp Logo](CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
