@@ -5,7 +5,7 @@
 [![CefSharp Logo](CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master)
-[![CefSharp.WinForms](CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
+[![CefSharp.WinForms](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
 
 
 ***
@@ -19,7 +19,7 @@
 
 > # Some Screenshots
  
-[![Build A Fast CefSharp New Chromium Browser Downloader](CEFGET.png)](https://github.com/Create-Browser/CefSharpChromiumBrowserDesktop/releases/tag/v63.0.3)
+[![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/Applications.png)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
   
 >  # NuGet
  
