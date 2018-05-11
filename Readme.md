@@ -1,6 +1,6 @@
 > ## C# A Fast CefSharp New Chromium Browser Desktop PC :1st_place_medal:    
 
-<p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>
+<p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="80" height="80" /></p>
 
 > # Microsoft Windows OS Desktop PC
 > # Create C# Visual Studio `2017 / 2015` 
@@ -21,7 +21,6 @@
 
  ***
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/CefSharpChromiumBrowserDesktop/releases/tag/v63.0.3)
-
 
 > # Some Screenshots
  
