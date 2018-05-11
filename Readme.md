@@ -8,7 +8,7 @@
 [![CefSharp Logo](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master)
-[![CefSharp.WinForms](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
+[![CefSharp.WinForms](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
 
 
 ***
@@ -20,7 +20,7 @@
 > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
  ***
- [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/Create-Browser/CefSharpChromiumBrowserDesktop/releases/tag/v63.0.3)
+ [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/CefSharpChromiumBrowserDesktop/releases/tag/v63.0.3)
 
 
 > # Some Screenshots
