@@ -13,6 +13,9 @@
 > ## ```Microsoft Windows 8.1 and 10 OS Desktop```
 > ## ```Microsoft Visual Studio 2015```
 > ## ```Microsoft .NET Framework 4.7```
+> ## ```Microsoft Visual C++ 2013 (86-bit)X(64-bit)```
+> ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
+
  ***
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/Create-Browser/CefSharpChromiumBrowserDesktop/releases/tag/v63.0.3)
 
