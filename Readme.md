@@ -1,9 +1,11 @@
-> ## C# A Fast CefSharp New Chromium Browser Desktop PC :1st_place_medal:    <p><img src="https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="60" height="60" /></p>
+> ## C# A Fast CefSharp New Chromium Browser Desktop PC :1st_place_medal:    
+
+<p><img src="https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>
 
 > # Microsoft Windows OS Desktop PC
 > # Create C# Visual Studio `2017 / 2015` 
 
-[![CefSharp Logo](CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+[![CefSharp Logo](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master)
 [![CefSharp.WinForms](https://raw.githubusercontent.com/Create-Browser/ACefSharpChromiumBrowserDesktop/master/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
