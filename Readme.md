@@ -31,16 +31,16 @@
 >  # NuGet CefSharp version: 65.0.0-pre01
 
 > ##### ``[cef.redist.x86 at NuGet]``
->     Install-Package CefSharp cef.redist.x86 version="3.3239.1723"
+>     Install-Package CefSharp cef.redist.x86 version="3.3325.1758"
     
 > ##### ``[cef.redist.x64 at NuGet]``
->     Install-Package CefSharp cef.redist.x64 version="3.3239.1723"
+>     Install-Package CefSharp cef.redist.x64 version="3.3325.1758"
         
 > ##### ``[CefSharp.Common at NuGet]``
->     Install-Package CefSharp.Common version="63.0.3"
+>     Install-Package CefSharp.Common version="65.0.0-pre01"
     
 > ##### ``[CefSharp.WinForms at NuGet]``
->     Install-Package CefSharp.WinForms version="63.0.3"
+>     Install-Package CefSharp.WinForms version="65.0.0-pre01"
     
 > ##### ``[MaterialSkin at NuGet]``
 >     Install-Package MaterialSkin version="0.2.1"
@@ -51,8 +51,7 @@
 > ##### ``[MetroFramework.RunTime at NuGet]``
 >     Install-Package MetroFramework.RunTime version="1.2.0.3"
 
-> ##### ``[Newtonsoft.Json at NuGet]``
->     Install-Package Newtonsoft.Json version="11.0.2"
+> ##### ``Delete NuGet Install-Package [Newtonsoft.Json] version="11.0.2" ``
 
  *** 
 > # Some Screenshots
