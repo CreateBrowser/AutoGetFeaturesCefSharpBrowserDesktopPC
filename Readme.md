@@ -2,7 +2,7 @@
 
 
 > # Microsoft Windows OS Desktop PC
-> # Create C# Visual Studio `2017 / 2015` 
+> # Create C# Visual Studio `2017 / 2015` (64-bit X 32-bit) 
 
 <p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="300" height="300" /></p>
 
