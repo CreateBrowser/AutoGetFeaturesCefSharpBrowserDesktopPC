@@ -30,8 +30,36 @@
  [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
 [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Applications.png)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
-  
+
+***
+>  # NuGet CefSharp version: 65.0.0-pre01
+
+> ##### ``[cef.redist.x86 at NuGet]``
+>     Install-Package CefSharp cef.redist.x86 version="3.3239.1723"
+    
+> ##### ``[cef.redist.x64 at NuGet]``
+>     Install-Package CefSharp cef.redist.x64 version="3.3239.1723"
+        
+> ##### ``[CefSharp.Common at NuGet]``
+>     Install-Package CefSharp.Common version="63.0.3"
+    
+> ##### ``[CefSharp.WinForms at NuGet]``
+>     Install-Package CefSharp.WinForms version="63.0.3"
+    
+> ##### ``[MaterialSkin at NuGet]``
+>     Install-Package MaterialSkin version="0.2.1"
+    
+> ##### ``[MetroFramework.Design at NuGet]``
+>     Install-Package MetroFramework.Design version="1.2.0.3"
+    
+> ##### ``[MetroFramework.RunTime at NuGet]``
+>     Install-Package MetroFramework.RunTime version="1.2.0.3"
+
+> ##### ``[Newtonsoft.Json at NuGet]``
+>     Install-Package Newtonsoft.Json version="11.0.2"
+
  *** 
+
 >  # NuGet CefSharp version: 63.0.3
  
 > ##### ``[cef.redist.x86 at NuGet]``
