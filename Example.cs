@@ -1,4 +1,4 @@
-Example Chromium Browser CefSharp 63.0.3 
+Example Chromium Browser CefSharp v63.0.3 ^ v65.0.0-pre01
 Chromium Application.sln
 Application Settings System
 Group Custom Path Configuration Desktop PC 
