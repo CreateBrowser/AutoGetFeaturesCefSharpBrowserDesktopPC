@@ -1,4 +1,3 @@
-####  <p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>      
 
 > # Create C# Visual Studio `2017 & 2015` (64-bit X 32-bit) 
  # C# A Fast CefSharp Browser Desktop PC :1st_place_medal:
@@ -14,7 +13,11 @@
 
 ### Releases
 
+
 [![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+
+# ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
+
 
 **CI Builds [![Build status](https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) Get**<br/> 
 
@@ -120,7 +123,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
     
 *** 
 
- 
+ ####  <p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>      
+
 > **If you have a question, ask it on [StackOverflow](http://stackoverflow.com/questions/tagged/cefsharp) or use [ceforum](http://magpcss.org/ceforum/) (for questions specific to CEF).**
 
 > # Please Now
