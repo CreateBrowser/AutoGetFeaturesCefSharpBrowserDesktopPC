@@ -1,4 +1,4 @@
-   # C# A Fast CefSharp Browser Desktop PC :1st_place_medal:
+   # C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
 # Create C# Visual Studio `2017 & 2015` (64-bit X 32-bit) 
 ***
  # **``The Prerequisites are Required: ``**
@@ -55,7 +55,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
   
  [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
->  # Chromium NuGet CefSharp version: 65.0.0-pre01 
+>  #  NuGet CefSharp version: 65.0.0-pre01 
 
 > ##### ``[cef.redist.x86 at NuGet]``
 >     Install-Package CefSharp cef.redist.x86 version="3.3325.1758"
