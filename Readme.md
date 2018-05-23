@@ -1,9 +1,16 @@
 > ##  C# A Fast CefSharp New Chromium Browser Desktop PC :1st_place_medal:    
 
-
 > # Microsoft Windows OS Desktop PC
-> # Create C# Visual Studio `2017 / 2015` (64-bit X 32-bit) 
+> # Create C# Visual Studio `2017 & 2015` (64-bit X 32-bit) 
 
+> ## ***```The Prerequisites are Required: ```***
+> ## ```Microsoft Windows 8.1 and 10 OS Desktop```
+> ## ```Microsoft Visual Studio 2015 Update 3```
+> ## ```Microsoft .NET Framework 4.7```
+> ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
+> ## ```Microsoft Visual C++ 2013 (86-bit)X(64-bit)```
+
+ ***
 <p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="300" height="300" /></p>
 
 ***
@@ -40,16 +47,9 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 
-> ## ***```The Prerequisites are Required: ```***
-> ## ```Microsoft Windows 8.1 and 10 OS Desktop```
-> ## ```Microsoft Visual Studio 2015 Update 3```
-> ## ```Microsoft .NET Framework 4.7```
-> ## ```Microsoft Visual C++ 2013 (86-bit)X(64-bit)```
-> ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
- ***
  
- 
+
  
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/releases/tag/v65.0.0-pre01)
 
