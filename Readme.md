@@ -34,8 +34,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
 | [master](https://github.com/cefsharp/CefSharp/)                      | 3359 | 2015 | 4.5.2 | Development     |
-| [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 | **Pre-Release** |
-| [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 | **Release**     |
+| [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | **Release**     |
 
 ***
 
