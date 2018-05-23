@@ -35,7 +35,7 @@ Every commit on `master` produces a `Nuget` package. Use at your own risk!
 
 ### Release Branches
 
-With each release a new branch is created, for example the `53.0.1` release corresponds to the `cefsharp/53` branch.
+With each release a new branch is created, for example the `63.0.3` release corresponds to the `cefsharp/63` branch.
 If you're new to `CefSharp` and are downloading the source to check it out, please use a **Release** branch
 
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
