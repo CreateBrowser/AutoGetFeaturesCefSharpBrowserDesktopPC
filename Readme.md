@@ -3,7 +3,6 @@
 
  [![PayPal donate ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/PayPal.donate.svg?style=flat&label=PayPalDonate)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
 
-
 # C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
 # Create C# Visual Studio `2017 & 2015` (64-bit X 32-bit) 
 ***
