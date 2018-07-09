@@ -3,16 +3,11 @@
     <html lang="zh-CN">
      
 
- <el-progress :percentage="0"></el-progress>
-<el-progress :percentage="70"></el-progress>
-<el-progress :percentage="80" color="#8e71c7"></el-progress>
-<el-progress :percentage="100" status="success"></el-progress>
-<el-progress :percentage="50" status="exception"></el-progress>
      
-     <H1> Donate quickly with PayPal </H1>
-     <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
-    <H6> Don't have a PayPal account? </H6>
-<H3> Use your credit card or bank account (where available).       <a target="_blank" href="https://www.paypal.com/eg/cgi-bin/webscr?cmd=_flow&SESSION=uWcgK67aKsv5KvSnD69LpoTxHhyG7OgjskNytoUQF0lbg4ePGVm8IU_zCPK&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=056e4545045b13097fd748c21d47d31fe7a6a8dd#">Continue</a>  </H3>
+   
+ 
+     
+
      
 <head>
   <meta charset="UTF-8">
@@ -52,6 +47,14 @@
    <el-main>
     </el-main>
    
+     <H1> Donate quickly with PayPal </H1>
+     <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
+    <H6> Don't have a PayPal account? </H6>
+<H6> Use your credit card or bank account (where available).    <el-menu-item index="4"><a href="https://www.paypal.com/eg/cgi-bin/webscr?cmd=_flow&SESSION=uWcgK67aKsv5KvSnD69LpoTxHhyG7OgjskNytoUQF0lbg4ePGVm8IU_zCPK&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=056e4545045b13097fd748c21d47d31fe7a6a8dd#" target="_blank">Continue</a></el-menu-item>  <H6>
+    
+   
+   <el-progress :percentage="100" status="success"></el-progress>
+
     <el-button @click="visible = true">Continue PayPal Payments Donate</el-button>
     <el-dialog :visible.sync="visible" title="Basic for Continue PayPal Payments Standard Donate ">
      
