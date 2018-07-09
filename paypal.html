@@ -23,7 +23,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
 <!-- sample html for this button-->
-<div class="button"> Continue <div></div> 
 <!-- stylesheet for this button -->
   
   
@@ -46,8 +45,8 @@
     <H1> Donate quickly with PayPal </H1>
      <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6>     
-	 <div> <a href="#" class="button"> Continue </div>
-          <div class="button"> Continue <div></div> 
+	 <div class="button"> Continue <div></div> 
+ 
 	  <a href="#" class="ContinuePaypal">Continue</a>
 
    <el-header>
@@ -109,31 +108,7 @@
 
 
      
-  <style type="text/css">
-.ContinuePaypal {
-	-moz-box-shadow:inset 0px 39px 0px -9px #e67a73;
-	-webkit-box-shadow:inset 0px 39px 0px -9px #e67a73;
-	box-shadow:inset 0px 39px 0px -9px #e67a73;
-	background-color:#e67a73;
-	border:12px solid #ffffff;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Times New Roman;
-	font-size:28px;
-	font-weight:bold;
-	padding:31px 76px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #e67a73;
-}
-.ContinuePaypal:hover {
-	background-color:#e67a73;
-}
-.ContinuePaypal:active {
-	position:relative;
-	top:1px;
-}
- </style>
+ 
 
      <script>
     new Vue({
@@ -143,35 +118,7 @@
       }
     })
   </script>
-    
-     <script>
-  export default {
-    data() {
-      return {
-        fullscreenLoading: false
-      }
-    },
-    methods: {
-      openFullScreen() {
-        this.fullscreenLoading = true;
-        setTimeout(() => {
-          this.fullscreenLoading = false;
-        }, 2000);
-      },
-      openFullScreen2() {
-        const loading = this.$loading({
-          lock: true,
-          text: 'Loading',
-          spinner: 'el-icon-loading',
-          background: 'rgba(0, 0, 0, 0.7)'
-        });
-        setTimeout(() => {
-          loading.close();
-        }, 2000);
-      }
-    }
-  }
-</script>
+
       <style type="text/css">
   .button {
     backface-visibility: hidden;
