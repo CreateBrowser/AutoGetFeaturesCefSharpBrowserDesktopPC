@@ -44,14 +44,7 @@
      <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
     <H6> Don't have a PayPal account? </H6>
 <H6> Use your credit card or bank account (where available).    </H6>
-<div class="line"></div>
-<el-menu :default-active="activeIndex2" class="el-menu-demo"
-  mode="horizontal"
-  @select="handleSelect"
-  background-color="#545c64"
-  text-color="#fff"
-  active-text-color="#ffd04b">
-   <el-menu-item index="4"><a href="https://www.paypal.com/eg/cgi-bin/webscr?cmd=_flow&SESSION=uWcgK67aKsv5KvSnD69LpoTxHhyG7OgjskNytoUQF0lbg4ePGVm8IU_zCPK&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=056e4545045b13097fd748c21d47d31fe7a6a8dd#" target="_blank">Continue</a></el-menu-item>  
+<a href="https://www.paypal.com/eg/cgi-bin/webscr?cmd=_flow&SESSION=uWcgK67aKsv5KvSnD69LpoTxHhyG7OgjskNytoUQF0lbg4ePGVm8IU_zCPK&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=056e4545045b13097fd748c21d47d31fe7a6a8dd#" target="_blank">Continue</a> 
     
  
  
@@ -71,22 +64,7 @@
 
 <el-button style="margin-top: 12px;" @click="next">Next step</el-button>
 
-<script>
-  export default {
-    data() {
-      return {
-        active: 0
-      };
-    },
 
-    methods: {
-      next() {
-        if (this.active++ > 2) this.active = 0;
-      }
-    }
-  }
-</script>
- 
  
  
  
@@ -144,22 +122,27 @@
      
 
 
-   
- <script>
+   <script>
   export default {
+    data() {
+      return {
+        active: 0
+      };
+    },
+
     methods: {
-      handleOpen(key, keyPath) {
-        console.log(key, keyPath);
-      },
-      handleClose(key, keyPath) {
-        console.log(key, keyPath);
+      next() {
+        if (this.active++ > 2) this.active = 0;
       }
     }
   }
 </script>
  
- <<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>
-  <script>
+     
+  
+ 
+
+     <script>
     new Vue({
       el: '#app',
       data: function() {
