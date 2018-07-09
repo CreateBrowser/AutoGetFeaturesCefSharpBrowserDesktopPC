@@ -33,11 +33,10 @@
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
 
      
-      <el-table
-    v-loading="loading2"
-    element-loading-text="Loading..."
-    element-loading-spinner="el-icon-loading"
-    element-loading-background="rgba(0, 0, 0, 0.8)"
+     
+     <template>
+  <el-table
+    v-loading="loading"
     :data="tableData"
     style="width: 100%">
     <el-table-column
@@ -55,6 +54,7 @@
       label="Address">
     </el-table-column>
   </el-table>
+</template>
    
      
      
@@ -95,15 +95,15 @@
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <!-- import JavaScript -->
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
-  <script>
-    new Vue({
-      el: '#app',
-      data: function() {
-        return { visible: false }
-      }
-    })
-  </script>
-     <script>
+     
+     
+     <style>
+  body {
+    margin: 0;
+  }
+</style>
+
+<script>
   export default {
     data() {
       return {
@@ -120,11 +120,23 @@
           name: 'John Smith',
           address: 'No.1518,  Jinshajiang Road, Putuo District'
         }],
-        loading2: true
+        loading: true
       };
     }
   };
 </script>
+     
+     
+  <script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return { visible: false }
+      }
+    })
+  </script>
+    
+     
 </html>
      
      
