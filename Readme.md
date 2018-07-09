@@ -1,9 +1,9 @@
 
 #   [BY: Mohammed Osama Mohamed @ GitHub | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
-[![ donate ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/donate.gif)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
-
 [![PayPal Logo](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/images.jpg)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
+
+[![ donate paypay@2x.png ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/paypay@2x.png)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
 
 
 # C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
