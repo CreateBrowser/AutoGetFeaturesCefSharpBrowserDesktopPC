@@ -36,18 +36,23 @@
  <div id='cssmenu'>
 <ul>
    <li class='active'><a href='https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html'>Home </a></li>
-  
+  	  <img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.jpg">
+
 </ul>
 </div>
 
   <div id="app">
+	  
+	  
+  
+
+	  
     <H1> Donate quickly with PayPal </H1>
      <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6>     
  
  <a href="http://paypal.me/MohamedOsama914/5"><img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png"></a>
 		
-	  <img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.jpg">
 			 	 
    <el-header>
     </el-header>
@@ -77,7 +82,6 @@
     <input type="hidden" name="currency_code" value="USD">
 
     <!-- Display the payment button. -->
-     <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="PayPal">
      <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="Donate">
 
             <input type="image" name="submit" src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/paypay@2x.png" alt="Donate">
@@ -90,7 +94,12 @@
     </el-dialog>
   </div>
   
+ <el-button @click="visible = true">Button</el-button>
+    <el-dialog :visible.sync="visible" title="Hello world">
+	    
+	    		       <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="PayPal">
 
+    </el-dialog>
 
     <!-- Bottom Scripts -->
 
@@ -101,7 +110,11 @@
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <!-- import JavaScript -->
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
-   
+	    <script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/vue-i18n/dist/vue-i18n.js"></script>
+<script src="https://unpkg.com/element-ui"></script>
+   <script src="https://unpkg.com/element-ui/lib/umd/locale/en.js"></script>
+
      
     
 
@@ -110,7 +123,10 @@
 
      
  
-
+<script>
+  Vue.locale('en', ELEMENT.lang.en)
+  Vue.locale('zh-cn', ELEMENT.lang.zhCN)
+</script>
      <script>
     new Vue({
       el: '#app',
