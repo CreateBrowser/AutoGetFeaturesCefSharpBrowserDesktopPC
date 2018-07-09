@@ -28,19 +28,7 @@
    <link rel="stylesheet" href="https://unpkg.com/element-ui@2.4.3/lib/theme-chalk/index.css">
 
  
-<script async src="//jsfiddle.net/769x5vpj/embed/"></script>
- <script src="//unpkg.com/vue/dist/vue.js"></script>
-<script src="//unpkg.com/element-ui@2.4.3/lib/index.js"></script>
-<div id="app">
-<template>
-  <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading">
-    As a directive
-  </el-button>
-  <el-button type="primary" @click="openFullScreen2">
-    As a service
-  </el-button>
-</template>
-</div>
+
  
  
 </head>
@@ -85,6 +73,19 @@
     </el-dialog>
   </div>
   
+ <script async src="//jsfiddle.net/769x5vpj/embed/"></script>
+ <script src="//unpkg.com/vue/dist/vue.js"></script>
+<script src="//unpkg.com/element-ui@2.4.3/lib/index.js"></script>
+<div id="app">
+<template>
+  <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading">
+    As a directive
+  </el-button>
+  <el-button type="primary" @click="openFullScreen2">
+    As a service
+  </el-button>
+</template>
+</div>
  
      <template>
   <el-button
@@ -111,7 +112,38 @@
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
      
      
-    
+     <script>
+     
+     var Main = {
+    data() {
+      return {
+        fullscreenLoading: false
+      }
+    },
+    methods: {
+      openFullScreen() {
+        this.fullscreenLoading = true;
+        setTimeout(() => {
+          this.fullscreenLoading = false;
+        }, 2000);
+      },
+      openFullScreen2() {
+        const loading = this.$loading({
+          lock: true,
+          text: 'Loading',
+          spinner: 'el-icon-loading',
+          background: 'rgba(0, 0, 0, 0.7)'
+        });
+        setTimeout(() => {
+          loading.close();
+        }, 2000);
+      }
+    }
+  }
+var Ctor = Vue.extend(Main)
+new Ctor().$mount('#app')
+       </script>
+
      <script>
   export default {
     data() {
@@ -153,39 +185,7 @@
     })
   </script>
     
-       <script>
-
-     
-     var Main = {
-    data() {
-      return {
-        fullscreenLoading: false
-      }
-    },
-    methods: {
-      openFullScreen() {
-        this.fullscreenLoading = true;
-        setTimeout(() => {
-          this.fullscreenLoading = false;
-        }, 2000);
-      },
-      openFullScreen2() {
-        const loading = this.$loading({
-          lock: true,
-          text: 'Loading',
-          spinner: 'el-icon-loading',
-          background: 'rgba(0, 0, 0, 0.7)'
-        });
-        setTimeout(() => {
-          loading.close();
-        }, 2000);
-      }
-    }
-  }
-var Ctor = Vue.extend(Main)
-new Ctor().$mount('#app')
-       </script>
-
+      
 </html>
      
      
