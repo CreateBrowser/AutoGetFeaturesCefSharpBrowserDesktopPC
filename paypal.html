@@ -76,17 +76,7 @@
  <script async src="//jsfiddle.net/769x5vpj/embed/"></script>
  <script src="//unpkg.com/vue/dist/vue.js"></script>
 <script src="//unpkg.com/element-ui@2.4.3/lib/index.js"></script>
-<div id="app">
-<template>
-  <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading">
-    As a directive
-  </el-button>
-  <el-button type="primary" @click="openFullScreen2">
-    As a service
-  </el-button>
-</template>
-</div>
- 
+<div id="app"> 
      <template>
   <el-button
     type="primary"
@@ -100,7 +90,8 @@
     As a service
   </el-button>
 </template>
- 
+ </div>
+
     <!-- Bottom Scripts -->
 
     <!-- Bottom Scripts -->
@@ -144,6 +135,20 @@ var Ctor = Vue.extend(Main)
 new Ctor().$mount('#app')
        </script>
 
+     
+
+
+     
+     
+  <script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return { visible: false }
+      }
+    })
+  </script>
+    
      <script>
   export default {
     data() {
@@ -172,19 +177,6 @@ new Ctor().$mount('#app')
     }
   }
 </script>
-
-
-     
-     
-  <script>
-    new Vue({
-      el: '#app',
-      data: function() {
-        return { visible: false }
-      }
-    })
-  </script>
-    
       
 </html>
      
