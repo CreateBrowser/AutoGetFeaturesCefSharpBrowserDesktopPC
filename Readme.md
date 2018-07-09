@@ -1,8 +1,8 @@
 
-###  [BY: Mohammed Osama Mohamed Sayed Ahmed @ GitHub | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
+###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
 
-[![ donate paypay@2x.png ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/paypay@2x.png)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/paypay@2x.png)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html)
 
 
 # C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
