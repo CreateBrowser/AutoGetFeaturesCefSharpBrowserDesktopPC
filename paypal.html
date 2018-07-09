@@ -25,7 +25,6 @@
   
   <!-- import CSS -->
   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
-   <link rel="stylesheet" href="https://unpkg.com/element-ui@2.4.3/lib/theme-chalk/index.css">
 
  
 
@@ -42,8 +41,7 @@
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
      
 <template>
-  <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading"> As a directive </el-button>
-  <el-button  type="primary" @click="openFullScreen2"> service  </el-button> 
+  <el-button type="primary" @click="openFullScreen2"> service  </el-button> 
      </template>   
      
      
@@ -88,37 +86,7 @@
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
    
      
-     <script>
-     
-     var Main = {
-    data() {
-      return {
-        fullscreenLoading: true
-      }
-    },
-    methods: {
-      openFullScreen() {
-        this.fullscreenLoading = true;
-        setTimeout(() => {
-          this.fullscreenLoading = true;
-        }, 2000);
-      },
-      openFullScreen2() {
-        const loading = this.$loading({
-          lock: true,
-          text: 'Loading',
-          spinner: 'el-icon-loading',
-          background: 'rgba(0, 0, 0, 0.7)'
-        });
-        setTimeout(() => {
-          loading.close();
-        }, 2000);
-      }
-    }
-  }
-var Ctor = Vue.extend(Main)
-new Ctor().$mount('#app')
-       </script>
+    
 
      
 
