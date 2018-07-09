@@ -92,14 +92,17 @@
 </form>
         
     </el-dialog>
+	  
+	  
+	  <el-button @click="visible = true">Button</el-button>
+    <el-dialog :visible.sync="visible" title="Hello world">	    
+  <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="PayPal">
+    </el-dialog>
+	  
+	  
   </div>
   
- <el-button @click="visible = true">Button</el-button>
-    <el-dialog :visible.sync="visible" title="Hello world">
-	    
-	    		       <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="PayPal">
-
-    </el-dialog>
+ 
 
     <!-- Bottom Scripts -->
 
