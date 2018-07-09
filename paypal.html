@@ -39,9 +39,7 @@
     <el-button @click="visible = true">Basic PayPal Payments</el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
      
-<template>
-  <el-button type="primary" @click="openFullScreen2"> service  </el-button> 
-     </template>   
+ 
      
      
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -133,12 +131,13 @@
 </html>
      
      
-  <CS> ///  <script async src=""></script> /// </CS>
+  <CS> <script async src=""></script> <div>  jsfiddle.net/769x5vpj/embed/   </div> </CS>
 
-
-
-
-        <div class="login-bottom-links">          <br /> PayPal Payments </div>   jsfiddle.net/769x5vpj/embed/   </div>
+  <div id="app">
+<template>  <el-button type="primary" @click="openFullScreen2"> service  </el-button>     </template>  
+</div>
+      
+ <div class="login-bottom-links">          <br /> PayPal Payments </div>  
 
 
  <input type="hidden" href="https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/html_example_donate/#fixed-contribution-amount" class="link">Donate: Sample HTML button code Basic Donate button </a><br />
