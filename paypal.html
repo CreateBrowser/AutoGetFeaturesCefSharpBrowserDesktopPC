@@ -30,19 +30,6 @@
   <div id="app">
  
    
-     <template>
-  <el-button
-    type="primary"
-    @click="openFullScreen"
-    v-loading.fullscreen.lock="fullscreenLoading">
-    As a directive
-  </el-button>
-  <el-button
-    type="primary"
-    @click="openFullScreen2">
-    As a service
-  </el-button>
-</template>
    
     <el-button @click="visible = true">Basic PayPal Payments</el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
@@ -80,6 +67,21 @@
     </el-dialog>
   </div>
   
+ 
+     <template>
+  <el-button
+    type="primary"
+    @click="openFullScreen"
+    v-loading.fullscreen.lock="fullscreenLoading">
+    As a directive
+  </el-button>
+  <el-button
+    type="primary"
+    @click="openFullScreen2">
+    As a service
+  </el-button>
+</template>
+ 
     <!-- Bottom Scripts -->
 
     <!-- Bottom Scripts -->
