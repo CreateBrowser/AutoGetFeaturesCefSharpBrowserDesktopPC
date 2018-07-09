@@ -28,8 +28,12 @@
 </head>
 <body>
   <div id="app">
-     <template>
-  <el-table
+ 
+    <el-button @click="visible = true">Basic PayPal Payments</el-button>
+    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
+
+     
+      <el-table
     v-loading="loading2"
     element-loading-text="Loading..."
     element-loading-spinner="el-icon-loading"
@@ -51,11 +55,9 @@
       label="Address">
     </el-table-column>
   </el-table>
-</template>
-    <el-button @click="visible = true">Basic PayPal Payments</el-button>
-    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
-
-        
+   
+     
+     
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
     <!-- Identify your business so that you can collect the payments. -->
