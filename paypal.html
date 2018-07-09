@@ -62,6 +62,34 @@
   active-text-color="#ffd04b">
    <el-menu-item index="4"><a href="https://www.paypal.com/eg/cgi-bin/webscr?cmd=_flow&SESSION=uWcgK67aKsv5KvSnD69LpoTxHhyG7OgjskNytoUQF0lbg4ePGVm8IU_zCPK&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=056e4545045b13097fd748c21d47d31fe7a6a8dd#" target="_blank">Continue</a></el-menu-item>  
     
+ 
+ <el-steps :active="active" finish-status="success">
+  <el-step title="Step 1"></el-step>
+  <el-step title="Step 2"></el-step>
+  <el-step title="Step 3"></el-step>
+</el-steps>
+
+<el-button style="margin-top: 12px;" @click="next">Next step</el-button>
+
+<script>
+  export default {
+    data() {
+      return {
+        active: 0
+      };
+    },
+
+    methods: {
+      next() {
+        if (this.active++ > 2) this.active = 0;
+      }
+    }
+  }
+</script>
+ 
+ 
+ 
+ 
    
 
     <el-button @click="visible = true">Continue PayPal Payments Donate</el-button>
@@ -116,22 +144,21 @@
      
 
 
-     
-     <script>
+   
+ <script>
   export default {
-    data() {
-      return {
-        activeIndex: '1',
-        activeIndex2: '1'
-      };
-    },
     methods: {
-      handleSelect(key, keyPath) {
+      handleOpen(key, keyPath) {
+        console.log(key, keyPath);
+      },
+      handleClose(key, keyPath) {
         console.log(key, keyPath);
       }
     }
   }
 </script>
+ 
+ <<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>
   <script>
     new Vue({
       el: '#app',
