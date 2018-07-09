@@ -1,7 +1,6 @@
 
 #   [BY: Mohammed Osama Mohamed @ GitHub | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
-[![PayPal Logo](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/images.jpg)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
 
 [![ donate paypay@2x.png ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/paypay@2x.png)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html)
 
