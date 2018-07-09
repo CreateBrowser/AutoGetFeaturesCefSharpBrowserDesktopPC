@@ -29,12 +29,8 @@
 <body>
   <div id="app">
  
-    <el-button @click="visible = true">Basic PayPal Payments</el-button>
-    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
-
-     
-     
-    <template>
+   
+     <template>
   <el-button
     type="primary"
     @click="openFullScreen"
@@ -48,6 +44,12 @@
   </el-button>
 </template>
    
+    <el-button @click="visible = true">Basic PayPal Payments</el-button>
+    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
+
+     
+     
+  
      
      
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
