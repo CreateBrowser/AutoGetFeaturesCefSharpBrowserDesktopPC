@@ -35,30 +35,29 @@
 <body>
  
  
- <div id="app"> 
-     <template>
+    
+ 
+  <div id="app">
+ 
+ <template>
   <el-button
     type="primary"
     @click="openFullScreen"
     v-loading.fullscreen.lock="fullscreenLoading">
     As a directive
   </el-button>
-  <el-button
-    type="primary"
-    @click="openFullScreen2">
-    As a service
-  </el-button>
-</template>
- </div>
- 
-  <div id="app">
- 
-   
+  
    
     <el-button @click="visible = true">Basic PayPal Payments</el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
 
-     
+     <el-button
+    type="primary"
+    @click="openFullScreen2">
+   service
+  </el-button>
+</template>
+ </div>   
      
   
      
