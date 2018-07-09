@@ -2,7 +2,12 @@
 <html>
     <html lang="zh-CN">
 
- 
+ <el-progress :percentage="0"></el-progress>
+<el-progress :percentage="70"></el-progress>
+<el-progress :percentage="80" color="#8e71c7"></el-progress>
+<el-progress :percentage="100" status="success"></el-progress>
+<el-progress :percentage="50" status="exception"></el-progress>
+     
      <H1> Donate quickly with PayPal </H1>
      <H1> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H1> 
     <H1> Don't have a PayPal account? </H1>
@@ -39,6 +44,13 @@
     
  
   <div id="app">
+   
+   <el-header>
+    </el-header>
+   
+   <el-main>
+    </el-main>
+   
     <el-button @click="visible = true">PayPal Payments Donate</el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
      
@@ -135,8 +147,4 @@
      
      
   <CS> <script async src=""></script>    </CS>
-
-  <div id="app"><template>  <el-button type="primary" @click="openFullScreen2"> service  </el-button>     </template>  
-</div>
-  
 
