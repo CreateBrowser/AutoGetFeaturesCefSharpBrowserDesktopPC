@@ -28,7 +28,30 @@
 </head>
 <body>
   <div id="app">
-   
+     <template>
+  <el-table
+    v-loading="loading2"
+    element-loading-text="Loading..."
+    element-loading-spinner="el-icon-loading"
+    element-loading-background="rgba(0, 0, 0, 0.8)"
+    :data="tableData"
+    style="width: 100%">
+    <el-table-column
+      prop="date"
+      label="Date"
+      width="180">
+    </el-table-column>
+    <el-table-column
+      prop="name"
+      label="Name"
+      width="180">
+    </el-table-column>
+    <el-table-column
+      prop="address"
+      label="Address">
+    </el-table-column>
+  </el-table>
+</template>
     <el-button @click="visible = true">Basic PayPal Payments</el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
 
@@ -78,35 +101,7 @@
       }
     })
   </script>
-</html>
-     
-     
-     <template>
-  <el-table
-    v-loading="loading2"
-    element-loading-text="Loading..."
-    element-loading-spinner="el-icon-loading"
-    element-loading-background="rgba(0, 0, 0, 0.8)"
-    :data="tableData"
-    style="width: 100%">
-    <el-table-column
-      prop="date"
-      label="Date"
-      width="180">
-    </el-table-column>
-    <el-table-column
-      prop="name"
-      label="Name"
-      width="180">
-    </el-table-column>
-    <el-table-column
-      prop="address"
-      label="Address">
-    </el-table-column>
-  </el-table>
-</template>
-
-<script>
+     <script>
   export default {
     data() {
       return {
@@ -128,6 +123,12 @@
     }
   };
 </script>
+</html>
+     
+     
+   
+
+
 
         <div class="login-bottom-links">          <br /> PayPal Payments </div>      </div>
 
