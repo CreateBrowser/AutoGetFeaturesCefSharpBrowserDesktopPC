@@ -41,11 +41,7 @@
   	  <img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.jpg">
 
   <div id="app">
-	  
-	  
-  
 
-	  
     <H1> Donate quickly with PayPal </H1>
      <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6>     
@@ -61,10 +57,7 @@
   
     <el-button @click="visible = true">Continue PayPal Payments Donate</el-button>
     <el-dialog :visible.sync="visible" title="Basic for Continue PayPal Payments Standard Donate ">
-     
- 
-     
-     
+
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
     <!-- Identify your business so that you can collect the payments. -->
@@ -95,9 +88,6 @@
   </div>
 
 
-	
-	
-
     <!-- Bottom Scripts -->
 
     <!-- Bottom Scripts -->
@@ -111,12 +101,6 @@
 <script src="https://unpkg.com/vue-i18n/dist/vue-i18n.js"></script>
 <script src="https://unpkg.com/element-ui"></script>
    <script src="https://unpkg.com/element-ui/lib/umd/locale/en.js"></script>
-
-     
-    
-
-     
-
 
      
  
@@ -175,33 +159,3 @@
 </style>
 </html>
    
-	
-	
-	
-<html>
-<head>
-  <meta charset="UTF-8">
-  <!-- import CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
-</head>
-<body>
-  <div id="app">
-    <el-button @click="visible = true">Button</el-button>
-    <el-dialog :visible.sync="visible" title="Hello world">
-  <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png" alt="PayPal">
-    </el-dialog>
-  </div>
-</body>
-  <!-- import Vue before Element -->
-  <script src="https://unpkg.com/vue/dist/vue.js"></script>
-  <!-- import JavaScript -->
-  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
-  <script>
-    new Vue({
-      el: '#app',
-      data: function() {
-        return { visible: false }
-      }
-    })
-  </script>
-</html>
