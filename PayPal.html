@@ -1,7 +1,9 @@
- <!DOCTYPE Continue html>
-<html>
-    <html lang="en">
+ <!-- DOCTYPE Continue html> <html>    <html lang="en" -->
      
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html lang="en-US">
+
+<!-- | ISO Country | -->	    
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -28,13 +30,83 @@
   
   <!-- import CSS -->
   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
- 
- 
+ <style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style the content */
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+}
+</style>
+
 </head>
 <body>
+	
+	<header>
+   <h2> PayPal Payments </h2>
+
+</header>
+	
+	
  <div id='cssmenu'>
 <ul>
-   <li class='active'><a href='https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/paypal.html'>Home </a></li>
+   <li class='active'><a href='https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html'>Home </a></li>
 
 </ul>
 </div>
@@ -46,7 +118,7 @@
      <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6> 
 	  
-	  <a href="http://paypal.me/MohamedOsama914/5"><img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png"></a>  
+	  <a href="http://paypal.me/MohamedOsama914/5" target="_blank"><img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/button.png"></a>  
 
 <div id="xptCardIcons"><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccVisa&#x2e;gif" class="marginBottom ccLogo V" alt="Visa" title="Visa"><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccMC&#x2e;gif" class="marginBottom ccLogo M" alt="Mastercard "><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccAmex&#x2e;gif" class="marginBottom ccLogo A" alt="American Express "><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccDiscover&#x2e;gif" class="marginBottom ccLogo D" alt="Discover" title="Discover"><Wbr></Wbr></div></p>
 	
@@ -97,7 +169,9 @@
      <!-- Bottom Continue Scripts -->
 
     <!-- Bottom Continue Scripts -->
-  
+  <footer>
+  <p>Footer</p>
+</footer>
 </body>
   <!-- import Vue before Element -->
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
@@ -163,5 +237,9 @@
     font-size: initial
   }
 </style>
+	
+	
+
+
 </html>
    
