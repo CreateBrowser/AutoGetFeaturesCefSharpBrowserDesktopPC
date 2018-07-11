@@ -73,7 +73,7 @@
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6> 
 
 	    
-    <el-button @click="visible = true" type="primary"> Donate : PayPal Payments </el-button>
+    <el-button @click="visible = true" type="primary" size="medium"> Donate : PayPal Payments </el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
 
 	    
@@ -121,7 +121,7 @@
 	
 </center> button-->
 
-	<div id="buttons">  <a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" class="btn blue">PayPal Payments Standard Donate</a></div>
+	<div id="buttons">  <a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" class="btn blue" @click="visible = true">PayPal Payments Standard Donate</a></div>
 
 	
 
