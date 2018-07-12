@@ -97,8 +97,10 @@
     <input type="hidden" name="amount" value="5.00">
     <input type="hidden" name="currency_code" value="USD">
    
+		  
+		  
+		  
    <!-- payment -->
-
     <input type="hidden" name="return" value="URLspecificToThisTransaction">
     <input type="hidden" name="charset" value="utf-8">
    
@@ -106,9 +108,6 @@
   <input type="hidden" name="cmd" value="_s-xclick">
 
   <!-- Saved buttons are identified by their button IDs -->
-  <input type="hidden" name="hosted_button_id" value="221">		  
-   
-		  
   <input type="hidden" name="first_name" value="John">
   <input type="hidden" name="last_name" value="Doe">
   <input type="hidden" name="address1" value="9 Elm Street">
@@ -120,7 +119,24 @@
   <input type="hidden" name="night_phone_b" value="555">
   <input type="hidden" name="night_phone_c" value="1234">
   <input type="hidden" name="email" value="mohamed.osama914@yahoo.com">
+<input type="hidden" name="custom" value="[UserID],[PartNumber]"/>
+<input type="hidden" name="hosted_button_id" value="221">		     		  
+
+<input type="Radio" Name="Gender" Value="Male">Male
+<input type="Radio" Name="Gender" Value="Female">Female		  
+<input type="Radio" Name="payment" Value="CC">Credit Card
+<input type="Radio" Name="payment" Value="DC">Debit Card
+<input type="Radio" Name="payment" Value="PP">PayPal		  
 		  
+		  
+<input type="Radio" Name="payment" Value="CC">Credit Card
+<input type="Radio" Name="payment" Value="DC">Debit Card
+<input type="Radio" Name="payment" Value="PP" Checked>PayPal		  
+<LABEL FOR="R1">Male</LABEL>
+<input type="Radio" Name="Gender" ID="R1" Value="Male">
+
+<LABEL FOR="R2">Female</LABEL>
+<input type="Radio" Name="Gender" ID="R2" Value="Female">
 		  
     <!-- Display the payment button. -->
 
@@ -130,7 +146,8 @@
 		  
 <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
 	
-<div id="buttons"><input type="image" name="submit" type="number" class="btn blue" alt="Donate" src=" PayPal Payments Standard Donate " step="any">  </div>
+<div id="buttons"><input type="number" name="submit" class="btn blue" alt="Donate" src=" PayPal Payments Standard Donate " step="any">  </div>
+<input type="submit" value="PayPal">
 	
 		  
 <p> <label> Gender </label> <input type="radio" name="gender">Male <input type="radio" name="gender">Female </p>	  
