@@ -7,6 +7,25 @@ Group Custom Path Configuration Desktop PC
 
 Start the browser after initialize global component CefSharp v65.0.0-pre01
 
+<cs> 
+
+| class Customize
+    {
+        private void Customize_Load(object sender, EventArgs e)
+        {
+            ABookmarksForm a = new ABookmarksForm(); a.Show();
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ABookmarksForm a = new ABookmarksForm(); a.Show();
+        }
+        private void GetBookmarks(object sender, EventArgs e)
+        {
+            ABookmarksForm a = new ABookmarksForm(); a.Show();
+        }
+
+    } |
+</cs> 
 
 
      
