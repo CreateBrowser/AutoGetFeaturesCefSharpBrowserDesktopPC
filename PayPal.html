@@ -80,7 +80,7 @@
     <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6> 
 
 	    
-    <el-button @click="visible = true" type="primary" size="medium"> Donate : PayPal Payments </el-button>
+    <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
 
 	    
@@ -127,11 +127,9 @@
   	  
  <!-- Display the payment button. -->
 <INPUT TYPE="hidden" name="cancel_return" value="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html">
- <input type="hidden" name="paymentaction" value="order">
 	 	 
 	 
-<input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
-    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">					  
+<input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate" width="48" height="48">
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
 
 
@@ -149,6 +147,10 @@
 <!-- sample html
 
 <center>
+
+ <input type="hidden" name="paymentaction" value="order">
+
+    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">					  
 
   <input type="image" name="submit" src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png" alt="Donate">
 
@@ -222,7 +224,7 @@ button-->
   }
   .button > div {
     color: #999;
-  font-size: 10px;
+  font-size: 20px;
   font-family: Helvetica Neue;
   font-weight: 900;
   font-style: normal;
