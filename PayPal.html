@@ -99,25 +99,33 @@
 
   <!-- Set variables that override the address stored with PayPal. -->  
 	    <select name="amount" style="margin: 0px 0px 11px 0px;">
-<option selected value="05.00">Please Select Amount</option>
-<option value="05.00">$05.00</option>		    
+<option selected value="5.00">Please Select Amount</option>
+<option value="5.00">$5.00</option>		    
 <option value="10.00">$10.00</option>
 <option value="25.00">$25.00</option>
 <option value="50.00">$50.00</option>
 <option value="100.00">$100.00</option>
 </select><br>
 		  
-    <!-- Display the payment button. -->
+  
+		  
+ <!-- Display the payment button. -->
+<INPUT TYPE="hidden" name="variableName" value="allowedValue">
+  <INPUT TYPE="hidden" name="charset" value="utf-8">
 
+		  
 <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
 <input type="image" name="submit" src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png" alt="Donate">
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
 		  
-    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-					  
+<input type="submit" value="PayPal">
+		  
+    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">					  
 <LABEL FOR="R1">Male</LABEL><input type="Radio" Name="Gender" ID="R1" Value="Male">
 <LABEL FOR="R2">Female</LABEL><input type="Radio" Name="Gender" ID="R2" Value="Female">			  
 		  
+	  
+<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/eg/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/eg/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/AM_mc_vs_ms_ae_UK.png" border="0" alt="PayPal Acceptance Mark"></a></td></tr></table><!-- PayPal Logo -->	  
   
 		  
 </form>
@@ -216,7 +224,8 @@ button-->
 	
 	
 	
- 
+ <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/eg/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/eg/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table><!-- PayPal Logo -->
+
 	
 	
 	
