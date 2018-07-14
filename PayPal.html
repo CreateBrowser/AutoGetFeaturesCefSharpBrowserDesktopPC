@@ -67,7 +67,6 @@
 </header>
 
 
-		<span id="PaypalButtonDonate"></span>
 
 	
 	<div id="app">
@@ -103,6 +102,7 @@
   <!-- Set variables that override the address stored with PayPal. -->  
 <select name="amount" style="margin: 0px 0px 11px 0px;">
 <option selected value="5.00">Please Select Amount</option>
+<option value="0.50">$0.50</option>		    	
 <option value="1.00">$1.00</option>		    
 <option value="2.00">$2.00</option>		    
 <option value="3.00">$3.00</option>		    
@@ -238,20 +238,7 @@ button-->
 </style>
  
 	
-	<span id='PaypalButtonDonate'></span>
-<script src='https://www.paypalobjects.com/js/external/api.js'></script>
-<script>
-paypal.use( ['login'], function (login) {
-  login.render ({
-    "appid":"APP-91L78734G42202801",
-	      "authend":"sandbox",
-    "scopes":"mohamed.osama914-facilitator@yahoo.com",
-    "containerid":"PaypalButtonDonate",
-    "locale":"en-us",
-    "returnurl":"https://www.sandbox.paypal.com/signin/authorize"
-  });
-});
-</script>	
+	
 	
 	
 	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/eg/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/eg/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table><!-- PayPal Logo -->
