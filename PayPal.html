@@ -132,20 +132,7 @@
   </div>
  </center>
 
-<span id='PaypalButtonDonate'></span>
-<script src='https://www.paypalobjects.com/js/external/api.js'></script>
-<script>
-paypal.use( ['login'], function (login) {
-  login.render ({
-    "appid":"APP-91L78734G42202801",
-	      "authend":"sandbox",
-    "scopes":"mohamed.osama914-facilitator@yahoo.com",
-    "containerid":"PaypalButtonDonate",
-    "locale":"en-us",
-    "returnurl":"https://www.paypal.com/signin?returnUri=https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html"
-  });
-});
-</script>		
+	
 		
 <!-- sample html
 
@@ -245,7 +232,21 @@ button-->
 </style>
  
 	
-		
+	<span id='PaypalButtonDonate'></span>
+<script src='https://www.paypalobjects.com/js/external/api.js'></script>
+<script>
+paypal.use( ['login'], function (login) {
+  login.render ({
+    "appid":"APP-91L78734G42202801",
+	      "authend":"sandbox",
+    "scopes":"mohamed.osama914-facilitator@yahoo.com",
+    "containerid":"PaypalButtonDonate",
+    "locale":"en-us",
+    "returnurl":"https://www.sandbox.paypal.com/signin/authorize"
+  });
+});
+</script>	
+	
 	
 	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/eg/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/eg/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table><!-- PayPal Logo -->
 
