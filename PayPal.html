@@ -106,40 +106,7 @@
     <!-- Donate button. -->
  <!-- Donate button. -->
 
-	<div id="app">
-    
-    <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
-    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">	
-		  
- <!-- button. -->
-		  		  
-<select name="amount" style="margin: 0px 0px 19px 0px;">
-<option selected value="10.00">Please Select Amount</option> 		    	
-<option value="5.00">$5.00</option>		    
-<option value="10.00">$10.00</option>
-<option value="25.00">$25.00</option>
-<option value="50.00">$50.00</option>
-<option value="100.00">$100.00</option>
-</select><br>
 	
-<select name="amount" style="margin: 0px 0px 11px 0px;">
-<option selected value="0.5">Please Select Amount</option>
-<option value="0.5">$0.5</option>		    			
-<option value="0.10">$0.10</option>		    		
-<option value="0.50">$0.50</option>		    	
-<option value="1.00">$1.00</option>		    
-<option value="2.00">$2.00</option>		    
-<option value="3.00">$3.00</option>		    
-<option value="4.00">$4.00</option>		    	
-<option value="15.00">$15.00</option>
-<option value="20.00">$20.00</option>	
-<option value="30.00">$30.00</option>
-<option value="40.00">$40.00</option>
-<option value="200.00">$200.00</option>
-<option value="500.00">$500.00</option>
-<option value="1000.00">$1000.00</option>	
-</select><br>
-	 <!-- button. -->
 	  
   	  
  <!-- Display the payment button. -->
@@ -255,7 +222,43 @@
 	
 </html>
    
-
+<div id="app">
+    
+    <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
+    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">	
+		  
+ <!-- button. -->
+		  		  
+<select name="amount" style="margin: 0px 0px 19px 0px;">
+<option selected value="10.00">Please Select Amount</option> 		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="25.00">$25.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+</select><br>
+	
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="0.5">Please Select Amount</option>
+<option value="0.5">$0.5</option>		    			
+<option value="0.10">$0.10</option>		    		
+<option value="0.50">$0.50</option>		    	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>	
+</select><br>
+	 <!-- button. -->
+	 </el-dialog>
+	 	  
+  </div>
 
 <!-- 
 <link rel="stylesheet" href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/Public/style.css">
