@@ -100,16 +100,13 @@
     <!-- Specify details about the contribution -->
     <input type="hidden" name="item_name" value="Friends of the Park">
     <input type="hidden" name="item_number" value="Fall Cleanup Campaign">
-    <input type="hidden" name="amount" value="5.00">
+    <input type="hidden" name="amount" value="0.00"> <!-- $5 - 5.00 -->
     <input type="hidden" name="currency_code" value="USD">
 		  
     <!-- Donate button. -->
  <!-- Donate button. -->
 
-	<select name="amount" style="margin: 0px 0px 50px 0px;">
-<option selected value="10.00">Please Select Amount $10 </option> 		    	
-<option selected value="5.00">Please Select Amount $5 </option> 		    	
-        </select><br>
+
 	  
   	  
  <!-- Display the payment button. -->
@@ -119,7 +116,28 @@
 <input class="btn btn-primary btn-lg" type="submit" value="Donate" alt="Donate">
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
 
-
+<select name="amount" style="margin: 11px 11px 11px 11px;">
+<option selected value="5.00">Please Select Amount</option>
+<option value="0.5">$0.5</option>		    			
+<option value="0.10">$0.10</option>		    		
+<option value="0.50">$0.50</option>		    	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="25.00">$25.00</option>
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>	
+</select><br>
 		  
 </form>
         
@@ -230,7 +248,10 @@
     <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">	
 		  
-
+	<select name="amount" style="margin: 0px 0px 50px 0px;">
+<option selected value="10.00">Please Select Amount $10 </option> 		    	
+<option selected value="5.00">Please Select Amount $5 </option> 		    	
+        </select><br>
 		  		  
 <select name="amount" style="margin: 0px 0px 19px 0px;">
 <option selected value="10.00">Please Select Amount</option> 		    	
