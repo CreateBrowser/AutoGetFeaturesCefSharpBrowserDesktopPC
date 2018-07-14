@@ -98,8 +98,15 @@
     <input type="hidden" name="currency_code" value="USD">
 
   <!-- Set variables that override the address stored with PayPal. -->  
-  <input type="hidden" name="email" value="mohamed.osama914@yahoo.com">
-	    
+	    <select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="05.00">Please Select Amount</option>
+<option value="05.00">$05.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="25.00">$25.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+</select><br>
+		  
     <!-- Display the payment button. -->
 
 <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
