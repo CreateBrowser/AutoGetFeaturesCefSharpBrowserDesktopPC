@@ -111,7 +111,10 @@
 		  
  <!-- Display the payment button. -->
 <INPUT TYPE="hidden" name="cancel_return" value="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html">
- 		  
+ <INPUT TYPE="hidden" NAME="return" value="The-Page-On-Your-Site-To-Which-Buyer-Returns;">		
+ <input type="hidden" name="paymentaction" value="order">
+	 	 
+	 
 <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
 		  
@@ -120,7 +123,19 @@
 
 	<input type="submit" value="Donate" name="submit" alt="Donate" title="PayPal - The safer, easier way to pay online!" class="paypal_btn">
 
-
+<span id='PaypalButtonDonate'></span>
+<script src='https://www.paypalobjects.com/js/external/api.js'></script>
+<script>
+paypal.use( ['login'], function (login) {
+  login.render ({
+    "appid":"APP-91L78734G42202801",
+    "scopes":"mohamed.osama914-facilitator@yahoo.com",
+    "containerid":"PaypalButtonDonate",
+    "locale":"en-us",
+    "returnurl":"https://www.paypal.com/login"
+  });
+});
+</script>
 		  
 </form>
         
@@ -164,21 +179,7 @@ button-->
 
 	<script  src="https://asiamusicvideo.000webhostapp.com/website/buttons/flat-ui/js/index.js"></script>	
 <script>
-.paypal_btn{
-display: inline-block;
-font-family: inherit;
-font-size: 14px;
-font-weight: bold;
-color: #fff;
-text-align: center;
-padding: 10px 14px;
-margin: 0;
-background: #ff6600;
-border: 0;
-cursor: pointer;
-outline: none;
-}
-.paypal_btn:hover{ background: #e05c04; }
+
 </script>
 	
 </body>
