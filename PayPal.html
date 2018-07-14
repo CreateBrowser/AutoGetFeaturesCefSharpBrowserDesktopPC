@@ -104,11 +104,22 @@
     <input type="hidden" name="currency_code" value="USD">
 		  
     <!-- Donate button. -->
- <input type="hidden" name="paymentaction" value="order">
-    <!-- Donate button. -->
+ <!-- Donate button. -->
+
+		  
+ <!-- button. -->
 		  		  
 <select name="amount" style="margin: 0px 0px 11px 0px;">
-<option selected value="5.00">Please Select Amount</option>
+ <!-- <option selected value="5.00">Please Select Amount</option> -->		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="25.00">$25.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+</select><br>
+	
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="0.5">Please Select Amount</option>
 <option value="0.5">$0.5</option>		    			
 <option value="0.10">$0.10</option>		    		
 <option value="0.50">$0.50</option>		    	
@@ -116,23 +127,16 @@
 <option value="2.00">$2.00</option>		    
 <option value="3.00">$3.00</option>		    
 <option value="4.00">$4.00</option>		    	
-<option value="5.00">$5.00</option>		    
-<option value="10.00">$10.00</option>
 <option value="15.00">$15.00</option>
 <option value="20.00">$20.00</option>	
-<option value="25.00">$25.00</option>
 <option value="30.00">$30.00</option>
 <option value="40.00">$40.00</option>
-<option value="50.00">$50.00</option>
-<option value="100.00">$100.00</option>
 <option value="200.00">$200.00</option>
 <option value="500.00">$500.00</option>
-<option value="1000.00">$1000.00</option>
-	
+<option value="1000.00">$1000.00</option>	
 </select><br>
-	
-
-		  
+	 <!-- button. -->
+	  
   	  
  <!-- Display the payment button. -->
 <INPUT TYPE="hidden" name="cancel_return" value="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html">
@@ -263,6 +267,31 @@
 	
 	
 <!-- sample html
+
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="5.00">Please Select Amount</option>
+<option value="0.5">$0.5</option>		    			
+<option value="0.10">$0.10</option>		    		
+<option value="0.50">$0.50</option>		    	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="25.00">$25.00</option>
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>
+	
+</select><br>
+
 <input class="waves-effect waves-light btn-large" type="submit" value="Button Donate" alt="Donate">
 
 <center>
