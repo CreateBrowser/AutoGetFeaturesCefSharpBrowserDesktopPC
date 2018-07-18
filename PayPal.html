@@ -87,78 +87,7 @@
     
     <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
     <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
-<???????>
-	     <div id="paypal-button-container"></div>
- <script>
-        paypal.Button.render({
 
-            env: 'sandbox', // sandbox | production
-
-
-        // Customize button (optional)
-       // locale: 'en_US',  
-        style: {
-        //    layout: 'horizontal',
-            layout: 'vertical',  // horizontal | vertical
-            size:  'medium',    // medium | large | responsive
-        //  size:  'responsive', // small | medium | large | responsive
-        //  shape: 'pill',   // pill | rect
-            shape: 'rect',      // pill | rect
-            color: 'gold'   // gold | blue | silver | black
-        },
-
-        // Specify allowed and disallowed funding sources
-        //
-        // Options:
-        // - paypal.FUNDING.CARD
-        // - paypal.FUNDING.CREDIT
-        // - paypal.FUNDING.ELV
-
-        funding: {
-            allowed: [ paypal.FUNDING.CARD, paypal.FUNDING.CREDIT ],
-            disallowed: [ ]
-        },
-
-
-            // PayPal Client IDs - replace with your own
-            // Create a PayPal app: https://developer.paypal.com/developer/applications/create
-            client: {
-                sandbox:    'ATK3XFCzAotZz6Ficv-BdS.QSjuAASxpQk.oaO6.x8d6loyRwTm9iOd1',
-                production: '<insert production client id>'
-            },
-
-            // Show the buyer a 'Pay Now' button in the checkout flow
-            commit: true,
-
-            // payment() is called when the button is clicked
-            payment: function(data, actions) {
-
-                // Make a call to the REST api to create the payment
-                return actions.payment.create({
-                    payment: {
-                        transactions: [
-                            {
-                                amount: { total: '5.00', currency: 'USD' }
-                            }
-                        ]
-                    }
-                });
-            },
-
-            // onAuthorize() is called when the buyer approves the payment
-            onAuthorize: function(data, actions) {
-
-                // Make a call to the REST api to execute the payment
-                return actions.payment.execute().then(function() {
-                    window.alert('Payment Complete!');
-                });
-            }
-
-        }, '#paypal-button-container');
-
-    </script>
-	    
-	</???????>    
 	    
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
@@ -318,6 +247,78 @@
 	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" title="How PayPal Works"  onclick="javascript:window.open('https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table> <!-- PayPal Logo -->
 </center>	
 
+	<???????>
+	     <div id="paypal-button-container"></div>
+ <script>
+        paypal.Button.render({
+
+            env: 'sandbox', // sandbox | production
+
+
+        // Customize button (optional)
+       // locale: 'en_US',  
+        style: {
+        //    layout: 'horizontal',
+            layout: 'vertical',  // horizontal | vertical
+            size:  'medium',    // medium | large | responsive
+        //  size:  'responsive', // small | medium | large | responsive
+        //  shape: 'pill',   // pill | rect
+            shape: 'rect',      // pill | rect
+            color: 'gold'   // gold | blue | silver | black
+        },
+
+        // Specify allowed and disallowed funding sources
+        //
+        // Options:
+        // - paypal.FUNDING.CARD
+        // - paypal.FUNDING.CREDIT
+        // - paypal.FUNDING.ELV
+
+        funding: {
+            allowed: [ paypal.FUNDING.CARD, paypal.FUNDING.CREDIT ],
+            disallowed: [ ]
+        },
+
+
+            // PayPal Client IDs - replace with your own
+            // Create a PayPal app: https://developer.paypal.com/developer/applications/create
+            client: {
+                sandbox:    'ATK3XFCzAotZz6Ficv-BdS.QSjuAASxpQk.oaO6.x8d6loyRwTm9iOd1',
+                production: '<insert production client id>'
+            },
+
+            // Show the buyer a 'Pay Now' button in the checkout flow
+            commit: true,
+
+            // payment() is called when the button is clicked
+            payment: function(data, actions) {
+
+                // Make a call to the REST api to create the payment
+                return actions.payment.create({
+                    payment: {
+                        transactions: [
+                            {
+                                amount: { total: '5.00', currency: 'USD' }
+                            }
+                        ]
+                    }
+                });
+            },
+
+            // onAuthorize() is called when the buyer approves the payment
+            onAuthorize: function(data, actions) {
+
+                // Make a call to the REST api to execute the payment
+                return actions.payment.execute().then(function() {
+                    window.alert('Payment Complete!');
+                });
+            }
+
+        }, '#paypal-button-container');
+
+    </script>
+	    
+	</???????>    
 	
 </html>
  <!--  
