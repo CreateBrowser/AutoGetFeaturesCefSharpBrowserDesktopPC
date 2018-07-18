@@ -114,12 +114,15 @@
   	  
  <!-- Display the payment button. -->
 <INPUT TYPE="hidden" name="cancel_return" value="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html">
-	 	 
+	 	
+	<div id="paypal-button1"></div>
+<div id="paypal-button2"></div>
+	
 <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png"  alt="Credit Card Badges">	
 <input class="btn btn-primary btn-lg" type="submit" value="Donate" alt="Donate">
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
 
-<select name="amount" style="margin: 50px 11px 11px 20px;">
+<select name="amount" style="margin: 70px 12px 11px 1px;">
 <option selected value="5.00">Please Select Amount</option>
 		    	<option value="1.00">$1.00</option>		    
 <option value="2.00">$2.00</option>		    
@@ -145,8 +148,7 @@
 	 	  
   </div>
 		
-  <div id="paypal-button1"></div>
-<div id="paypal-button2"></div>
+  
 		
 		
  </center>
@@ -178,51 +180,8 @@
 
 
 </body>
-	<script>
-    [
-        {
-            container: '#paypal-button1',
-            amount: '5.00',
-            currency: 'USD'
-        },
-
-        {
-            container: '#paypal-button2',
-            amount: '10.00',
-            currency: 'USD'
-        }
-
-    ].forEach(function(opts) {
-	    
-
-        paypal.Button.render({
-
-            env: 'sandbox',
-
-            client: {
-		  sandbox: 'ATK3XFCzAotZz6Ficv-BdS.QSjuAASxpQk.oaO6.x8d6loyRwTm9iOd1'
-
-            },
-
-            payment(data, actions) {
-                return actions.payment.create({
-                    payment: {
-                        transactions: [
-                            {
-                                amount: { total: opts.amount, currency: opts.currency }
-                            }
-                        ]
-                    }
-                });
-            },
-            
-            onAuthorize() {
-
-            }
-            
-        }, opts.container);
-    });
-</script>
+	
+	
  
 
 		
