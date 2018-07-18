@@ -255,10 +255,12 @@
 	<???????>
 	     <div id="paypal-button-container"></div>
  <script>
-        paypal.Button.render({
+       paypal.Button.render({
 
             env: 'sandbox', // sandbox | production
 
+            // Show the buyer a 'Pay Now' button in the checkout flow
+            commit: true,
 
         // Customize button (optional)
        // locale: 'en_US',  
