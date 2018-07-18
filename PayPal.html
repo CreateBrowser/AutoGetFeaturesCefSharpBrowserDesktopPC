@@ -192,13 +192,15 @@
         }
 
     ].forEach(function(opts) {
+	    
+////	      payment: function (data, actions) { /////
+
 
         paypal.Button.render({
 
             env: 'sandbox',
 
             client: {
-              //  sandbox:    'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4eYXlewfBP4-8aqX3PiV8e1GWU6liB2CUXlkA59kJXE7M6R'
 		  sandbox:    'ATK3XFCzAotZz6Ficv-BdS.QSjuAASxpQk.oaO6.x8d6loyRwTm9iOd1'
 
             },
@@ -294,22 +296,6 @@
 	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" title="How PayPal Works"  onclick="javascript:window.open('https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table> <!-- PayPal Logo -->
 </center>	
 
-	
-	
-</html>
-	
-
-<html>
-
-<head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
-</head>
-
-<body>
-    <div id="paypal-button-container"></div>
-
     <script>
         paypal.Button.render({
 
@@ -317,7 +303,8 @@
 
             // Show the buyer a 'Pay Now' button in the checkout flow
             commit: true,
-    // Customize button (optional)
+    // Customize button (optional)               //  sandbox:    'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4eYXlewfBP4-8aqX3PiV8e1GWU6liB2CUXlkA59kJXE7M6R'
+
        // locale: 'en_US',  
         style: {
         //    layout: 'horizontal',
@@ -343,40 +330,12 @@
 
             // payment() is called when the button is clicked
             payment: function() {
+</script>
+	
+	
+</html>
+	
 
-                // Set up a url on your server to create the payment
-                var CREATE_URL = '/demo/checkout/api/paypal/payment/create/';
-
-                // Make a call to your server to set up the payment
-                return paypal.request.post(CREATE_URL)
-                    .then(function(res) {
-                        return res.paymentID;
-                    });
-            },
-
-            // onAuthorize() is called when the buyer approves the payment
-            onAuthorize: function(data, actions) {
-
-                // Set up a url on your server to execute the payment
-                var EXECUTE_URL = '/demo/checkout/api/paypal/payment/execute/';
-
-                // Set up the data you need to pass to your server
-                var data = {
-                    paymentID: data.paymentID,
-                    payerID: data.payerID
-                };
-
-                // Make a call to your server to execute the payment
-                return paypal.request.post(EXECUTE_URL, data)
-                    .then(function (res) {
-                        window.alert('Payment Complete!');
-                    });
-            }
-
-        }, '#paypal-button-container');
-    </script>
-</body>
-    </html>	
 	
 	
 	
