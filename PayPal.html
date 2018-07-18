@@ -251,7 +251,7 @@
 </html>
 	
 
-<!DOCTYPE html>
+<html>
 
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -332,77 +332,6 @@
 	
 	
 	
-	<???????>
-	     <div id="paypal-button-container"></div>
- <script>
-       paypal.Button.render({
-
-            env: 'sandbox', // sandbox | production
-
-            // Show the buyer a 'Pay Now' button in the checkout flow
-            commit: true,
-
-        // Customize button (optional)
-       // locale: 'en_US',  
-        style: {
-        //    layout: 'horizontal',
-            layout: 'vertical',  // horizontal | vertical
-            size:  'medium',    // medium | large | responsive
-        //  size:  'responsive', // small | medium | large | responsive
-        //  shape: 'pill',   // pill | rect
-            shape: 'rect',      // pill | rect
-            color: 'gold'   // gold | blue | silver | black
-        },
-
-        // Specify allowed and disallowed funding sources
-        //
-        // Options:
-        // - paypal.FUNDING.CARD
-        // - paypal.FUNDING.CREDIT
-        // - paypal.FUNDING.ELV
-
-        funding: {
-            allowed: [ paypal.FUNDING.CARD, paypal.FUNDING.CREDIT ],
-            disallowed: [ ]
-        },
-
-  payment: function() {
-
-                // Set up a url on your server to create the payment
-                var CREATE_URL = '/demo/checkout/api/paypal/payment/create/';
-
-                // Make a call to your server to set up the payment
-                return paypal.request.post(CREATE_URL)
-                    .then(function(res) {
-                        return res.paymentID;
-                    });
-            },
-
-            // onAuthorize() is called when the buyer approves the payment
-            onAuthorize: function(data, actions) {
-
-                // Set up a url on your server to execute the payment
-                var EXECUTE_URL = '/demo/checkout/api/paypal/payment/execute/';
-
-                // Set up the data you need to pass to your server
-                var data = {
-                    paymentID: data.paymentID,
-                    payerID: data.payerID
-                };
-
-                // Make a call to your server to execute the payment
-                return paypal.request.post(EXECUTE_URL, data)
-                    .then(function (res) {
-                        window.alert('Payment Complete!');
-                    });
-            }
-
-        }, '#paypal-button-container');
-      
-		
-    </script>
-	    
-	</???????>    
 	
  <!--  
 <div id="app">
