@@ -2,7 +2,7 @@
 ###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
 
-## Basic for PayPal Payments Standard Donate 
+##  PayPal Payments Standard Donate 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html)
