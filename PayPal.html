@@ -57,7 +57,18 @@
 	
 </head>
 <body>
-		
+
+	
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>	
+	
 <hgroup>
 </hgroup>
 	
@@ -121,6 +132,7 @@
 
 <select name="amount" style="margin: 0px 80px 0px 0px;">
 <option selected value="5.00">Please Select Amount</option>
+	
 		    	<option value="1.00">$1.00</option>		    
 <option value="2.00">$2.00</option>		    
 <option value="3.00">$3.00</option>		    
@@ -137,6 +149,7 @@
 <option value="200.00">$200.00</option>
 <option value="500.00">$500.00</option>
 <option value="1000.00">$1000.00</option>	
+<option value="5000.00">$5000.00</option>	
 </select><br>
 
 	<img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png"  alt="Credit Card Badges">	
