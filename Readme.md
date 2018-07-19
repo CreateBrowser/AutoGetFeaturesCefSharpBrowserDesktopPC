@@ -2,7 +2,12 @@
 ###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
 
-[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html)
+## Basic for PayPal Payments Standard Donate 
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
+
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html)
+
+
 
 
 # C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
