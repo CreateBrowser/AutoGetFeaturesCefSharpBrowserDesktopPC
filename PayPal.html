@@ -18,62 +18,10 @@
 	
 <style>
 body {
- 
-}
+ }
 
 /* The laptop with borders */
-.laptop {
-  -webkit-transform-origin: 0 0;
-  transform-origin: 0 0;
-  -webkit-transform: scale(.6) translate(-50%); /* Scaled down for a better Try-it experience (change to 1 for full scale) */
-  transform: scale(.6) translate(-50%); /* Scaled down for a better Try-it experience (change to 1 for full scale) */
-  left: 50%;
-  position: absolute;
-  width: 1366px;
-  height: 800px;
-  border-radius: 6px;
-  border-style: solid;
-  border-color: black;
-  border-width: 24px 24px 80px;
-  background-color: black;
 
-}
-
-/* The keyboard of the laptop */
-.laptop:after {
-  content: '';
-  display: block;
-  position: absolute;
-  width: 1600px;
-  height: 60px;
-  margin: 80px 0 0 -110px;
-  background: black;
-  border-radius: 6px;
-}
-
-/* The top of the keyboard */
-.laptop:before {
-  content: '';
-  display: block;
-  position: absolute;
-  width: 250px;
-  height: 30px;
-  bottom: -110px;
-  left: 50%;
-  -webkit-transform: translate(-50%);
-  transform: translate(-50%);
-  background: #f1f1f1;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
-  z-index: 1;
-}
-
-/* The screen (or content) of the device */
-.laptop .content {
-  width: 1366px;
-  height: 800px;
-  overflow: hidden;
-  border: none;
 }
 </style>	
 	
@@ -117,9 +65,9 @@ body {
 	
 </head>
 <body>
-
-<div class="laptop">
-  <div class="content">
+ <div class="topnav-centered">
+    <a href="#home" class="active">Home</a>
+  </div>
 
 
 <script type="text/javascript">
@@ -320,8 +268,6 @@ new google.translate.TranslateElement({pageLanguage: 'en-gb'}, 'google_translate
 
 	
 	
-	</div>
-</div>	
       
 
 <center>	
