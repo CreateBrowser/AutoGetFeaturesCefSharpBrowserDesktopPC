@@ -58,7 +58,15 @@
 </head>
 <body>
 
-	
+	<script>
+function myMap() {
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {
+    center: new google.maps.LatLng(51.5, -0.2), zoom: 10
+  };
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+}
+</script>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
@@ -255,11 +263,13 @@ new google.translate.TranslateElement({pageLanguage: 'en-gb'}, 'google_translate
   }
 </style>
 
+	
+	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
 
-
-	 
 <center>	
 	<div id="google_translate_element"></div>
+        <div id="map" style="width:100%;height:400px;"></div>
 
 	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" title="How PayPal Works"  onclick="javascript:window.open('https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table> <!-- PayPal Logo -->
 </center>	
