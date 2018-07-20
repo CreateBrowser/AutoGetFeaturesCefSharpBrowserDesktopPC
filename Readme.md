@@ -10,7 +10,7 @@
 
 
 
-# C# A Fast CefSharp Chromium Browser Desktop PC :1st_place_medal:
+# C# A Fast CefSharp Chromium Browser Desktop PC
 ***
  # **``The Prerequisites are Required: ``**
 > ## ```Microsoft Windows 8.1 and 10 OS Desktop```
@@ -69,7 +69,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
   
  [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
->  #  NuGet CefSharp version: 65.0.0-pre01 
+>  #  :1st_place_medal: NuGet CefSharp version: 65.0.0-pre01 
 
 > ##### ``[cef.redist.x86 at NuGet]``
 >     Install-Package CefSharp cef.redist.x86 version="3.3325.1758"
