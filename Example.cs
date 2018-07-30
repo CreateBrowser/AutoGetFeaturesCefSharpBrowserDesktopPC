@@ -5,6 +5,27 @@ Group Custom Path Configuration Desktop PC
 
 Start the browser after initialize global component CefSharp v65.0.0-pre01
 
+namespace Done
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            byte[] bytes = { 0x00, 0x55, 0, 0x86 };
+
+            // If the system architecture is little-endian (that is, little end first), 
+            // reverse the byte array. 
+            if (BitConverter.IsLittleEndian)
+                Array.Reverse(bytes);
+
+            UInt16 i = BitConverter.ToUInt16(bytes, 0);
+            
+        }
+
 /* <startup> <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7" /> </startup>*/
 
 
