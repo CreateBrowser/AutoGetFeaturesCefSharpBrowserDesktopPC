@@ -4,27 +4,12 @@ Application Settings System
 Group Custom Path Configuration Desktop PC 
 
 Start the browser after initialize global component CefSharp v65.0.0-pre01
-"GO"|GO|
-namespace Done
-{
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow()
-        {
-            InitializeComponent();
-            byte[] bytes = { 0x00, 0x55, 0, 0x86 };
+"GO"
 
-            // If the system architecture is little-endian (that is, little end first), 
-            // reverse the byte array. 
-            if (BitConverter.IsLittleEndian)
-                Array.Reverse(bytes);
+\\\\\\\\\\\\\\\
 
-            UInt16 i = BitConverter.ToUInt16(bytes, 0);
-            
-        }
+|GO|
+       
 
 /* <startup> <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7" /> </startup>*/
 
@@ -478,3 +463,55 @@ namespace Example
         }
     }
         <cs> |
+            
+            
+            
+            <cs>|
+ <Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Done"
+        xmlns:ControlzEx="clr-namespace:ControlzEx;assembly=MaterialDesignThemes.Wpf" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Done.MainWindow"
+        mc:Ignorable="d"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="251*"/>
+            <ColumnDefinition Width="71*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="55" Margin="57,47,0,0" VerticalAlignment="Top" Width="141"/>
+
+    </Grid>
+
+</Window>
+
+<cs>
+
+<cs>
+    
+namespace Done
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            byte[] bytes = { 0x00, 0x55, 0, 0x86 };
+
+            // If the system architecture is little-endian (that is, little end first), 
+            // reverse the byte array. 
+            if (BitConverter.IsLittleEndian)
+                Array.Reverse(bytes);
+
+            UInt16 i = BitConverter.ToUInt16(bytes, 0);
+            
+        }            
+            |</cs>
+            
+            
