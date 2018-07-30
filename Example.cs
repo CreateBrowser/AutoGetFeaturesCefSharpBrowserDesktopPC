@@ -4,7 +4,7 @@ Application Settings System
 Group Custom Path Configuration Desktop PC 
 
 Start the browser after initialize global component CefSharp v65.0.0-pre01
-
+"GO"|GO|
 namespace Done
 {
     /// <summary>
