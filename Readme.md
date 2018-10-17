@@ -54,51 +54,48 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
 | [master](https://github.com/cefsharp/CefSharp/)                      | 3497 | 2015 | 4.5.2 & 4.7 | Development     |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#) | 3500 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/@](https://github.com/cefsharp/CefSharp/tree/cefsharp/#) | 3500 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3500 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/69](https://github.com/cefsharp/CefSharp/tree/cefsharp/69) | 3497 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/67](https://github.com/cefsharp/CefSharp/tree/cefsharp/67) | 3396 | 2015 | 4.5.2 / 4.7 | **Release** |
 | [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | Unsupported |
-| [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | Unsupported  |
+| [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | Unsupported |
 
 ***
 
 
 
+
+# Get :1st_place_medal: `CefSharp version: 69.0.0-CI2804`
+- [![MyGet Pre Release](https://camo.githubusercontent.com/cd8f9fd3b32ec2bb980800b6f6ed89e8d7bc0daa/68747470733a2f2f696d672e736869656c64732e696f2f6d796765742f63656673686172702f762f43656653686172702e57696e466f726d732e7376673f7374796c653d666c6174266c6162656c3d57696e466f726d73)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
+***
+
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/69.0.0-CI2804)
+
+> # Some Screenshots
+  
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://user-images.githubusercontent.com/12082147/47089554-641a5080-d221-11e8-97e6-613dd60168eb.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
 
- 
+
+*** 
+# `CefSharp version: 65.0.0-pre01`
+>  #  :1st_place_medal: NuGet CefSharp version: 65.0.0-pre01 
+- [![MyGet Pre Release](https://camo.githubusercontent.com/cd8f9fd3b32ec2bb980800b6f6ed89e8d7bc0daa/68747470733a2f2f696d672e736869656c64732e696f2f6d796765742f63656673686172702f762f43656653686172702e57696e466f726d732e7376673f7374796c653d666c6174266c6162656c3d57696e466f726d73)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
+***
+
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v65.0.0-pre01)
 
 > # Some Screenshots
   
  [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
->  #  :1st_place_medal: NuGet CefSharp version: 65.0.0-pre01 
-
-> ##### ``[cef.redist.x86 at NuGet]``
->     Install-Package CefSharp cef.redist.x86 version="3.3325.1758"
-    
-> ##### ``[cef.redist.x64 at NuGet]``
->     Install-Package CefSharp cef.redist.x64 version="3.3325.1758"
-        
-> ##### ``[CefSharp.Common at NuGet]``
->     Install-Package CefSharp.Common version="65.0.0-pre01"
-    
-> ##### ``[CefSharp.WinForms at NuGet]``
->     Install-Package CefSharp.WinForms version="65.0.0-pre01"
-    
-> ##### ``[MaterialSkin at NuGet]``
->     Install-Package MaterialSkin version="0.2.1"
-    
-> ##### ``[MetroFramework.Design at NuGet]``
->     Install-Package MetroFramework.Design version="1.2.0.3"
-    
-> ##### ``[MetroFramework.RunTime at NuGet]``
->     Install-Package MetroFramework.RunTime version="1.2.0.3"
-
-> ##### ``Delete NuGet Install-Package [Newtonsoft.Json] version="11.0.2" ``
 
  *** 
-  ***
+  # `CefSharp version: 63.0.3`
+>  #  NuGet CefSharp version: 63.0.3 
+
+***
+  
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v63.0.3)
 
 > # Some Screenshots
