@@ -79,7 +79,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 *** 
 >  # :1st_place_medal: `CefSharp version: 65.0.0-pre01`
-- [![MyGet Pre Release](https://camo.githubusercontent.com/cd8f9fd3b32ec2bb980800b6f6ed89e8d7bc0daa/68747470733a2f2f696d672e736869656c64732e696f2f6d796765742f63656673686172702f762f43656653686172702e57696e466f726d732e7376673f7374796c653d666c6174266c6162656c3d57696e466f726d73)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
 ***
 
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v65.0.0-pre01)
@@ -91,7 +90,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
  *** 
 >  ### :1st_place_medal: `CefSharp version: 63.0.3` 
-
 ***
   
  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v63.0.3)
