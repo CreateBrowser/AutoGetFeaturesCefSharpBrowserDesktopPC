@@ -3,19 +3,20 @@
 
 ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
 
+---
+ Say thanks!
+---
+If this project helped you save time, headaches, or push the boundaries of earth, I do appreciate a coffee as thanks! :smiley:. You may buy me one here, should you wish:
+
+[![Donate-PayPal](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/MohamedOsama914)
+
+---
+
 ##  PayPal Payments Standard Donate 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/PayPal.html)
 
-
-
-Say thanks!
----
-
-If this project helped you save time, headaches, or push the boundaries of earth, I do appreciate a coffee as thanks! :smiley:. You may buy me one here, should you wish:
-
-[![Donate-PayPal](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/MohamedOsama914)
 
 
 
