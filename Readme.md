@@ -70,12 +70,27 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | Unsupported |
 
+
 ***
 
+>  # Get :1st_place_medal: `CefSharp version: 69.0.0-pre01`
+- [![CefSharp.WinForms](http://img.shields.io/nuget/vpre/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
+***
+
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/69.0.0-pre01)
 
 
 
->  # Get :1st_place_medal: `CefSharp version: 69.0.0-CI2804`
+> # Some Screenshots
+  
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://user-images.githubusercontent.com/12082147/47089554-641a5080-d221-11e8-97e6-613dd60168eb.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+
+
+----
+# Get *:1st_place_medal:*
+****
+ 
+>  # `CefSharp version: 69.0.0-CI2804`
 - [![MyGet Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
 ***
 
