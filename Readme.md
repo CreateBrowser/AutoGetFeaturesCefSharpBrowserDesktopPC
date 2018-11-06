@@ -83,7 +83,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > # Some Screenshots
   
- [![Build A Fast New Chromium Browser Downloader CefSharp version: 69.0.0-pre01](https://user-images.githubusercontent.com//.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+ [![Build A Fast New Chromium Browser Downloader CefSharp version: 69.0.0-pre01](https://user-images.githubusercontent.com/12082147/48042689-7259ed80-e18b-11e8-9b08-acbe144972b2.PNG)](http://paypal.me/MohamedOsama914/5)
 
 
 
