@@ -74,7 +74,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 >  # Get :1st_place_medal: `CefSharp version: 69.0.0-pre01`
-- [![CefSharp.WinForms](http://img.shields.io/nuget/vpre/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
+ [![ Get Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v69.0.0-pre01.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
+
 ***
 
   [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v69.0.0-pre01)
@@ -92,7 +93,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ****
  
 >  # `CefSharp version: 69.0.0-CI2804`
-- [![MyGet Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
+ [![MyGet Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v69.0.0-CI2804.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
 ***
 
   [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/69.0.0-CI2804)
