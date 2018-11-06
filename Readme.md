@@ -77,13 +77,14 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 - [![CefSharp.WinForms](http://img.shields.io/nuget/vpre/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
 ***
 
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/69.0.0-pre01)
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v69.0.0-pre01)
 
 
 
 > # Some Screenshots
   
  [![Build A Fast New Chromium Browser Downloader CefSharp version: 69.0.0-pre01](https://user-images.githubusercontent.com//.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+
 
 
 ----
