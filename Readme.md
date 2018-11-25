@@ -1,6 +1,6 @@
 
 ###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
-### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
+### **Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser**
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8581ada1d2554db3b015ff1fe49a7a68)](https://app.codacy.com/app/MohamedOsama914/ACefSharpChromiumBrowserNewWindowsDesktopPC?utm_source=github.com&utm_medium=referral&utm_content=CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC&utm_campaign=Badge_Grade_Settings)
 ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
