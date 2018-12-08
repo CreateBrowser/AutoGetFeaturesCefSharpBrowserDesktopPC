@@ -38,10 +38,7 @@ If this project helped you save time, headaches, or push the boundaries of earth
 
 [![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
-# [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
-
-
-(https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master)
+# [![Build Status](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
 
 ***
 ### Releases
