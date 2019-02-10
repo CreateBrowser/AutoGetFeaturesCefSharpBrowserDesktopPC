@@ -17,19 +17,6 @@ Start the browser after initialize global component CefSharp v65.0.0-pre01
 \\\\\\\\\\\\\\\
 
 
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
-
-
 
 |GO|
        
@@ -538,3 +525,18 @@ namespace Done
             |</cs>
             
             
+             
+             
+
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+<cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
+
