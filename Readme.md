@@ -29,7 +29,6 @@ If this project helped you save time, headaches, or push the boundaries of earth
 > ## ```Microsoft Visual Studio 2015 Update 3```
 > ## ```Microsoft .NET Framework 4.7```
 > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
-> ## ```Microsoft Visual C++ 2013 (86-bit)X(64-bit)```
 
 ***
 > # Create C# Visual Studio `2017 & 2015` (64-bit X 32-bit) 
@@ -64,10 +63,19 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
-| [master](https://github.com/cefsharp/CefSharp/)                      | 3538 | 2015 | 4.5.2 & 4.7 | Development     |
+| [master](https://github.com/cefsharp/CefSharp/)                      | 3578 | 2015 | 4.5.2 & 4.7 | Development     |
+| [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 | **Release** |
+
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/69](https://github.com/cefsharp/CefSharp/tree/cefsharp/69) | 3497 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+
+
+| Branch -         Unsupported                                         | CEF Version | VC++ Version | .Net Version | Status |
+|----------------------------------------------------------------------|------|------|-------|-----------------|
+| [cefsharp/69](https://github.com/cefsharp/CefSharp/tree/cefsharp/69) | 3497 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/67](https://github.com/cefsharp/CefSharp/tree/cefsharp/67) | 3396 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | Unsupported |
