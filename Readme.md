@@ -94,11 +94,10 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > # Some Screenshots
   
- [![Build A Fast New Chromium Browser Downloader About CefSharp version: 71.0.2 (71.0.3578.98)](https://user-images.githubusercontent.com/12082147/54443200-d0ee3400-4748-11e9-90ac-72fbe7b69284.png)](http://paypal.me/MohamedOsama914/5)
- 
   [![Build A Fast New Chromium Browser Downloader CefSharp version: 71.0.2 (71.0.3578.98)](https://user-images.githubusercontent.com/12082147/54443201-d0ee3400-4748-11e9-9ba8-0acf1b7d5902.PNG)](http://paypal.me/MohamedOsama914/5)
 
- 
+ [![Build A Fast New Chromium Browser Downloader About CefSharp version: 71.0.2 (71.0.3578.98)](https://user-images.githubusercontent.com/12082147/54443200-d0ee3400-4748-11e9-90ac-72fbe7b69284.png)](http://paypal.me/MohamedOsama914/5)
+  
 ***
 
 >  # Get :1st_place_medal: `CefSharp version: 69.0.0-pre01`
