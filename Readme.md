@@ -84,7 +84,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 ***
 
->  # Get :1st_place_medal: `CefSharp version: 73.1.120-pre01`
+>  ## Get :1st_place_medal: `CefSharp version: 73.1.120-pre01 (73.0.3683.75)`
  [![ Get Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v73.1.120-pre01.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/73.1.120-pre01)
 
 ***
