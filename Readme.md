@@ -63,16 +63,16 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
-| [master](https://github.com/cefsharp/CefSharp/)                      | 3578 | 2015 | 4.5.2 & 4.7 | Development     |
-| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development     |
+| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 |   **Release**   |
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3600 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 
 
 | Branch              **Unsupported**                                | CEF Version | VC++ Version | .Net Version | Status |
