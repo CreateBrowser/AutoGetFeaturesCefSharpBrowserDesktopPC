@@ -94,9 +94,9 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > # Some Screenshots
   
-![CefSharp Version 73 0 3683 75](https://user-images.githubusercontent.com/12082147/56592614-54722f00-65eb-11e9-9204-210194a935ad.PNG)] (http://paypal.me/MohamedOsama914/5)
+[![CefSharp Version 73 0 3683 75](https://user-images.githubusercontent.com/12082147/56592614-54722f00-65eb-11e9-9204-210194a935ad.PNG)](http://paypal.me/MohamedOsama914/5)
   
-![About CefSharp Version 73 0 3683 75 ](https://user-images.githubusercontent.com/12082147/56592613-53d99880-65eb-11e9-85f8-78231696bcf0.png)](http://paypal.me/MohamedOsama914/5)
+ [![About CefSharp Version 73 0 3683 75 ](https://user-images.githubusercontent.com/12082147/56592613-53d99880-65eb-11e9-85f8-78231696bcf0.png)](http://paypal.me/MohamedOsama914/5)
    
 ***
 
