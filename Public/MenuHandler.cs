@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CefSharp;
 
-namespace Example.Handler
+namespace ChromiumApplication.Main.Handler.MainHandler.Example
 {
     internal class MenuHandler : IContextMenuHandler
     {
@@ -268,7 +268,6 @@ namespace Example.Handler
 
                 return true;
             }
-
 
 
             return false;
