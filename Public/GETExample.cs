@@ -1,15 +1,18 @@
-﻿using System;
+using CefSharp;
+     ///
+/// Get  
+   ///
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ChromiumApplication.Main.Proxy;
+using Example.Proxy;
 using CefSharp.SchemeHandler;
-using ChromiumApplication.Properties;
-using CefSharp;
+using Example.Properties;
 using System.Diagnostics;
 
-namespace ChromiumApplication.Main
+namespace Example.Handler.Extension
 {
     public static class GETExample
     {
