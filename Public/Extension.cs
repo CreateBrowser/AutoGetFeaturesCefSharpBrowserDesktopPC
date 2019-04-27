@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CefSharp;
 
-namespace ChromiumApplication.Main.Handler.Extension
+namespace Example.Handler.Extension
 {
     public class Extension : IExtension
     {
@@ -70,7 +70,7 @@ namespace ChromiumApplication.Main.Handler.Extension
 
         public void Unload()
         {
-            return;
+           /// return;
             // throw new NotImplementedException();
         }
     }
