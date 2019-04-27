@@ -17,9 +17,9 @@ If this project helped you save time, headaches, or push the boundaries of earth
 ---
 
 ##  PayPal Payments Standard Donate 
-[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
 
-[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/PayPal.html)
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
 
 > ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
@@ -36,9 +36,9 @@ If this project helped you save time, headaches, or push the boundaries of earth
 
 > ## Logo Screenshots 
 
-[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
-# [![Build Status](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
+# [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
 
 ***
 ### Releases
@@ -86,11 +86,11 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 >  ## Get :1st_place_medal: `CefSharp version: 73.1.120-pre01 (73.0.3683.75)`
- [![ Get Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v73.1.120-pre01.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/73.1.120-pre01)
+ [![ Get Pre Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v73.1.120-pre01.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/73.1.120-pre01)
 
 ***
 
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v73.1.120-pre01)
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v73.1.120-pre01)
 
 
 > # Some Screenshots
@@ -163,10 +163,10 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 >  ### :1st_place_medal: `CefSharp version: 63.0.3` 
 ***
   
- [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v63.0.3)
+ [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v63.0.3)
 
 > # Some Screenshots
-[![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Applications.png)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+[![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Applications.png)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
 
 >  # NuGet CefSharp version: 63.0.3
  
