@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using CefSharp;
 
-namespace ChromiumApplication.Main.Handler.Example
+namespace Example.Handler
 {
     public class RequestContext : IRequestContext
     {
@@ -159,9 +159,9 @@ namespace ChromiumApplication.Main.Handler.Example
         }
 
         public void LoadExtension(string rootDirectory, string manifestJson, IExtensionHandler handler)
-        {
-
-              ///          return;
+        { 
+        
+             return;
 
             //    bool manifest = false;       
 
