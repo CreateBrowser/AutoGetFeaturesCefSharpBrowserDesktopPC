@@ -102,11 +102,11 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 >  # Get :1st_place_medal: `CefSharp version: 71.0.2 (71.0.3578.98)`
- [![ Get Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v71.0.2.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/71.0.2)
+ [![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v71.0.2.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/71.0.2)
 
 ***
 
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v71.0.2)
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v71.0.2)
 
 
 > # Some Screenshots
@@ -118,11 +118,11 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 >  # Get :1st_place_medal: `CefSharp version: 69.0.0-pre01`
- [![ Get Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v69.0.0-pre01.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
+ [![ Get Pre Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v69.0.0-pre01.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/69.0.0-pre01)
 
 ***
 
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v69.0.0-pre01)
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v69.0.0-pre01)
 
 
 
@@ -137,10 +137,10 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ****
  
 >  # `CefSharp version: 69.0.0-CI2804`
- [![MyGet Pre Release](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/Public/CefSharp.WinForms.v69.0.0-CI2804.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
+ [![MyGet Pre Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v69.0.0-CI2804.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
 ***
 
-  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/69.0.0-CI2804)
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/69.0.0-CI2804)
 
 > # Some Screenshots
   
@@ -152,11 +152,11 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 >  # :1st_place_medal: `CefSharp version: 65.0.0-pre01`
 ***
 
- [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v65.0.0-pre01)
+ [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v65.0.0-pre01)
 
 > # Some Screenshots
   
- [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
  
 
  *** 
@@ -202,7 +202,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
     
 *** 
 
- ####  <p><img src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>      
+ ####  <p><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Chromium.ico" alt="https://chromium.woolyss.com/download/" get="Chromium for .NET" width="100" height="100" /></p>      
 
 > **If you have a question, ask it on [StackOverflow](http://stackoverflow.com/questions/tagged/cefsharp) or use [ceforum](http://magpcss.org/ceforum/) (for questions specific to CEF).**
 
