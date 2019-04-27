@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CefSharp;
-
-namespace ChromiumApplication.Main.Handler.Extension
+ 
+namespace Example.Handler.Extension
 {
     public class ExtensionHandler : IExtensionHandler
     {
@@ -56,14 +56,9 @@ namespace ChromiumApplication.Main.Handler.Extension
 
         bool IExtensionHandler.OnBeforeBrowser(IExtension extension, IBrowser browser, IBrowser activeBrowser, int index, string url, bool active, IWindowInfo windowInfo, IBrowserSettings settings)
         {
-
-
-            // return false;
+             ///  return false;
             ///
-            /// 
-            /// https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en
-            /// 
-            /// chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn
+            ///             
             ///
              return true;
         }
@@ -106,7 +101,7 @@ namespace ChromiumApplication.Main.Handler.Extension
 
         void IExtensionHandler.OnExtensionUnloaded(IExtension extension)
         {
-            return;
+          ///  return;
 
         }
     }
