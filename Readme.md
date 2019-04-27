@@ -217,12 +217,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > **c# Cefsharp winforms TabControl - how to get BookmarksForm + Add link Bookmark**
 
-> **c# Cefsharp winforms - how to get Cookie + CachePath**
-
-> ### **Custom System Menu | MyCustomChromeDevToolsSystemMenu**
-
 > **c# Cefsharp winforms - how to get SystemMenu + ChromeDevToolsSystemMenu**
 
-> ### **Custom Menu Handler | MyCustomMenuHandler**
-
-> **c# Cefsharp Winforms TabControl - how to get Save Download image + Save As Downloading image**
+> ### **Custom System Menu | MyCustomChromeDevToolsSystemMenu**
