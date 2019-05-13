@@ -1,7 +1,7 @@
 
 ###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 ### **Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser**
-C# NEW Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt + :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
+C# Standard Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt + :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
 [![ BuildNewGitHub ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/BuildNewGitHub.png)](http://paypal.me/MohamedOsama914/5)
 
@@ -246,6 +246,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 Example Custom Desktop Project C# CefSharp Version A Example Auto Get Fast Chromium Web Browser for Windows Desktop PC  :1st_place_medal: :new:  :zap:    :heavy_dollar_sign:  :egypt: Egypt + :cn: Chinese  :+1:  :no_entry_sign:
 ***
+
+C# NEW Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt + :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
 *** 
 Example Custom Desktop Project C# CefSharp Version A Example Auto Get Fast Chromium Web Browser for Windows Desktop PC  :1st_place_medal:   :egypt: Egypt & :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
