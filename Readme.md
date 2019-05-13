@@ -12,17 +12,6 @@
 ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
 
 ---
- Say thanks!
----
-If this project helped you save time, headaches, or push the boundaries of earth, I do appreciate a coffee as thanks! :smiley:. You may buy me one here, should you wish:
-
-[![Donate-PayPal](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/MohamedOsama914)
-
-> # Auto Get Features CefSharp Browser Desktop PC
-> ###### A CefSharp Chromium Browser New Windows Desktop PC
-> #### A Features Example Auto Get Fast Browser Desktop PC
-
----
 
 ##  PayPal Payments Standard Donate 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
