@@ -70,10 +70,10 @@ Every commit on `master` produces a `Nuget` package. Use at your own risk!
 With each release a new branch is created, for example the `63.0.3` release corresponds to the `cefsharp/63` branch.
 If you're new to `CefSharp` and are downloading the source to check it out, please use a **Release** branch
 
-| CefSharp.WinForms | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status | 
+| CefSharp.WinForms | Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
- |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) | [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development   | 
- |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
+ |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) | [master](https://github.com/cefsharp/CefSharp/) | 3683 | 2015 | 4.5.2 & 4.7 | Development   | 
+| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
