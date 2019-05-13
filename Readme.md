@@ -70,11 +70,10 @@ Every commit on `master` produces a `Nuget` package. Use at your own risk!
 With each release a new branch is created, for example the `63.0.3` release corresponds to the `cefsharp/63` branch.
 If you're new to `CefSharp` and are downloading the source to check it out, please use a **Release** branch
 
-| Branch                                                               | CEF Version | VC++ Version | .Net Version | Status |
-|----------------------------------------------------------------------|------|------|-------|-----------------|
-| [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development     |
-| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 |   **Release**   |
+| Branch                                                               | CEF Version | VC++ Version | .Net Version | Status | CefSharp.WinForms |
+|----------------------------------------------------------------------|------|------|-------|-----------------|-------|
+| [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development     | WinForms v73.1.130  |
+| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** | WinForms v73.1.130  |
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
@@ -86,6 +85,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 | Branch              **Unsupported**                                | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
+| [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 |   Unsupported   |
 | [cefsharp/69](https://github.com/cefsharp/CefSharp/tree/cefsharp/69) | 3497 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/67](https://github.com/cefsharp/CefSharp/tree/cefsharp/67) | 3396 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | Unsupported |
