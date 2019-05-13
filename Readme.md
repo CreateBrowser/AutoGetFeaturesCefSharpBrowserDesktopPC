@@ -43,11 +43,11 @@ If this project helped you save time, headaches, or push the boundaries of earth
 > ###### **Create C# Visual Studio** (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
 
  
-| **Preview** | **Visual Studio**                   |  **Version** |  
-|-------------------------------------|--------------|-------|
-| Old | [Visual Studio Version 2015]() | **2015** |   
-| Old | [Visual Studio Version 2017]() | **2017** |   
-| New | [Visual Studio Version 2019](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
+| **Preview** | **Visual Studio**      |  **Version** |  
+|-------------|------------------------|--------------|
+| Auto | Visual Studio Version    | **2015**     |   
+| Auto | Visual Studio Version    | **2017**     |   
+| New  | [Visual Studio Version    ](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
 
 ***
 
