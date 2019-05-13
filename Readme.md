@@ -72,21 +72,21 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 | CefSharp.WinForms | Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
- |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) | [master](https://github.com/cefsharp/CefSharp/) | 3683 | 2015 | 4.5.2 & 4.7 | Development   | 
+ |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) | [master](https://github.com/cefsharp/CefSharp/) | 3729 | 2015 | 4.5.2 & 4.7 | Development   | 
 | **Get** | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3700 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 
 
 
