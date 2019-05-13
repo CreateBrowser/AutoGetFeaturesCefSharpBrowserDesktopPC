@@ -18,9 +18,6 @@
 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
-
-> ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
-> ***C# A Fast CefSharp Chromium Browser Desktop PC***
 ***
  # **``The Prerequisites are Required: ``**
 > ## ```Microsoft Windows 8.1 and 10 OS Desktop```
