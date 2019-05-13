@@ -120,9 +120,9 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > # Some Screenshots
   
-[![CefSharp Version 73.1.130 ](https://user-images.githubusercontent.com/12082147/56592614-54722f00-65eb-11e9-9204-210194a935ad.PNG)](http://paypal.me/MohamedOsama914/5)
+[![CefSharp Version 73.1.130 ](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Not.Photo.png)](http://paypal.me/MohamedOsama914/5)
   
- [![About CefSharp Version 73.1.130 ](https://user-images.githubusercontent.com/12082147/56756538-427ec080-6792-11e9-861b-b7e1243a9a8d.png)](http://paypal.me/MohamedOsama914/5)
+ [![About CefSharp Version 73.1.130 ](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Not.Photo.png)](http://paypal.me/MohamedOsama914/5)
    
 
 
