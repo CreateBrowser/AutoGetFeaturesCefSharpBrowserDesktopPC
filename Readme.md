@@ -90,8 +90,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
