@@ -40,9 +40,15 @@ If this project helped you save time, headaches, or push the boundaries of earth
 > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
 ***
-> # Create C# Visual Studio `2019 & 2017 & 2015` (64-bit X 32-bit) 
+> ###### **Create C# Visual Studio** (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
 
-
+ 
+| **Visual Studio**                   |  **Version** |  
+|----------------------------------------|---------|
+| [Visual Studio Version 2015]() | **2015** |  
+| [Visual Studio Version 2017]() | **2017** |   
+ 
+***
 
 > ## Logo Screenshots 
 
@@ -240,9 +246,3 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 > ### **Custom System Menu | MyCustomChromeDevToolsSystemMenu**
 
-***
-| Branch              **Unsupported**                                | Visual Studio Version |  
-|----------------------------------------------------------------------|------|
-| [Visual Studio Version 2015](https://) | 2015 |   Unsupported   |
-| [Visual Studio Version 2017](https://) | 2017 |   Unsupported   |
-***
