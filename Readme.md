@@ -72,8 +72,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 | Branch                                                               | CEF Version | VC++ Version | .Net Version | Status | CefSharp.WinForms |
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
-| [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development     | WinForms v73.1.130  |
-| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** | WinForms v73.1.130  |
+| [master](https://github.com/cefsharp/CefSharp/)                      | 3683 | 2015 | 4.5.2 & 4.7 | Development     | - [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) |
+| [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** | - [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)  |
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
