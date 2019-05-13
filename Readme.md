@@ -243,6 +243,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 >     Install-Package Selenium.Microsoft.Webdriver2 version="2.0.10586.1" (Windows 10)
     
 *** 
+Example Custom Desktop Project C# CefSharp Version A Example Auto Get Fast Chromium Web Browser for Windows Desktop PC  :1st_place_medal:   :egypt: Egypt & :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
 C# NEW Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt & :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
