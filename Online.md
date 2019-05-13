@@ -1,4 +1,73 @@
 
+----
+# *:1st_place_medal:*
+****
+ 
+>  # `CefSharp version: 69.0.0-CI2804`
+ [![MyGet Pre Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v69.0.0-CI2804.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms/69.0.0-CI2804)
+***
+
+  [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/69.0.0-CI2804)
+
+> # Some Screenshots
+  
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://user-images.githubusercontent.com/12082147/47089554-641a5080-d221-11e8-97e6-613dd60168eb.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+ 
+
+
+*** 
+>  # :1st_place_medal: `CefSharp version: 65.0.0-pre01`
+***
+
+ [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v65.0.0-pre01)
+
+> # Some Screenshots
+  
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+ 
+
+ *** 
+>  ### :1st_place_medal: `CefSharp version: 63.0.3` 
+***
+  
+ [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v63.0.3)
+
+> # Some Screenshots
+[![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Applications.png)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+
+>  # NuGet CefSharp version: 63.0.3
+ 
+> ##### ``[cef.redist.x86 at NuGet]``
+>     Install-Package CefSharp cef.redist.x86 version="3.3239.1723"
+    
+> ##### ``[CefSharp.Common at NuGet]``
+>     Install-Package CefSharp.Common version="63.0.3"
+    
+> ##### ``[CefSharp.WinForms at NuGet]``
+>     Install-Package CefSharp.WinForms version="63.0.3"
+    
+> ##### ``[MaterialSkin at NuGet]``
+>     Install-Package MaterialSkin version="0.2.1"
+    
+> ##### ``[MetroFramework.Design at NuGet]``
+>     Install-Package MetroFramework.Design version="1.2.0.3"
+    
+> ##### ``[MetroFramework.RunTime at NuGet]``
+>     Install-Package MetroFramework.RunTime version="1.2.0.3"
+    
+> ##### ``[Process.NET at NuGet]``
+>     Install-Package Process.NET version="1.0.8"
+    
+> ##### ``[Selenium.WebDriver.Server at NuGet]``
+>     Install-Package Selenium.WebDriver.Server version="3.0.1.1"
+    
+> ##### ``[Selenium.Chrome.WebDriver at NuGet]``
+>     Install-Package Selenium.Chrome.WebDriver version="2.37"
+
+> ##### ``[Selenium.Microsoft.Webdriver2 at NuGet]``
+>     Install-Package Selenium.Microsoft.Webdriver2 version="2.0.10586.1" (Windows 10)
+    
+***
 ### Example Custom Desktop Build  C# CefSharp Standard Auto Get Fast Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt + :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
 ***
