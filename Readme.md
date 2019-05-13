@@ -47,7 +47,7 @@ If this project helped you save time, headaches, or push the boundaries of earth
 |-------------------------------------|--------------|-------|
 | Old | [Visual Studio Version 2015]() | **2015** |   
 | Old | [Visual Studio Version 2017]() | **2017** |   
-| New | [Visual Studio Version 2019]() | **2019** | 
+| New | [Visual Studio Version 2019](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
 
 ***
 
