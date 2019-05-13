@@ -1,6 +1,19 @@
 
+---
+ Say thanks!
+---
+If this project helped you save time, headaches, or push the boundaries of earth, I do appreciate a coffee as thanks! :smiley:. You may buy me one here, should you wish:
+
+[![Donate-PayPal](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/MohamedOsama914)
+
+> # Auto Get Features CefSharp Browser Desktop PC
+> ###### A CefSharp Chromium Browser New Windows Desktop PC
+> #### A Features Example Auto Get Fast Browser Desktop PC
+
+
+
 ----
-# *:1st_place_medal:*
+# NOT
 ****
  
 >  # `CefSharp version: 69.0.0-CI2804`
