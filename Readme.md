@@ -100,7 +100,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 ***
 
->  ## Get :1st_place_medal: `CefSharp version: 73.1.130 ()`
+>  ## Get :1st_place_medal: `CefSharp version: 73.1.130 (73.0.3683.75)`
  [![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v73.1.130.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/73.1.130)
 
 ***
