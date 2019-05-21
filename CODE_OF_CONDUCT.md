@@ -1,4 +1,4 @@
-# Code of Conduct ON
+# Code of Conduct
 
 ## 1. Purpose
 
