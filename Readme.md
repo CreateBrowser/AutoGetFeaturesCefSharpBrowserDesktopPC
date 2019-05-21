@@ -6,7 +6,7 @@
 
 ## Credits
 -  [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
--  **`Microsoft .NET Framework 4.7`** Auto Get Features CefSharp Browser Desktop PC project.
+-  **`Microsoft .NET Framework 4.7`** Auto Get CefSharp Browser Desktop PC project.
 
 ---
 
