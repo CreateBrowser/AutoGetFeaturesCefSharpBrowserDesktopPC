@@ -4,6 +4,12 @@
 
 ---
 
+## Credits
+-  [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
+-  **`Microsoft .NET Framework 4.7`** Auto Get Features CefSharp Browser Desktop PC project.
+
+---
+
 ##  PayPal Payments Standard Donate 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
 
