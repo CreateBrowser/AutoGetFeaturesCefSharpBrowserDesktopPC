@@ -2,6 +2,7 @@
 ## **`Auto Get Features CefSharp Browser Desktop PC`**
 
 ### **Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser**
+> ##### ~Available (Content-Type) Application/json~
 
 
 > ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
