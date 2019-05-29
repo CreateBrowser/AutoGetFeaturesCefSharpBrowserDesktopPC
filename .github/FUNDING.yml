@@ -1,10 +1,10 @@
 # These are supported funding model platforms
 
-github: [MohamedOsama914] # git config user.email     # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+github: [mohamedosama914@createbrowser.noreply.github.com, createbrowser@AutoGetFeaturesCefSharpBrowserDesktopPC]  # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2] # https://github.com/mohamedosama914
 patreon: # Replace with a single Patreon username
 
-# open_collective: # Replace with a single Open Collective username
+ open_collective: # Replace with a single Open Collective username
 
 ko_fi: # Replace with a single Ko-fi username
 tidelift: C#/nuget # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-custom: # Replace with a single custom sponsorship URL
+custom: https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html # Replace with a single custom sponsorship URL
