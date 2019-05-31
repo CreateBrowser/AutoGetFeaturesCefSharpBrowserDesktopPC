@@ -1,8 +1,5 @@
 > #### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
 
- Example Custom Desktop Project C# CefSharp 
-A Example Auto Get Fast Browser
-
 > License BY: Mohammed Osama Mohamed Sayed Ahmed
 
 > ## Copyright (c)  2018-05-18  Create Browser - Auto Get Features CefSharp Browser Desktop PC | A Fast New CefSharp Chromium Browser Desktop PC | A Example Auto Get Fast Browser
@@ -35,6 +32,10 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+***
+
+> Example Custom Desktop Project C# CefSharp 
+A Example Auto Get Fast Browser
 
 ***
 > ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
