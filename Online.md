@@ -2,8 +2,7 @@
 ## **`Auto Get Features CefSharp Browser Desktop PC`**
 
 ### **Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser**
-> ##### ~Available (Content-Type) Application/json~
-
+> :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# CefSharp Version Auto Get Fast Chromium Web Browser   
 
 > ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
 > ***C# A Fast CefSharp Chromium Browser Desktop PC***
@@ -90,6 +89,10 @@ If this project helped you save time, headaches, or push the boundaries of earth
 >     Install-Package Selenium.Microsoft.Webdriver2 version="2.0.10586.1" (Windows 10)
     
 ***
+##### :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# CefSharp Version Auto Get Fast Chromium Web Browser   
+
+***
+
 ### Example Custom Desktop Build  C# CefSharp Standard Auto Get Fast Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt + :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
 ***
@@ -106,6 +109,8 @@ Example Custom Desktop Project C# CefSharp Version A Example Auto Get Fast Chrom
 ***
 C# NEW Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for Windows Desktop PC ask it on StackOverflow  :1st_place_medal:   :egypt: Egypt & :cn: Chinese :new:  :heavy_dollar_sign:  :no_entry_sign: :zap: :+1:  
 
+***
+> ##### ~Available (Content-Type) Application/json~
 
 
 ***
