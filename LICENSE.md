@@ -5,7 +5,7 @@ A Example Auto Get Fast Browser
 
 License BY: Mohammed Osama Mohamed Sayed Ahmed
 
-Copyright (c) 2019-04-27, Create Browser - Auto Get Features CefSharp Browser Desktop PC | A Fast New CefSharp Chromium Browser Desktop PC | A Example Auto Get Fast Browser
+Copyright (c)  2018-05-18  Create Browser - Auto Get Features CefSharp Browser Desktop PC | A Fast New CefSharp Chromium Browser Desktop PC | A Example Auto Get Fast Browser
 All rights reserved.
 
 
@@ -33,4 +33,12 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+# (2019-04-27)
+Copyright (c)  2019-04-27  Create Browser - Auto Get Features CefSharp Browser Desktop PC 
+A Fast New CefSharp Chromium Browser Desktop PC | A Example Auto Get Fast Browser
+All rights reserved.
 
