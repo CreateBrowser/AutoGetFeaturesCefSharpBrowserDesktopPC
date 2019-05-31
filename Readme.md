@@ -6,7 +6,7 @@
 
 ## Credits
 -  [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
--  [**`Microsoft .NET Framework 4.7`**  + `( Developer Pack )` ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)- Get CefSharp Browser Desktop PC Project.
+-  [**`Microsoft .NET Framework 4.7 + ( Developer Pack )`** ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)- Get CefSharp Browser Desktop PC Project.
 
 ---
 
