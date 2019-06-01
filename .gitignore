@@ -15,6 +15,6 @@ Release/
 
 CefSharp/Debug
 CefSharp/Release
-x32/Debug
-x64/Release
+bin/x32Debug
+bin/x64/Release
 .vs/
