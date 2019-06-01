@@ -1,7 +1,5 @@
 *           text=auto
 *.cs        text diff=cs
 
-*.config    text merge=union
 *.csproj    text merge=union
-*.user      text merge=union
 *.sln       text merge=union eol=crlf
