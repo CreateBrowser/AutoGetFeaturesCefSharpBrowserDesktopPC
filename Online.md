@@ -1,7 +1,3 @@
-
-
-> ### :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser 
-
 ## **`Auto Get Features CefSharp Browser Desktop PC`**
 
 ---
@@ -10,6 +6,10 @@
 If this project helped you save time, headaches, or push the boundaries of earth, I do appreciate a coffee as thanks! :smiley:. You may buy me one here, should you wish:
 
 [![Donate-PayPal](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/MohamedOsama914)
+
+
+> ### :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser 
+
 
 > # Auto Get Features CefSharp Browser Desktop PC
 > ###### A CefSharp Chromium Browser New Windows Desktop PC
