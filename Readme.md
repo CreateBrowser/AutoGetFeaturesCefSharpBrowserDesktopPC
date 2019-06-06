@@ -131,13 +131,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ---
 ---
 
-
-
-## Standard Donate 
-| Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
-| :------: | :------: |
-| [![Bitcoin (BTC) to this Wallet address](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/QC.png)](bitcoin:35L3M1jnmCEiJmHF5Y87Qffrfc9HbBGVxz) | [![ Invite Friends - Coinbase ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Coinbase.png)](https://www.coinbase.com/join/5c16214773b0eb01e5cb5e92)
-
 ***
 ***
 
@@ -190,6 +183,15 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 ***
+
+
+
+## Standard Donate 
+| Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
+| :------: | :------: |
+| [![Bitcoin (BTC) to this Wallet address](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/QC.png)](bitcoin:35L3M1jnmCEiJmHF5Y87Qffrfc9HbBGVxz) | [![ Invite Friends - Coinbase ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Coinbase.png)](https://www.coinbase.com/join/5c16214773b0eb01e5cb5e92)
+
+---
 
 ## **`Get CefSharp Web Browser`**
 ##### **`Example Custom Windows Desktop PC Project C# CefSharp Web Browser Version Auto Get Fast Chromium Web Browser`**  
