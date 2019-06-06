@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="246" alt="CefSharp - Embedded Chromium for .NET" /></a>
+    <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="CefSharp - Embedded Chromium for .NET" /></a>
   </p>
   <br />
   <p>    
@@ -14,6 +14,7 @@
   
 </div>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8581ada1d2554db3b015ff1fe49a7a68)](https://app.codacy.com/app/MohamedOsama914/ACefSharpChromiumBrowserNewWindowsDesktopPC?utm_source=github.com&utm_medium=referral&utm_content=CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC&utm_campaign=Badge_Grade_Settings)
 
 
 ## Credits
