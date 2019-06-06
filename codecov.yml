@@ -4,7 +4,7 @@
 #    - !jenkins.domain.com       # add my custom jenkins server
 #    - !appveyor                # ignore CI builds by AppVeyor
 #    - !not.this.domain.com     # ignore this domain
-# https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html
+# https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/
 
 CODECOV_TOKEN="a67a5e73-1d23-4052-80f4-32805ed19303"
 
@@ -13,6 +13,8 @@ codecov:
   branch: stable
   notify:
     require_ci_to_pass: yes
+  ci:
+    - createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC       # add my Custom Server
 
 coverage:
   precision: 2
