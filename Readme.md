@@ -8,9 +8,6 @@
 -  [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
 -  [**`Downloading Microsoft .NET Framework 4.7 + ( Developer Pack )`** ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)-  CefSharp  Web  Browser Desktop PC Project.
 
-## **Developer Pack**
-- ***The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.***
-
 ---
 
 ##  PayPal Payments Standard Donate 
@@ -176,5 +173,5 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ---
 ***
 ## **`Get CefSharp Web Browser`**
-##### **Example Custom Windows Desktop PC Project C# CefSharp Web Browser Version Auto Get Fast Chromium Web Browser**  
+##### **`Example Custom Windows Desktop PC Project C# CefSharp Web Browser Version Auto Get Fast Chromium Web Browser`**  
 
