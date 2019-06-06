@@ -8,8 +8,10 @@
   <p>    
   </a>
     <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
-  </p>
-     <a href="http://paypal.me/MohamedOsama914/5"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" /></a>
+      <a href="http://paypal.me/MohamedOsama914/5"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a>
+
+ </p>
+  
 </div>
 
 
