@@ -7,15 +7,10 @@
   <br />
   <p>    
   </a>
-    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" /></a>   
-    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="PayPal" /></a>
+    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
   </p>
- 
+     <a href="http://paypal.me/MohamedOsama914/5"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" /></a>
 </div>
-
-
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8581ada1d2554db3b015ff1fe49a7a68)](https://app.codacy.com/app/MohamedOsama914/ACefSharpChromiumBrowserNewWindowsDesktopPC?utm_source=github.com&utm_medium=referral&utm_content=CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC&utm_campaign=Badge_Grade_Settings)
 
 
 
