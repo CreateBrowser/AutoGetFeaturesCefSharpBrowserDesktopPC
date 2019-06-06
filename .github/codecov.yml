@@ -6,3 +6,15 @@ codecov:
     
   CODECOV_TOKEN="9c657111-da06-4809-8ace-2d036decfb86"
   
+# codecov.yml
+#
+# .codecov.yml
+#
+# codecov:
+#  ci:
+#    - jenkins.domain.com       # add my Custom Server
+#    - !jenkins.domain.com       # add my custom jenkins server
+#    - !appveyor                # ignore CI builds by AppVeyor
+#    - !not.this.domain.com     # ignore this domain
+# https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/
+#
