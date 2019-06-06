@@ -40,7 +40,7 @@
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
 | ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3729 | 2015 | 4.5.2 & 4.7 | Development   | 
-| **Get Release** | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
+| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 
 
@@ -126,13 +126,6 @@
 
 ---
 ---
-
-> ## Screenshots 
-
-[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
-
-# [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
-
 ***
 
 | **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
@@ -145,7 +138,3 @@
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
 | [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-
-
-***
-
