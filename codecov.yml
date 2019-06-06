@@ -1,5 +1,7 @@
 # codecov.yml
 #
+# .codecov.yml
+#
 # codecov:
 #  ci:
 #    - jenkins.domain.com       # add my Custom Server
