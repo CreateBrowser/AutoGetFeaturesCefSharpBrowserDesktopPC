@@ -145,10 +145,10 @@ namespace Example.Handler
             model.AddItem((CefMenuCommand)Reload, "Reload");
             model.AddItem((CefMenuCommand)Stop, "Stop");
             model.AddSeparator();
+	 // model.AddItem((CefMenuCommand)Print, "Print");
             model.AddItem((CefMenuCommand)ViewPageSource, "View Page Source");
             model.AddItem((CefMenuCommand)ShowDevTools, "Developer Tools");
             model.AddSeparator();
-	 // model.AddItem((CefMenuCommand)Print, "Print");
             model.AddItem((CefMenuCommand)SaveImageAs, "Save As Images");
             model.AddItem((CefMenuCommand)SaveAsPage, "Save As Page");
             model.AddItem((CefMenuCommand)SaveLinkAs, "Save As Link");
