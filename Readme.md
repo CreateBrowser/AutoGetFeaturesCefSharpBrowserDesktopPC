@@ -164,16 +164,18 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ---
 
 ***
-> ###### **Create C# Visual Studio** (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
 
- 
+***
+
+## **`Get CefSharp Web Browser`**
+##### **`Example Custom Windows Desktop PC Project C# CefSharp Web Browser Version Auto Get Fast Chromium Web Browser`**  
+##### Create C# Visual Studio (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
+
+
+|-------------|-----------------------|---------------|
 | **Preview** | **Visual Studio**      |  **Version** |  
 |-------------|------------------------|--------------|
 | Auto | Visual Studio Version    | **2015**     |   
 | Auto | Visual Studio Version    | **2017**     |   
 | New  | [Visual Studio Version    ](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
-
-***
-## **`Get CefSharp Web Browser`**
-##### **`Example Custom Windows Desktop PC Project C# CefSharp Web Browser Version Auto Get Fast Chromium Web Browser`**  
 
