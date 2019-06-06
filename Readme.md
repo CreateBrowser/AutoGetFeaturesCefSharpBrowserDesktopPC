@@ -6,11 +6,8 @@
   </p>
   <br />
   <p>   
-
   </a>
-<a href="https://www.paypal.me/MohamedOsama914/5"><img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-  
-</a>
+<a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img alt="Support via PayPal" src="https://img.shields.io/badge/paypal-donate-yellow.svg" /> </a>
     <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 
  </p>
