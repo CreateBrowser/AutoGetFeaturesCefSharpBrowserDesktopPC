@@ -1,10 +1,15 @@
-codecov:
-  ci:
-    - createbrowser.github.io   # Custom Server
-    - !jenkins.domain.com       # add my custom jenkins server
-    - !appveyor                # ignore CI builds by AppVeyor
-    - !not.this.domain.com     # ignore this domain
+# codecov:
+#  ci:
+#    - jenkins.domain.com       # add my Custom Server
+#    - !jenkins.domain.com       # add my custom jenkins server
+#    - !appveyor                # ignore CI builds by AppVeyor
+#    - !not.this.domain.com     # ignore this domain
 # https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html
+
+CODECOV_TOKEN="a67a5e73-1d23-4052-80f4-32805ed19303"
+
+codecov:
+  token: a67a5e73-1d23-4052-80f4-32805ed19303
   branch: stable
   notify:
     require_ci_to_pass: yes
