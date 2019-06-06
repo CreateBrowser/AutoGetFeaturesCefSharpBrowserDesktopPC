@@ -6,7 +6,7 @@
 
 <cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
 
-Example Get CefSharp Web Browser | Release CefSharp Version | 73.0.130 | 
+CefSharp Web Browser | Example Release CefSharp Version | 73.0.130 | 
 
  Developer Pack
    The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
