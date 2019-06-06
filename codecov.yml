@@ -1,4 +1,10 @@
 codecov:
+  ci:
+    - jenkins.domain.com       # add my custom jenkins server
+    - !jenkins.domain.com       # add my custom jenkins server
+    - !appveyor                # ignore CI builds by AppVeyor
+    - !not.this.domain.com     # ignore this domain
+
   branch: stable
   notify:
     require_ci_to_pass: yes
