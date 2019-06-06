@@ -2,11 +2,22 @@
 
 // (Register now for your free entry ticket!) https://engine.passapp.io/ict-form-embed
 
+
+
+ <md>
+## **Developer Pack**
+- ***The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.***
+ </md>
+
+
 <cs> - Example Custom Desktop Project C# CefSharp A Example Auto Get Fast Browser - </cs>
 
 Example Chromium Browser | Release CefSharp Version | 63.0.3 | 71.0.2 (71.0.3578.98) | 73.0.130 | 
 Example Chromium Browser | Release Pro CefSharp Version | v65.0.0-pre01 | v69.0.0-pre01 | v73.0.120-pre01 | 
 
+ 
+ 
+ 
  Chromium Application.sln
 Application Settings System
 Group Custom Path Configuration Desktop PC 
