@@ -24,7 +24,6 @@
 > ## ```Microsoft .NET Framework 4.7```
 > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
-***
 
 ***
 ### Releases
@@ -147,11 +146,13 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ---
 
 
+
 ## Standard Donate 
 | Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
 | :------: | :------: |
 | [![Bitcoin (BTC) to this Wallet address](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/QC.png)](bitcoin:35L3M1jnmCEiJmHF5Y87Qffrfc9HbBGVxz) | [![ Invite Friends - Coinbase ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Coinbase.png)](https://www.coinbase.com/join/5c16214773b0eb01e5cb5e92)
 
+***
 ***
 
 > ## Logo Screenshots 
@@ -164,6 +165,7 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ###  [ GitHub.com @ Designed by : Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
 ---
+***
 
 ***
 
