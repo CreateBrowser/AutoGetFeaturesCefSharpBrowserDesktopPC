@@ -6,7 +6,6 @@
   </p>
   <br />
   <p>   
-          <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a>
 
   </a>
 <a href="https://www.paypal.me/MohamedOsama914/5"><img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
