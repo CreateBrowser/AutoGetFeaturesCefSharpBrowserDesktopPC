@@ -1,5 +1,5 @@
 
-###  [ GitHub.com @ BY: Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
+###  [ GitHub.com @ Designed by : Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
  ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
 
 ---
