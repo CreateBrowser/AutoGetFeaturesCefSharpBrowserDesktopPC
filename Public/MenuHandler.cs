@@ -35,12 +35,23 @@ namespace Example.Handler
           private const int Paste = 45;
           private const int Delete = 46;
           private const int SelectAll = 47;
-
+	  private const int Print = 48;
+          ///
+        private const int All = 4;
+        private const int Good = 5;
+        private const int source = 6;
+	//
         //  private const int All = 48;
         //  private const int All = 49;
         //  private const int All = 50;
         //  private const int All = 51;
         //  private const int All = 52;
+
+        private string url;
+        private string img;
+        private string Video;
+
+
 
         Form1 myForm;
         public MenuHandler(Form1 form) { myForm = form; }
@@ -78,19 +89,56 @@ namespace Example.Handler
             ///
             ///
 
-           // bool BackNoT = model.Remove(CefMenuCommand.Back); // Remove "Back" option
-           // bool ForwardNOT = model.Remove(CefMenuCommand.Forward); // Remove "Forward" option
-           // bool PrintNot = model.Remove(CefMenuCommand.Print); // Remove "Print" option
-           // bool ViewSourceNOT = model.Remove(CefMenuCommand.ViewSource); // Remove "View Source" option
+            bool BackNoT = model.Remove(CefMenuCommand.Back); // Remove "Back" option
+            bool ForwardNOT = model.Remove(CefMenuCommand.Forward); // Remove "Forward" option
+            bool PrintNot = model.Remove(CefMenuCommand.Print); // Remove "Print" option
+            bool ViewSourceNOT = model.Remove(CefMenuCommand.ViewSource); // Remove "View Source" option
             //Removing existing menu item
             //bool removed = model.Remove(CefMenuCommand.ViewSource); // Remove "View Source" option
             if (parameters.LinkUrl != "")
             {
                 model.AddItem((CefMenuCommand)SaveLinkAs, "Save As Link");
-                model.AddItem((CefMenuCommand)SaveImageAs, "Save as images");
+             // model.AddItem((CefMenuCommand)SaveImageAs, "Save as images");
                 model.AddItem((CefMenuCommand)CopyLinkAddress, "Copy Link Address");
                 model.AddSeparator();
             }
+
+           
+              url = parameters.LinkUrl;
+              if (parameters.MediaType == ContextMenuMediaType.Image)
+              {
+                img = parameters.SourceUrl;
+                model.AddItem((CefMenuCommand)5010, "Save as images"); // Save image // Save as images
+                model.AddSeparator();
+              }
+              if (parameters.MediaType == ContextMenuMediaType.Video)
+              {
+                Video = parameters.SourceUrl;
+                model.AddItem((CefMenuCommand)5011, "Save as File Video");
+                model.AddSeparator();
+              }
+              if (parameters.MediaType == ContextMenuMediaType.Audio)
+              {
+                Video = parameters.SourceUrl;
+                model.AddItem((CefMenuCommand)5012, "Save as File Audio ");
+                model.AddSeparator();
+              }
+
+            if (parameters.TypeFlags.HasFlag(ContextMenuType.Media) && parameters.HasImageContents)
+            {
+                /*
+                if (parameters.MediaType == ContextMenuMediaType.Plugin)
+                {
+                    Video = parameters.SourceUrl;
+                    model.AddItem((CefMenuCommand)5013, "Plugin File ");
+                    model.AddSeparator();
+                }
+                */
+
+                // model.AddSeparator();
+            }
+
+
 
             // Add new menu example items
             model.AddItem((CefMenuCommand)Back, "Back");
@@ -212,6 +260,13 @@ namespace Example.Handler
 
                 return true;
             }
+	    
+	     if ((int)commandId == Print)
+            {
+                browser.Print();
+                return true;
+            }
+	    
             if ((int)commandId == ViewPageSource)
             {
                 browser.MainFrame.ViewSource();
@@ -265,6 +320,70 @@ namespace Example.Handler
             if ((int)commandId == SelectAll)
             {
                 browser.MainFrame.SelectAll();
+
+                return true;
+            }
+
+///
+///
+
+            if (commandId == (CefMenuCommand)5010)
+            {
+                SaveFileDialog dialog = new SaveFileDialog();
+                dialog.FileName = "image.png";
+                dialog.Filter = "Png image (*.png)|*.png|ICO image (*.ico)|*.ico|Gif Image (*.gif)|*.gif|JPEG image (*.jpg)|*.jpg|SVG image (*.svg)|*.svg";
+
+                var result = dialog.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    Console.WriteLine("writing to: " + dialog.FileName);
+
+                    var wClient = new System.Net.WebClient();
+                    wClient.DownloadFile(img, dialog.FileName);
+                }
+            }
+            if (commandId == (CefMenuCommand)5011)
+            {
+                SaveFileDialog dialog = new SaveFileDialog();
+                dialog.FileName = "Save All File Videos.mp4";
+                dialog.Filter = "MP4 (*.mp4)|*.mp4|MKV (*.mkv)|*.mkv|WEBM (*.webm)|*.webm|M3U (*.m3u)|*.m3u|All File (*.*)|*.*";
+
+                var result = dialog.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    Console.WriteLine("writing to: " + dialog.FileName);
+
+                    var wClient = new System.Net.WebClient();
+                    wClient.DownloadFile(img, dialog.FileName);
+                }
+            }
+            if (commandId == (CefMenuCommand)5012)
+            {
+                SaveFileDialog dialog = new SaveFileDialog();
+                dialog.FileName = "Save All File Audio.mp3";
+                dialog.Filter = "MP3 (*.mp3)|*.mp3|Flac (*.flac)|*.flac|WAV (*.wav)|*.wav|All File (*.*)|*.*";
+
+                var result = dialog.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    Console.WriteLine("writing to: " + dialog.FileName);
+
+                    var wClient = new System.Net.WebClient();
+                    wClient.DownloadFile(img, dialog.FileName);
+                }
+            }
+
+             /*
+            if (commandId == (CefMenuCommand)5013)
+            {              
+            }
+            */
+///
+///
+
+            if ((int)commandId == Good)
+            {
+                browser.GetHost().RequestContext.GetExtension(@"Resources\Extensions\");
 
                 return true;
             }
