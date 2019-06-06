@@ -58,6 +58,7 @@
 | [cefsharp/65](https://github.com/cefsharp/CefSharp/tree/cefsharp/65) | 3325 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/63](https://github.com/cefsharp/CefSharp/tree/cefsharp/63) | 3239 | 2013 | 4.5.2 / 4.7 | Unsupported |
 
+---
 ***
 
 >  ## Get :1st_place_medal: `CefSharp version: 73.1.130 (73.0.3683.75)`
