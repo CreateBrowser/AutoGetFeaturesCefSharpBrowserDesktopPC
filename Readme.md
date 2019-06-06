@@ -35,6 +35,11 @@
 |  [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)   |  [![CefSharp.WinForms](http://img.shields.io/nuget/vpre/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/) |
 
 
+
+
+| *With each release a new branch is created, for example the  `63.0.3` release corresponds to the `cefsharp/63` branch.  If you're new to `CefSharp`   and are downloading the source to check it out, please use a*  **Release**  branch  |
+|-----------------------------------------------------------------|
+
 ---
 
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
@@ -42,10 +47,6 @@
 | ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3729 | 2015 | 4.5.2 & 4.7 | Development   | 
 | [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
-
-
-| *With each release a new branch is created, for example the  `63.0.3` release corresponds to the `cefsharp/63` branch.  If you're new to `CefSharp`   and are downloading the source to check it out, please use a*  **Release**  branch  |
-|-----------------------------------------------------------------|
 
 
 
