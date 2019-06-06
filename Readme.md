@@ -53,20 +53,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | **Get Release** | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 
-| **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
-|----------------------------------------------------------------------|------|------|-------|-----------------|
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
-
-
-
-
 | Branch              **Unsupported**                                | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
 | [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 |   Unsupported   |
@@ -160,6 +146,42 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 [![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
 
 # [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
+
+
+### Releases
+
+**CI Builds  Get**<br/> 
+
+Every commit on `master` produces a `Nuget` package. Use at your own risk!
+
+
+- [![MyGet Pre Release](https://img.shields.io/myget/cefsharp/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](https://www.myget.org/feed/cefsharp/package/nuget/CefSharp.WinForms)
+
+**Pre-release**<br>
+
+- [![CefSharp.WinForms](http://img.shields.io/nuget/vpre/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
+
+**Stable**<br>
+- [![CefSharp.WinForms](http://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&label=WinForms)](http://www.nuget.org/packages/CefSharp.WinForms/)
+
+### Release Branches
+
+With each release a new branch is created, for example the `63.0.3` release corresponds to the `cefsharp/63` branch.
+If you're new to `CefSharp` and are downloading the source to check it out, please use a **Release** branch
+
+***
+
+| **Unknown**                                                          | CEF Version | VC++ Version | .Net Version | Status |
+|----------------------------------------------------------------------|------|------|-------|-----------------|
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+| [cefsharp/#](https://github.com/cefsharp/CefSharp/tree/cefsharp/#)   | 3800 | 2015 | 4.5.2 / 4.7 | **Pre-Release** |
+
 
 ***
 ###  [ GitHub.com @ Designed by : Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
