@@ -1,4 +1,7 @@
 
+[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+
+
 
 ## Credits
 - **`Designed Powered by :`** [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
@@ -26,9 +29,6 @@
 
 ***
 ***
-
-[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
-
 
 ### Releases Branches
 
