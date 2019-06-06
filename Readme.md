@@ -2,11 +2,14 @@
 <div align="center">
   <br />
   <p>
-    <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="CefSharp - Embedded Chromium for .NET" /></a>
+    
+   <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" alt="PayPal Logo" /></a>
+
+   <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="CefSharp - Embedded Chromium for .NET" /></a>
   </p>
   <br />
   <p>
-    <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
+   
     
    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal" /></a>
