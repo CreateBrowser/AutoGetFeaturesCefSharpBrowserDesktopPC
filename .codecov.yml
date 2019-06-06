@@ -8,9 +8,11 @@
 #    - !not.this.domain.com     # ignore this domain
 # https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/
 #
-# CODECOV_TOKEN="a67a5e73-1d23-4052-80f4-32805ed19303"
+# CODECOV_TOKEN="9c657111-da06-4809-8ace-2d036decfb86"
 
+CODECOV_TOKEN="9c657111-da06-4809-8ace-2d036decfb86"
 codecov:
+  token: 9c657111-da06-4809-8ace-2d036decfb86
   token: a67a5e73-1d23-4052-80f4-32805ed19303
   branch: stable
   notify:
