@@ -139,7 +139,6 @@ namespace Example.Handler
             }
 
 
-
             // Add new menu example items
             model.AddItem((CefMenuCommand)Back, "Back");
             model.AddItem((CefMenuCommand)Forward, "Forward");
@@ -149,11 +148,12 @@ namespace Example.Handler
             model.AddItem((CefMenuCommand)ViewPageSource, "View Page Source");
             model.AddItem((CefMenuCommand)ShowDevTools, "Developer Tools");
             model.AddSeparator();
+	 // model.AddItem((CefMenuCommand)Print, "Print");
             model.AddItem((CefMenuCommand)SaveImageAs, "Save As Images");
             model.AddItem((CefMenuCommand)SaveAsPage, "Save As Page");
             model.AddItem((CefMenuCommand)SaveLinkAs, "Save As Link");
 
-           
+           /*
             model.AddSeparator();
             model.AddItem((CefMenuCommand)Cut, "Cut");
             model.AddItem((CefMenuCommand)Copy, "Copy");
@@ -163,7 +163,7 @@ namespace Example.Handler
 			model.AddSeparator();
             model.AddItem((CefMenuCommand)Undo, "Undo");
             model.AddItem((CefMenuCommand)Redo, "Redo");
-            
+            */
 
             model.AddSeparator();
             model.AddItem((CefMenuCommand)CefSharpSupportedChromeExtensions, "CefSharp Supported Chrome Extensions");
