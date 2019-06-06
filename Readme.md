@@ -26,19 +26,6 @@
 
 ***
 
-## Standard Donate 
-| Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
-| :------: | :------: |
-| [![Bitcoin (BTC) to this Wallet address](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/QC.png)](bitcoin:35L3M1jnmCEiJmHF5Y87Qffrfc9HbBGVxz) | [![ Invite Friends - Coinbase ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Coinbase.png)](https://www.coinbase.com/join/5c16214773b0eb01e5cb5e92)
-
-***
-
-> ## Logo Screenshots 
-
-[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
-
-# [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
-
 ***
 ### Releases
 
@@ -158,6 +145,22 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 
 ---
 ---
+
+
+## Standard Donate 
+| Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
+| :------: | :------: |
+| [![Bitcoin (BTC) to this Wallet address](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/QC.png)](bitcoin:35L3M1jnmCEiJmHF5Y87Qffrfc9HbBGVxz) | [![ Invite Friends - Coinbase ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Coinbase.png)](https://www.coinbase.com/join/5c16214773b0eb01e5cb5e92)
+
+***
+
+> ## Logo Screenshots 
+
+[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+
+# [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) ![Logo](https://raw.githubusercontent.com/chromium/chromium/master/chrome/app/theme/chromium/product_logo_24.png) Chromium
+
+***
 ###  [ GitHub.com @ Designed by : Mohammed Osama Mohamed Sayed Ahmed  | Mostaql.com](https://mostaql.com/u/MohamedOsama914)
 
 ---
