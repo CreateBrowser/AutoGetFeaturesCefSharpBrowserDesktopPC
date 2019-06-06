@@ -25,16 +25,6 @@
 > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
 
 ***
-> ###### **Create C# Visual Studio** (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
-
- 
-| **Preview** | **Visual Studio**      |  **Version** |  
-|-------------|------------------------|--------------|
-| Auto | Visual Studio Version    | **2015**     |   
-| Auto | Visual Studio Version    | **2017**     |   
-| New  | [Visual Studio Version    ](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
-
-***
 
 ## Standard Donate 
 | Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
@@ -172,6 +162,16 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
  ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
 
 ---
+
+***
+> ###### **Create C# Visual Studio** (`2019 & 2017 & 2015`) **(64-bit X 32-bit)** 
+
+ 
+| **Preview** | **Visual Studio**      |  **Version** |  
+|-------------|------------------------|--------------|
+| Auto | Visual Studio Version    | **2015**     |   
+| Auto | Visual Studio Version    | **2017**     |   
+| New  | [Visual Studio Version    ](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
 
 ***
 ## **`Get CefSharp Web Browser`**
