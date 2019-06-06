@@ -1,7 +1,22 @@
 
-[![CefSharp Logo](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png)](http://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")  
+<div align="center">
+  <br />
+  <p>
+    <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="246" alt="CefSharp - Embedded Chromium for .NET" /></a>
+  </p>
+  <br />
+  <p>    
+  </a>
+    <a href="https://PayPal"><img src="https://PayPal.svg" alt="PayPal" /></a>   
+    <a href="https://www.patreon.com/discordjs"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="PayPal" /></a>
+  </p>
+ 
+</div>
+
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8581ada1d2554db3b015ff1fe49a7a68)](https://app.codacy.com/app/MohamedOsama914/ACefSharpChromiumBrowserNewWindowsDesktopPC?utm_source=github.com&utm_medium=referral&utm_content=CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC&utm_campaign=Badge_Grade_Settings)
+
 
 
 ## Credits
