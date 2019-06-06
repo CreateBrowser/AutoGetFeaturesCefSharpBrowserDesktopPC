@@ -10,13 +10,6 @@ If this project helped you save time, headaches, or push the boundaries of earth
 
 > ### :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser 
 
-
-> # Auto Get Features CefSharp Browser Desktop PC
-> ###### A CefSharp Chromium Browser New Windows Desktop PC
-> #### A Features Example Auto Get Fast Browser Desktop PC
-
-
-
 ----
 > ##### Desktop Example Auto NOT
 ****
@@ -124,6 +117,15 @@ C# NEW Get Default Build Example Custom A Fast CefSharp Chromium Web Browser for
 
 > ### Example Custom Desktop Project C# CefSharp | A Example Auto Get Fast Browser
 > ***C# A Fast CefSharp Chromium Browser Desktop PC***
+
+***
+
+
+> # Auto Get Features CefSharp Browser Desktop PC
+> ###### A CefSharp Chromium Browser New Windows Desktop PC
+> #### A Features Example Auto Get Fast Browser Desktop PC
+
+
 
 ***
 
