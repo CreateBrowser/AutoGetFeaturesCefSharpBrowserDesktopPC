@@ -1,0 +1,5 @@
+codecov:
+  token: 9c657111-da06-4809-8ace-2d036decfb86
+  branch: stable
+  
+  CODECOV_TOKEN="9c657111-da06-4809-8ace-2d036decfb86"
