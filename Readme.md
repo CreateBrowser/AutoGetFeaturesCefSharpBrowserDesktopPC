@@ -7,8 +7,8 @@
   <br />
   <p>    
   </a>
-    <a href="https://PayPal"><img src="https://PayPal.svg" alt="PayPal" /></a>   
-    <a href="https://www.patreon.com/discordjs"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="PayPal" /></a>
+    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" /></a>   
+    <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="PayPal" /></a>
   </p>
  
 </div>
