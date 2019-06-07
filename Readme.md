@@ -19,13 +19,7 @@
 
  </p>  
 
-  <br>
- <p>  
-
-[![codecov](https://codecov.io/gh/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/branch/master/graph/badge.svg)](https://codecov.io/gh/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC)
-
- </p> 
-   <br />
+ 
 
 </div>
 
