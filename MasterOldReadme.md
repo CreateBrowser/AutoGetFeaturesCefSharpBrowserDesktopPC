@@ -1,13 +1,10 @@
-    
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ <md>
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/blob/master/LICENSE)
    
  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-   
-    
-  <br />
+ </md>
  <p>  
 
 [![codecov](https://codecov.io/gh/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/branch/master/graph/badge.svg)](https://codecov.io/gh/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC)
@@ -86,4 +83,8 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 | Auto | Visual Studio Version    | **2017**     |   
 | New  | [Visual Studio Version    ](https://visualstudio.microsoft.com/vs/preview/) | **2019** | 
 
+***
  ## LinkedIn[![ LinkedIn ](https://static.licdn.com/sc/h/exfa6qff204yjfvcm966dwu6c)](https://www.linkedin.com/in/mohammedosama914)
+ 
+ **
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
