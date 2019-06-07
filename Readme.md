@@ -22,8 +22,6 @@
 
 
 
-![GitHub forks](https://img.shields.io/github/forks/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC.svg?label=%28%20CefSharp%20Web%20Browser%20%29%20Forks%20&style=social)
-
  </p>  
 </div>
 
