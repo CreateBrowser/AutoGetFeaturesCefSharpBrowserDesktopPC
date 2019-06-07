@@ -17,6 +17,9 @@
 <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal" /></a>
 <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/%E6%94%AF%E4%BB%98%E5%AE%9D-%E5%90%91TA%E6%8D%90%E5%8A%A9-yellow.svg" alt="PayPal" /></a>
 
+
+<a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+
  </p>  
 
  
