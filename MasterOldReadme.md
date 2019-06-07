@@ -60,7 +60,6 @@ If you're new to `CefSharp` and are downloading the source to check it out, plea
 ***
 
 
-
 ## Standard Donate 
 | Donation Bitcoin (BTC) to this Wallet address | Invite Friends - Coinbase |
 | :------: | :------: |
