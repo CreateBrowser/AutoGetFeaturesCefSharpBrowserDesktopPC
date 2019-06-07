@@ -1,6 +1,9 @@
 ## **`Auto Get Features CefSharp Browser Desktop PC`**
 ## **`CefSharp Web Browser Desktop Example Auto NOT`**
 
+
+
+
 ---
  Example Say thanks!
 ---
@@ -10,6 +13,9 @@ If this project helped you save time, headaches, or push the boundaries of earth
 
 
 > ##### :1st_place_medal: :new:  :zap:   :+1:   :cn: Chinese + :egypt: Egypt | Example Custom Windows Desktop PC for Project Supported  C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser 
+
+
+![GitHub forks](https://img.shields.io/github/forks/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC.svg?label=%28%20CefSharp%20Web%20Browser%20%29%20Forks%20&style=social)
 
 ----
 ****
