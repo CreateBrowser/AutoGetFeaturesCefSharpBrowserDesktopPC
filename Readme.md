@@ -20,10 +20,11 @@
 
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
 
+
+
+![GitHub forks](https://img.shields.io/github/forks/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC.svg?label=%28%20CefSharp%20Web%20Browser%20%29%20Forks%20&style=social)
+
  </p>  
-
- 
-
 </div>
 
 
