@@ -24,7 +24,10 @@ subtitle: Here you'll find all the ways to get in touch with me
 title: website C# CefSharp Web Browser
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+#description: A virtual proof that name is awesome!
+
+description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
+
 
 theme: jekyll-theme-cayman
 
