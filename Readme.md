@@ -75,6 +75,7 @@
 
 | *With each release a new branch is created, for example the  `63.0.3` release corresponds to the `cefsharp/63` branch.  If you're new to `CefSharp`   and are downloading the source to check it out, please use a*  **Release**  branch  |
 |-----------------------------------------------------------------|
+|<center> <h2> Releases Branches </h2> </center>  <p align="center"></p>|
 
 ---
 
