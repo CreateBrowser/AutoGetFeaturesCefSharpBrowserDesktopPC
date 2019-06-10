@@ -198,29 +198,27 @@ prose:
 #          placeholder: "A description of your post."
 #          alterable: true
 #      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+#        field:
+#          element: "text"
+#          label: "Date"
+#          help: "Enter date of post."
+#          placeholder: "yyyy-mm-dd"
+#          alterable: true
+#      - name: "image"
+#        field:
+#          element: "text"
+#          label: "Image"
+#          help: "Add a thumbnail image to your post."
+ #         placeholder: "Thumbnail"
+ #         alterable: true
+#      - name: "published"
+#        field:
+#          element: "checkbox"
+#          label: "Publish"
+#          help: "Check to publish post, uncheck to hide."
+#
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
