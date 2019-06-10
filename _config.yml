@@ -8,9 +8,9 @@
 #baseurl: "/AutoGetFeaturesCefSharpBrowserDesktopPC"
 
 
-url: "https://createbrowser.github.io"
-baseurl: "/AutoGetFeaturesCefSharpBrowserDesktopPC"
-subtitle: Here you'll find all the ways to get in touch with me
+#url: "https://createbrowser.github.io"
+#baseurl: "/AutoGetFeaturesCefSharpBrowserDesktopPC"
+#subtitle: Here you'll find all the ways to get in touch with me
 
 
 # If you are building a GitHub project page then use these settings:
@@ -21,12 +21,14 @@ subtitle: Here you'll find all the ways to get in touch with me
 
 # Name of website
 #title: My website
-title: website C# CefSharp Web Browser
+title: webSite C# CefSharp Web Browser
 
 # Short description of your site
 #description: A virtual proof that name is awesome!
 
-description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
+description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
+
+#description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
 
 theme: jekyll-theme-cayman
@@ -37,15 +39,15 @@ theme: jekyll-theme-cayman
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+#navbar-col: "#F5F5F5"
+#navbar-text-col: "#404040"
+#navbar-children-col: "#F5F5F5"
+#page-col: "#FFFFFF"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#F5F5F5"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -69,9 +71,9 @@ social-network-links:
   rss: true
 #  email: "someone@example.com"
   email: "mohamed.osama914@yahoo.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  facebook: daattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -139,10 +141,11 @@ share-links-active:
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+timezone: "Africa/Cairo"
+#timezone: "America/Vancouver"
+#highlighter: rouge
+#permalink: /:year-:month-:day-:title/
+#paginate: 5
 
 # markdown: kramdown
 # kramdown:
@@ -157,44 +160,44 @@ defaults:
 link-tags: true
 
 # Exclude these files from production site
-exclude:
-  - README.md
+#exclude:
+#  - README.md
   - LICENSE
-  - README.md
+#  - README.md
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
+#  rooturl: '_posts'
+#  media: 'img'
+#  ignore:
+#    - 404.html
     - LICENSE
-    - feed.xml
+#    - feed.xml
     - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
+#    - /_layouts
+#    - /_includes
+#    - /css
+#    - /img
+#    - /js
+#  metadata:
+#    _posts:
+#      - name: "layout"
+#        field:
+#          element: "hidden"
+#          value: "post"
+#      - name: "title"
+#        field:
+#          element: "text"
+#          label: "Post title"
+#          placeholder: "Title"
+#          alterable: true
+#      - name: "subtitle"
+#        field:
+#          element: "textarea"
+#          label: "Subtitle"
+#          placeholder: "A description of your post."
+#          alterable: true
+#      - name: "date"
         field:
           element: "text"
           label: "Date"
