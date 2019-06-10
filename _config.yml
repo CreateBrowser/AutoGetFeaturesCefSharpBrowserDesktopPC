@@ -71,7 +71,7 @@ author:
 social-network-links:
   rss: true
   email: "mohamed.osama914@yahoo.com"
-
+  github: mohamedosama914
 
 
 
@@ -97,6 +97,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  github: true
   twitter: true
   facebook: true
   linkedin: true
