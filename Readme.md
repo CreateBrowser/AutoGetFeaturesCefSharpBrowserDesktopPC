@@ -14,6 +14,8 @@
 
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 
+[![Balance](https://img.balancebadge.io/btc/41aca831-2434-4fac-bab0-334f3b82a7f9.svg)](https://img.balancebadge.io/btc/41aca831-2434-4fac-bab0-334f3b82a7f9.svg)
+
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
 
 
