@@ -35,7 +35,7 @@
 </p>
 
 
-[![Platform](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/platform-windows.svg)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC)
+[![Platform](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC)
 
 
 
