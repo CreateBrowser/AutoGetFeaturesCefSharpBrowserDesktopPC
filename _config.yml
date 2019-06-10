@@ -1,3 +1,28 @@
+
+theme: jekyll-theme-cayman
+
+title: webSite C# CefSharp Web Browser
+description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
+#description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
+timezone: "Africa/Cairo"
+
+social-network-links:
+  rss: true
+  email: "mohamed.osama914@yahoo.com"
+  github: mohamedosama914
+  
+share-links-active:
+  github: true
+  
+author:
+  name: Mohammed Osama Mohamed Sayed Ahmed
+
+defaults:
+      layout: "page"
+      show-avatar: true
+link-tags: true
+
+
 # --- General options --- #
 
 # url is the full website URL
@@ -21,17 +46,17 @@
 
 # Name of website
 #title: My website
-title: webSite C# CefSharp Web Browser
+#title: webSite C# CefSharp Web Browser
 
 # Short description of your site
 #description: A virtual proof that name is awesome!
 
-description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
+#description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
 
 #description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 
 
@@ -60,18 +85,18 @@ theme: jekyll-theme-cayman
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Mohammed Osama Mohamed Sayed Ahmed
+#author:
+#  name: Mohammed Osama Mohamed Sayed Ahmed
 # name: Some Person
 #
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-  rss: true
-  email: "mohamed.osama914@yahoo.com"
-  github: mohamedosama914
+#social-network-links:
+#  rss: true
+#  email: "mohamed.osama914@yahoo.com"
+#  github: mohamedosama914
 
 
 
@@ -96,11 +121,11 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  github: true
-  twitter: true
-  facebook: true
-  linkedin: true
+#share-links-active:
+#  github: true
+#  twitter: true
+#  facebook: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -150,7 +175,7 @@ share-links-active:
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Africa/Cairo"
+#timezone: "Africa/Cairo"
 #timezone: "America/Vancouver"
 #highlighter: rouge
 #permalink: /:year-:month-:day-:title/
@@ -161,28 +186,29 @@ timezone: "Africa/Cairo"
 #  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
-      layout: "page"
-      show-avatar: true
+#defaults:
+#      layout: "page"
+#      show-avatar: true
 
 # Use tags index page and make tags on each post clickable
-link-tags: true
+#link-tags: true
+
 
 # Exclude these files from production site
 #exclude:
 #  - README.md
-  - LICENSE
+#  - LICENSE
 #  - README.md
 
 # prose.io config
-prose:
+#prose:
 #  rooturl: '_posts'
 #  media: 'img'
 #  ignore:
 #    - 404.html
-    - LICENSE
+#    - LICENSE
 #    - feed.xml
-    - _config.yml
+#    - _config.yml
 #    - /_layouts
 #    - /_includes
 #    - /css
