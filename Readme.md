@@ -13,7 +13,7 @@
   <p>
 
 
-<a href="bitcoin:41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bitcoin.png" alt="bitcoin" /></a>
+<a href="bitcoin:41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bitcoin.svg" width="50" alt="bitcoin" /></a>
 
 
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
