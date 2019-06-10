@@ -13,7 +13,6 @@ assembly_info:
 dotnet_csproj:
   patch: true
   file: '\A Create Example Auto Get Fast Browser\Example CefSharp Chromium Application\ZExampleMain.csproj'
-  version: 73.0.3683.75
   package_version: 4.7
   assembly_version: 73.0.3683.75
   file_version: 73.0.3683.75
@@ -25,7 +24,9 @@ build:
 # Below is appveyor.yml for your current project configuration. To store versioned project configuration along with your sources download appveyor.yml and commit it to the root of your code repository.
 #
 # Download appveyor.yml
-
+#
+# @ Download 
+#
 #version: CefSharp.{build}
 #image: Visual Studio 2015
 #configuration: Debug
