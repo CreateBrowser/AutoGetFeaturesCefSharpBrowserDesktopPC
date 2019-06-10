@@ -3,9 +3,13 @@ theme: jekyll-theme-cayman
 
 title: webSite C# CefSharp Web Browser
 description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
-#description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 timezone: "Africa/Cairo"
 
+#description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
+
+author:
+  name: Mohammed Osama Mohamed Sayed Ahmed
+  
 social-network-links:
   rss: true
   email: "mohamed.osama914@yahoo.com"
@@ -13,9 +17,6 @@ social-network-links:
   
 share-links-active:
   github: true
-  
-author:
-  name: Mohammed Osama Mohamed Sayed Ahmed
 
 defaults:
       layout: "page"
