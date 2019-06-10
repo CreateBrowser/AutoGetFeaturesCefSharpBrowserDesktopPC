@@ -1,4 +1,4 @@
-version: CefSharp.{build}
+
 image: Visual Studio 2015
 configuration: Debug
 platform:
@@ -20,3 +20,34 @@ dotnet_csproj:
 build:
   project: Example CefSharp Chromium Application.sln
   publish_nuget: true
+
+# Export project configuration to YAML
+# Below is appveyor.yml for your current project configuration. To store versioned project configuration along with your sources download appveyor.yml and commit it to the root of your code repository.
+#
+# Download appveyor.yml
+
+#version: CefSharp.{build}
+#image: Visual Studio 2015
+#configuration: Debug
+#platform:
+#- x64
+#- x86
+#clone_folder: E:\Applications\@Projects CefSharp Browser
+#assembly_info:
+#  patch: true
+#  file: '\Properties\AssemblyInfo.cs'
+#  assembly_version: 73.0.3683.75
+#  assembly_file_version: 73.0.3683.75
+#  assembly_informational_version: CefSharp 73.1.130
+#dotnet_csproj:
+#  patch: true
+#  file: '\A Create Example Auto Get Fast Browser\Example CefSharp Chromium Application\ZExampleMain.csproj'
+#  version: 73.0.3683.75
+#  package_version: 4.7
+#  assembly_version: 73.0.3683.75
+#  file_version: 73.0.3683.75
+#  informational_version: CefSharp 73.1.130
+#build:
+#  project: Example CefSharp Chromium Application.sln
+#  publish_nuget: true
+#  verbosity: normal
