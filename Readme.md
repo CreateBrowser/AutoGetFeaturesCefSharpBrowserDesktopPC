@@ -12,8 +12,9 @@
   <br />
   <p>
 
-<a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
+
+<a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
 
 
 
