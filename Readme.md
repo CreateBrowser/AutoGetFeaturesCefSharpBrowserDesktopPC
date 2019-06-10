@@ -20,7 +20,6 @@
 
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 
-<a href="https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bitcoin-logo-dark.svg"  width="110" alt="bitcoin" /></a>
 
 
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
