@@ -10,7 +10,6 @@ assembly_info:
   file: '\Properties\AssemblyInfo.cs'
   assembly_version: 73.0.3683.75
   assembly_file_version: 73.0.3683.75
-  assembly_informational_version: CefSharp 73.1.130
 dotnet_csproj:
   patch: true
   file: '\A Create Example Auto Get Fast Browser\Example CefSharp Chromium Application\ZExampleMain.csproj'
@@ -18,8 +17,6 @@ dotnet_csproj:
   package_version: 4.7
   assembly_version: 73.0.3683.75
   file_version: 73.0.3683.75
-  informational_version: CefSharp 73.1.130
 build:
   project: Example CefSharp Chromium Application.sln
   publish_nuget: true
-  verbosity: normal
