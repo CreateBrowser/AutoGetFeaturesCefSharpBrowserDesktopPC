@@ -21,6 +21,9 @@
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
 
 
+<a href="http://paypal.me/MohamedOsama914/5"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
+
+
 
  </p>  
 </div>
@@ -35,7 +38,6 @@
 </p>
 
 
-[![Platform](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC)
 
 
 
