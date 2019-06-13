@@ -34,33 +34,25 @@
 -->
   
   
-***javascript
-<script type="text/javascript"
-	<!-- btcdonate(); -->
-	  
-	   /*
-       *
-       * You can also try variations by changing the "fill" and "radius" values:
-       *
-       * Use a black QR code:
-       *   btcdonate({fill: "#990000"});
-       *
-       * Don't curve the lines so much:
-       *   btcdonate({radius: 0});
-       *
-       * Combine both of the above:
-       *   btcdonate({
-       *     fill: "#990000",
-       *     radius: 0
-       *   });
-       *
-       */	
-          
-</script>
-***javascript
+
  
 
- <!-- bitcoin:A_BITCOIN_ADDRESS -->
+
+<!--
+<script type="text/javascript">
+ btcdonate();  
+You can also try variations by changing the "fill" and "radius" values:
+          Use a black QR code:
+          btcdonate({fill: "#990000"});
+          Don't curve the lines so much:
+          btcdonate({radius: 0});
+          Combine both of the above:
+          btcdonate({
+            fill: "#990000",
+            radius: 0
+          });
+</script>
+-->
 
 
 
@@ -117,6 +109,14 @@
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
+
+
+
+
+
+
+
+
 
 
 
