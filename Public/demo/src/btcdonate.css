@@ -7,7 +7,12 @@
   position: relative;
   width: 230px;
   padding: 10px;
-  background: #ffffff;
+  
+  
+  background: #cccccc;
+  /* background: #ffffff; */
+  
+  
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
