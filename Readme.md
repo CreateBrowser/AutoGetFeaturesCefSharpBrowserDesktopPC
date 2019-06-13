@@ -111,13 +111,8 @@ You can also try variations by changing the "fill" and "radius" values:
 </p>
 
 
-
-
-
-
-
-
-
+***
+---
 
 
 ## Credits
