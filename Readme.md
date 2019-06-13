@@ -30,8 +30,7 @@
 <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal" /></a>
 <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/%E6%94%AF%E4%BB%98%E5%AE%9D-%E5%90%91TA%E6%8D%90%E5%8A%A9-yellow.svg" alt="PayPal" /></a>
 
-**Bitcoin wallet Address is.** | [`Donate ( Blockchain ) Bitcoin wallet address`](https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9)
-
+**Bitcoin wallet Address is.** | [Donate ( Blockchain ) Bitcoin wallet address](https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9)
 
 
  </p>  
