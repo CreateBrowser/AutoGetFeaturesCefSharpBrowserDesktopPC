@@ -298,17 +298,35 @@ new google.translate.TranslateElement({pageLanguage: 'af-ZA'}, 'google_translate
     <script type="text/javascript"> /*src="/path/to/js/btcdonate.js">*/ 
 	
    </script>
-    <script>
-	    
-// btcdonate();	    
-	    
-// Change the fill to deep red and make the QR code corners sharp
-btcdonate({
-  fill: "#990000",
-  radius: 0
-});
+  
+   <script>	    /* btcdonate(); */	    	    
+       // Change the fill to deep red and make the QR code corners sharp
+     btcdonate({
+   fill: "#990000",
+   radius: 0
+   });
     </script>
 		
+   <script type="text/javascript">
+      btcdonate();
+      /*
+       *
+       * You can also try variations by changing the "fill" and "radius" values:
+       *
+       * Use a black QR code:
+       *   btcdonate({fill: "#990000"});
+       *
+       * Don't curve the lines so much:
+       *   btcdonate({radius: 0});
+       *
+       * Combine both of the above:
+       *   btcdonate({
+       *     fill: "#990000",
+       *     radius: 0
+       *   });
+       *
+       */
+    </script>
 	<!--bitcoin:A_BITCOIN_ADDRESS-->
 
 
