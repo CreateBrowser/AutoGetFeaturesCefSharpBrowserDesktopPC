@@ -1,15 +1,14 @@
 
+<!--
 <html>
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/src/btcdonate.css">   
-  
- <!-- <style type="text/css">
+  <style type="text/css">
   .btcdonate-bubble {
     background: #cccccc;
   }
  </style>
--->
 </head>
 <body>
   <div align="center">
@@ -17,9 +16,9 @@
   <p>
  <h1>CefSharp Web Browser</h1> 
 </p>
-
 </body>
-
+-->
+ 
 <!-- 
  <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery-1.11.0.min.js"></script>
  <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery.qrcode-0.7.0.min.js"></script>
@@ -31,17 +30,10 @@
       radius: 0
       }); 
       </script>
--->
-  
-  
-
- 
-
-
-<!--
-<script type="text/javascript">
- btcdonate();  
-You can also try variations by changing the "fill" and "radius" values:
+***
+  <script type="text/javascript">
+  btcdonate();  
+  You can also try variations by changing the "fill" and "radius" values:
           Use a black QR code:
           btcdonate({fill: "#990000"});
           Don't curve the lines so much:
@@ -51,16 +43,22 @@ You can also try variations by changing the "fill" and "radius" values:
             fill: "#990000",
             radius: 0
           });
-</script>
+    </script>
+*
+*
+*
+</html>
 -->
 
 
 
-</html>
 
 <div align="center">
   <br />
   <p>
+
+
+ <h1>CefSharp Web Browser</h1> 
 
 
 
