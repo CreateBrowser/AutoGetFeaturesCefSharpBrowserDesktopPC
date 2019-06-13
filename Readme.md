@@ -3,7 +3,6 @@
   <br />
   <p>
     
-
    <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="CefSharp - Embedded Chromium for .NET" /></a>
    
    <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
@@ -11,11 +10,10 @@
 <a href="https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9" /></a>
   <!-- [](bitcoin:41aca831-2434-4fac-bab0-334f3b82a7f9) -->    
 
+
   </p>
   <br />
   <p>
-
-
 
 
 
