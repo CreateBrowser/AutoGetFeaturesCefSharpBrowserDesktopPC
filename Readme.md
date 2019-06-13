@@ -2,11 +2,68 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/src/btcdonate.css">   
+  
+ <!-- <style type="text/css">
+  .btcdonate-bubble {
+    background: #cccccc;
+  }
+ </style>
+-->
 </head>
 <body>
- <center> <h1>CefSharp Web Browser</h1> </center>
+  <div align="center">
+  <br />
+  <p>
+ <h1>CefSharp Web Browser</h1> 
+</p>
 
 </body>
+
+<!-- 
+ <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery-1.11.0.min.js"></script>
+ <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery.qrcode-0.7.0.min.js"></script>
+ <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/src/btcdonate.js"></script>		
+<script type="text/javascript">
+	  //  Change the fill to deep red and make the QR code corners sharp
+      btcdonate({
+      fill: "#990000",
+      radius: 0
+      }); 
+      </script>
+-->
+  
+  
+***javascript
+<script type="text/javascript"
+	<!-- btcdonate(); -->
+	  
+	   /*
+       *
+       * You can also try variations by changing the "fill" and "radius" values:
+       *
+       * Use a black QR code:
+       *   btcdonate({fill: "#990000"});
+       *
+       * Don't curve the lines so much:
+       *   btcdonate({radius: 0});
+       *
+       * Combine both of the above:
+       *   btcdonate({
+       *     fill: "#990000",
+       *     radius: 0
+       *   });
+       *
+       */	
+          
+</script>
+***javascript
+ 
+
+ <!-- bitcoin:A_BITCOIN_ADDRESS -->
+
+
+
 </html>
 
 <div align="center">
