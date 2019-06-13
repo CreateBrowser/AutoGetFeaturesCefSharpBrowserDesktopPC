@@ -57,8 +57,12 @@
   <br />
   <p>
 
+---
 
- <h1>CefSharp Web Browser</h1> 
+<!-- <h1>CefSharp Web Browser</h1> -->
+
+
+## CefSharp Web Browser 
 
 ***
 
@@ -111,7 +115,6 @@
 
 
 ***
----
 
 
 ## Credits
