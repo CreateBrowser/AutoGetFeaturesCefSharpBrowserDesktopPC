@@ -18,10 +18,10 @@ social-network-links:
 share-links-active:
   github: true
 
-defaults:
-      layout: "page"
-      show-avatar: true
-link-tags: true
+#defaults:
+#      layout: "page"
+#      show-avatar: true
+#link-tags: true
 
 
 # --- General options --- #
