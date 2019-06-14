@@ -5,7 +5,25 @@ title: webSite C# CefSharp Web Browser
 description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
 timezone: "Africa/Cairo"
 
-language: Java, .NET, Node.js, C, PHP, Go, Python
+
+language: Java, .NET, Node.js, C, PHP, Go, Python, MySQL, css
+
+
+
+  JAVA:  Java options: true, false
+  
+  PHP:  PHP options: true, false
+
+  MYSQL_CLIENT: MySQL options: true, false
+
+  POSTGRES_CLIENT: # Postgres options: true, false
+
+  DOCKERIZE: # Dockerize options: true, false
+
+  BROWSERS:  browser tools (Xvfb, PhantomJS, Firefox, Chrome, Chromedriver): true, false
+
+version: 2
+
 
 #description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
