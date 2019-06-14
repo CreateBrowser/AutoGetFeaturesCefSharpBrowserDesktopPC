@@ -12,13 +12,13 @@ CefSharp Web Browser | Example Release CefSharp Version | 73.0.130 |
 
  
 
-```md 
-
+<cmd>
+ 
                                                     Developer Pack
    The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
 
  
- ```
+ </cmd>
  
 Example Chromium Browser | Release CefSharp Version | 63.0.3 | 71.0.2 (71.0.3578.98) | 73.0.130 | 
 Example Chromium Browser | Release Pro CefSharp Version | v65.0.0-pre01 | v69.0.0-pre01 | v73.0.120-pre01 | 
