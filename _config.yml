@@ -5,6 +5,8 @@ title: webSite C# CefSharp Web Browser
 description: Example Custom Windows Desktop PC for Project Supported C# ( CefSharp Web Browser ) 
 timezone: "Africa/Cairo"
 
+language: Java, .NET, Node.js, C, PHP, Go, Python
+
 #description: More CefSharp Version Auto Get Fast Chromium Web Browser URL : (https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
 author:
@@ -18,9 +20,9 @@ social-network-links:
 share-links-active:
   github: true
 
-- title: WebSite Network C# CefSharp Web Browser 
-topic: Read, Write, Query
-language: Java, .NET, Node.js, C, PHP, Go, Python
+# - title: WebSite Network C# CefSharp Web Browser 
+# topic: Read, Write, Query
+# language: Java, .NET, Node.js, C, PHP, Go, Python
 
 
 # redcarpet: extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
