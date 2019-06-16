@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+
+<!-- <html lang="en-EG" class="no-js" data-device-type="dedicated" data-cast-api-enabled="true"> -->
+ 
+ <!-- <html> |  lang="en_US" dir="rtl"> | <html lang="ar_EG" dir="rtl"> | -->
+ <!-- | Continue ISO Country | 	    
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="ar_EG" />
+<meta property="og:locale:alternate" content="zh_HK" />
+<meta property="og:locale:alternate" content="ja_JP" />
+<meta property="og:locale:alternate" content="ru_RU" />
+<meta property="og:locale:alternate" content="zh_TW" />
+<meta property="og:locale:alternate" content="zh_CN" />	
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:locale:alternate" content="en_GB" />
+ | Continue ISO Country | (ISO Language Code Table) http://www.lingoes.net/en/translator/langcode.htm  --> 
+
+
+
+<html lang="ar_EG">
+<meta property="og:locale" content="ar" /> <!-- Arabic -->
+<meta property="og:locale:alternate" content="ar_EG" /> <!-- Arabic (Egypt) -->
+<meta property="og:locale:alternate" content="zh_CN" /> <!-- Chinese (S) -->
+<meta property="og:locale:alternate" content="zh_HK" /> <!-- Chinese (Hong Kong) -->
+<meta property="og:locale:alternate" content="zh_TW" /> <!-- Chinese (T) -->
+<meta property="og:locale:alternate" content="en_US" /> <!-- English (United States) -->
+<meta property="og:locale:alternate" content="en_GB" /> <!-- English (United Kingdom) -->
+<meta property="og:locale:alternate" content="ru_RU" /> <!-- Russian (Russia) -->
+<meta property="og:locale:alternate" content="ko-KR" /> <!-- Korean (Korea) -->
+<meta property="og:locale:alternate" content="ja_JP" /> <!-- Japanese (Japan) -->
+
+<!-- locale -->
+<meta property="og:locale:alternate" content="zh" /> <!-- Chinese -->
+<meta property="og:locale:alternate" content="en" /> <!-- English -->
+<meta property="og:locale:alternate" content="ko" /> <!-- Korean -->
+<meta property="og:locale:alternate" content="ja" /> <!-- Japanese -->
+<!-- locale -->
+
+<head>
+	
+<link rel="shortcut icon" href="https://www.paypalobjects.com/favicon.ico" type="image/x-icon" />
+<meta name="google-site-verification" content="gxg14u9TMvNpjfa1mkNz2AojDo4LwK0YnJCQEtAnA80" />
+<meta name="p:domain_verify" content="5cb601c4d83ee45cdf428285fb13fc7b"/>	
+<meta name='yandex-verification' content="690519edf76303ae" />
+
+  <meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="white">
+  <meta name="mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui, shrink-to-fit=no" />	
+<meta name="robots" content="NOODP"/>	
+<meta name="application-name" content="PayPal" />
+<meta name="msapplication-task" content="name=My Account;action-uri=https://www.paypal.com/eg/cgi-bin/webscr?cmd=_account;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="msapplication-task" content="name=Send Money;action-uri=https://www.paypal.com/eg/webapps/mpp/send-money-online;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="msapplication-task" content="name=Request Money;action-uri=https://www.paypal.com/eg/webapps/mpp/requesting-payments;icon-uri=https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+<meta name="keywords" content="send money, pay online, merchant account" />
+<meta name="description" content="PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account." />
+<meta name="theme-color" content="#009cde" />
+<meta property="twitter:card" content="summary"><meta property="twitter:site" content="@paypal">
+
+  <title> Donate quickly with PayPal | Donate | PayPal Payments Standard </title>
+<!--
+Basic PayPal Payments Panel Button GO 
+
+
+$$$$$$$\                     $$$$$$$\           $$\
+$$  __$$\                    $$  __$$\          $$ |
+$$ |  $$ |$$$$$$\  $$\   $$\ $$ |  $$ |$$$$$$\  $$ |
+$$$$$$$  |\____$$\ $$ |  $$ |$$$$$$$  |\____$$\ $$ |
+$$  ____/ $$$$$$$ |$$ |  $$ |$$  ____/ $$$$$$$ |$$ |
+$$ |     $$  __$$ |$$ |  $$ |$$ |     $$  __$$ |$$ |
+$$ |     \$$$$$$$ |\$$$$$$$ |$$ |     \$$$$$$$ |$$ |
+\__|      \_______| \____$$ |\__|      \_______|\__|
+                   $$\   $$ |
+                   \$$$$$$  |
+                    \______/
+
+Now hiring @ https://www.paypal.com/jobs
+
+-->
+	<meta property="og:type" content="website" />
+<meta property="og:title" content="Send Money, Pay Online or Set Up a Merchant Account - PayPal"/><meta property="og:image" content="https://www.paypalobjects.com/webstatic/icon/pp258.png"><meta property="og:description" content="PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account." />
+<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="https://www.paypalobjects.com/web/res/afd/01a0e7c1964b1ccaefc828a050c55/js/vendor/oo_engine.min.js"></script>  -->
+	
+<style>
+
+
+</style>	
+	
+	
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+	  <!-- import CSS -->
+	
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+ 
+	
+<!-- sample html for this button-->
+<!-- stylesheet for this button -->
+  
+<style class="cp-pen-styles">/*
+*************************************
+                 Copyright 2018
+	Mohammed Osama Mohamed Sayed Ahmed
+*************************************
+*/
+
+
+	
+}</style>
+
+ <link rel="stylesheet" href="https://asiamusicvideo.000webhostapp.com/website/buttons/flat-ui/css/style.css">
+  <!-- Bootstrap CSS -->
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+
+<!--Import Google Icon Font-->
+ <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  	
+<!-- Compiled and minified CSS
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+ -->
+	
+	
+<!-- bitcoin:A_BITCOIN_ADDRESS -->	
+ <link rel="stylesheet" href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/src/btcdonate.css">
+ <style type="text/css">
+  .btcdonate-bubble {
+    background: #cccccc;
+  }
+ </style>
+
+<!-- bitcoin:A_BITCOIN_ADDRESS -->	
+
+	
+	
+
+
+	
+<!-- 
+-->		
+</head>
+<body>
+	
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'af-ZA'}, 'google_translate_element'); }
+</script> <!-- pageLanguage: 'en-gb' -->
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>		
+<center>		
+
+</center>	
+
+<!--	
+<div> Yandex.Translate widget for websites  </div>
+<url> https://translate.yandex.com/developers/website-widget </url>	
+  	
+<div> Translator Widget websites  </div>
+<url> https://www.bing.com/widget/translator </url>	
+ -->	
+	
+<hgroup>
+</hgroup>
+	
+<center>	
+	
+ <!-- <h4 class="truncate"> PayPal Account </h4> -->
+
+<header>
+ <img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/PayPal.jpg">
+</header>	
+	
+</center>
+
+
+
+	
+<center>	
+	
+<div id="app">
+
+    <el-header>
+    </el-header>
+	
+    <H1> Donate quickly with PayPal </H1>
+     <H6> PayPal securely processes donations for mohamed.osama914@yahoo.com. You can complete your payment with just a few clicks. </H6> 
+    <H6> Don't have a PayPal account? </H6>   <H6> Use your credit card or bank account (where available). </H6> 
+
+    
+    <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
+    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">
+
+	    	  
+
+<!-- bitcoin -->
+<p>
+ <br>
+<strong>
+	
+<!-- (a donation link)   bitcoin:A_BITCOIN_ADDRESS?amount=0.01 -->
+<!-- <a href="bitcoin:ANOTHER_BITCOIN_ADDRESS?amount=0.01"> -->	
+
+	
+<!--	
+<center> <a href="bitcoin:A_BITCOIN_ADDRESS"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public//path/to/image.png" /></a> </center>
+-->
+	
+	
+<!-- <a href="bitcoin:ANOTHER_BITCOIN_ADDRESS?amount=0.01"> -->		
+<!-- (a donation link)   bitcoin:A_BITCOIN_ADDRESS?amount=0.01 -->
+
+	
+	
+<!--<center> <a href="bitcoin:41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bitcoin.svg"  width="40" alt="Bitcoin" /></a> </center> -->
+	
+<strong>
+ </br>
+</p>
+<!-- bitcoin -->
+
+	    
+<!-- Blockchain -->
+
+	
+
+	    
+<!-- 
+<center>  <a href="https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bitcoin-logo-dark.svg"  width="110" alt="bitcoin" /></a> </center>
+-->
+	
+<!-- <center>  <a href="https://blockchain.info/address/A_BITCOIN_ADDRESS" data-btcaddress="A_BITCOIN_ADDRESS"> Some text </a> </center> -->
+	
+	
+<!-- Blockchain -->
+
+ <!-- Blockchain | [](bitcoin:41aca831-2434-4fac-bab0-334f3b82a7f9) | [**`Donate ( Blockchain ) Bitcoin wallet address`**](https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9)   Blockchain -->
+	    
+	    
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+  <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="mohamed.osama914@yahoo.com">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Friends of the Park">
+    <input type="hidden" name="item_number" value="Fall Cleanup Campaign">
+  <!--  <input type="hidden" name="amount" value="0.00"> --><!-- $5 - 5.00 -->
+    <input type="hidden" name="currency_code" value="USD">
+<INPUT TYPE="hidden" name="cancel_return" value="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html">
+		  
+<!-- Donate button. -->
+
+<!-- Donate button. -->
+	 <input class="btn btn-primary btn-lg" width="300" height="300" type="submit" value="Donate" alt="Donate" >	
+
+<select name="amount" style="margin: 70px 70px 0px 0px;"> <option selected value="5.00">Please Select Amount</option>	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="25.00">$25.00</option>
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>	
+<option value="5000.00">$5000.00</option> </select><br>
+	<img alt="" width="2" height="2" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 	
+
+<a href="http://paypal.me/MohamedOsama914/5" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png"  alt="Credit Card Badges">	
+<a href="http://paypal.me/MohamedOsama914/5" target="_blank"><img width="100" height="100" src="https://www.paypalobjects.com/webstatic/paypalme/images/social/pplogo384.png"></a>  	
+
+
+	
+</form>
+        
+    </el-dialog>
+	 	  
+  </div>
+		
+  				
+ </center>
+	
+				
+  <center>	
+ 
+  
+	  
+	
+	<style type="text/css">
+  .btcdonate-bubble {
+    background: #cccccc;
+  }
+ </style>
+
+    <script type="text/javascript">
+      btcdonate({
+      fill: "#990000",
+      radius: 0
+      }); 
+    </script>
+	  <p>
+ <br>
+<strong>
+
+ <!-- 41aca831-2434-4fac-bab0-334f3b82a7f9?amount=5.00 -->
+	
+ <a href="https://blockchain.info/address/41aca831-2434-4fac-bab0-334f3b82a7f9" data-btcaddress="41aca831-2434-4fac-bab0-334f3b82a7f9?amount=5.00"> Donate ( Blockchain )  wallet address <!-- Bitcoin --> </a> 		
+<strong>
+ </br>
+</p>
+	</center>  
+	
+     <!--bitcoin:A_BITCOIN_ADDRESS-->
+    <!-- <script type="text/javascript">  </script> -->
+    <!-- https://github.com/danielquinn/bitcoin-donate -->
+  
+    <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery.qrcode-0.7.0.min.js"></script>
+    <script type="text/javascript" src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/src/btcdonate.js"></script>
+		
+   <script type="text/javascript">
+	   
+	//    btcdonate();  	
+	  
+	   /*
+       *
+       * You can also try variations by changing the "fill" and "radius" values:
+       *
+       * Use a black QR code:
+       *   btcdonate({fill: "#990000"});
+       *
+       * Don't curve the lines so much:
+       *   btcdonate({radius: 0});
+       *
+       * Combine both of the above:
+       *   btcdonate({
+       *     fill: "#990000",
+       *     radius: 0
+       *   });
+       *
+       */
+	   
+	   
+       // Change the fill to deep red and make the QR code corners sharp
+      btcdonate({
+      fill: "#990000",
+      radius: 0
+      }); 
+	  
+    </script>
+	 
+ <!--bitcoin:A_BITCOIN_ADDRESS-->
+
+	
+	
+
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+	
+    <!-- Bottom Continue Scripts -->
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <!-- Bottom Continue Scripts -->		
+	
+	 <!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>      
+	 <!-- Compiled and minified JavaScript -->
+
+<script  src="https://asiamusicvideo.000webhostapp.com/website/buttons/flat-ui/js/index.js"></script>	
+<script> </script>
+	
+
+
+</body>
+	
+	
+ 
+
+		
+    
+
+	 
+ <!-- import Vue before Element -->
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <!-- import JavaScript -->
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return { visible: false }
+      }
+    })
+  </script>
+
+
+
+	
+      <style type="text/css">
+  .button {
+    backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background: #58c;
+  border-radius: 0px;
+  border: 0px groove #246;
+  border-width: 0px 0px 0px 0px;
+  padding: 11px 11px 11px 11px;
+    color: #fff;
+  font-size: 41px;
+  font-family: Times New Roman;
+  font-weight: 900;
+  font-style: normal
+  }
+  .button > div {
+    color: #999;
+  font-size: 20px;
+  font-family: Helvetica Neue;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
+  margin: 0px 0px 0px 0px
+  }
+  .button > i {
+    font-size: 1em;
+  border-radius: 0px;
+  border: 0px double transparent;
+  border-width: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  position: static
+  }
+  .button > .ld {
+    font-size: initial
+  }
+</style>
+
+	
+	<center>	
+
+   
+</center>	
+
+	
+	
+<center>	
+	<div id="google_translate_element"></div>
+
+
+	
+	
+	<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center">
+	<a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html" title="How PayPal Works"  onclick="javascript:window.open('https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_payments_by_pp_2line.png" border="0" alt="Payments by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/eg/webapps/mpp/pay-online" target="_blank"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></table> <!-- PayPal Logo -->
+</center>	
+
+
+	
+	
+	
+<center>	
+
+<!-- <iframe src="https://www.meteoblue.com/ar/weather/widget/three/%d8%a3%d8%a8%d9%88-%d9%83%d8%a8%d9%8a%d8%b1_%d9%85%d8%b5%d8%b1_362485?geoloc=fixed&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=BEAUFORT&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 805px;height: 627px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/ar/weather/forecast/week/%d8%a3%d8%a8%d9%88-%d9%83%d8%a8%d9%8a%d8%b1_%d9%85%d8%b5%d8%b1_362485?utm_source=weather_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank"> Meteoblue (Weather) </a></div> <!-- -->	
+</center>	
+
+	
+	
+
+	
+</html>
+  
+	
+	  <!--Let browser know website is optimized for mobile-->
+<!--   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,viewport-fit=cover">	 -->
+		
+<!--
+	    	Script info: script: node, date: Jul 29, 2018 21:38:45 -07:00, country: EG, language: en
+hostname : rZJvnqaaQhLn/nmWT8cSUjOx898qoYZ0JcIVHgFd91nL7ORqTliILA
+rlogid : rZJvnqaaQhLn%2FnmWT8cSUmR1G%2FXOGzg1b29TMfAlTtZKEN%2BrRaLfntufyNzLlyt4GqcqBNFOG9w_164e97b3eb5
+-->	
+	<!-- 
+	<style type="text/css">
+		
+  </script>
+
+
+    <script>
+        paypal.Button.render({
+
+            env: 'sandbox', // sandbox | production
+
+            // Show the buyer a 'Pay Now' button in the checkout flow
+            commit: true,
+    // Customize button (optional)               //  sandbox:    'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4eYXlewfBP4-8aqX3PiV8e1GWU6liB2CUXlkA59kJXE7M6R'
+         // payment: function (data, actions) { 
+
+       // locale: 'en_US',  
+        style: {
+        //    layout: 'horizontal',
+            layout: 'vertical',  // horizontal | vertical
+            size:  'medium',    // medium | large | responsive
+        //  size:  'responsive', // small | medium | large | responsive
+        //  shape: 'pill',   // pill | rect
+            shape: 'rect',      // pill | rect
+            color: 'gold'   // gold | blue | silver | black
+        },
+
+        // Specify allowed and disallowed funding sources
+        //
+        // Options:
+        // - paypal.FUNDING.CARD
+        // - paypal.FUNDING.CREDIT
+        // - paypal.FUNDING.ELV
+
+        funding: {
+            allowed: [ paypal.FUNDING.CARD, paypal.FUNDING.CREDIT ],
+            disallowed: [ ]
+        },
+
+            // payment() is called when the button is clicked
+            payment: function() {
+</script>
+	-->
+	
+ <!--  
+<div id="app">
+    
+    <el-button @click="visible = true" type="primary" size="medium"> Donate | PayPal Payments Standard </el-button>
+    <el-dialog :visible.sync="visible" title="Basic for PayPal Payments Standard Donate ">	
+		  
+	<select name="amount" style="margin: 0px 0px 50px 0px;">
+<option selected value="10.00">Please Select Amount $10 </option> 		    	
+<option selected value="5.00">Please Select Amount $5 </option> 		    	
+        </select><br>
+		  		  
+<select name="amount" style="margin: 0px 0px 19px 0px;">
+<option selected value="10.00">Please Select Amount</option> 		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="25.00">$25.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+</select><br>
+	
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="0.5">Please Select Amount</option>
+<option value="0.5">$0.5</option>		    			
+<option value="0.10">$0.10</option>		    		
+<option value="0.50">$0.50</option>		    	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>	
+</select><br>
+	 </el-dialog>
+	 	  
+  </div>
+ -->
+<!--
+<iframe height='265' scrolling='no' title='HTML5 - Basic for PayPal Payments Standard Donate' src='//codepen.io/MohamedOsama914/embed/preview/ajdZGp/?height=265&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/MohamedOsama914/pen/ajdZGp/'>HTML5 - Basic for PayPal Payments Standard Donate</a> by MohamedOsamaMohamed (<a href='https://codepen.io/MohamedOsama914'>@MohamedOsama914</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+ 
+<link rel="stylesheet" href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/Public/style.css">
+
+<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Roboto'>	
+<script src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/script.js"></script> 
+<link rel="stylesheet" href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/styles.css">
+-->
+		
+  <!-- Icon Library Continue 
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+   Icon Library Continue -->
+	
+	
+<!-- sample html
+
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+<option selected value="5.00">Please Select Amount</option>
+<option value="0.5">$0.5</option>		    			
+<option value="0.10">$0.10</option>		    		
+<option value="0.50">$0.50</option>		    	
+<option value="1.00">$1.00</option>		    
+<option value="2.00">$2.00</option>		    
+<option value="3.00">$3.00</option>		    
+<option value="4.00">$4.00</option>		    	
+<option value="5.00">$5.00</option>		    
+<option value="10.00">$10.00</option>
+<option value="15.00">$15.00</option>
+<option value="20.00">$20.00</option>	
+<option value="25.00">$25.00</option>
+<option value="30.00">$30.00</option>
+<option value="40.00">$40.00</option>
+<option value="50.00">$50.00</option>
+<option value="100.00">$100.00</option>
+<option value="200.00">$200.00</option>
+<option value="500.00">$500.00</option>
+<option value="1000.00">$1000.00</option>
+	
+</select><br>
+
+<input class="waves-effect waves-light btn-large" type="submit" value="Button Donate" alt="Donate">
+
+<center>
+
+<input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate" height="100">
+
+		  
+<button class="btn btn-lg btn-primary btn-block" type="submit" alt="Donate">PayPal Payments Standard Donate</button>
+
+
+ <input type="hidden" name="paymentaction" value="order">
+
+    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">					  
+
+  <input type="image" name="submit" src="https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserDesktop/master/Public/paypay@2x.png" alt="Donate">
+
+
+ <input type="image" name="submit" src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/Public/button.png" alt="Donate">
+
+
+
+<input type="image" target="_blank" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">   
+<div id="buttons"> < class="btn blue" target="_blank" > PayPal Payments Standard Donate </a></div>
+		  
+		  
+	  
+<a href="http://paypal.me/MohamedOsama914/5" target="_blank"><img src="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/Public/button.png"></a>  
+<div id="xptCardIcons"><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccVisa&#x2e;gif" class="marginBottom ccLogo V" alt="Visa" title="Visa"><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccMC&#x2e;gif" class="marginBottom ccLogo M" alt="Mastercard "><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccAmex&#x2e;gif" class="marginBottom ccLogo A" alt="American Express "><Wbr></Wbr><img border="0" src="https&#x3a;&#x2f;&#x2f;www&#x2e;paypalobjects&#x2e;com&#x2f;en&#x5f;US&#x2f;i&#x2f;logo&#x2f;logo&#x5f;ccDiscover&#x2e;gif" class="marginBottom ccLogo D" alt="Discover" title="Discover"><Wbr></Wbr></div></p>
+	
+</center> 
+	<div id="buttons">  <a href="https://createbrowser.github.io/ACefSharpChromiumBrowserDesktop/PayPal.html" class="btn blue" target="_blank">PayPal Payments Standard Donate</a></div>
+
+
+button -->
+
+  
