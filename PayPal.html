@@ -151,61 +151,7 @@ Now hiring @ https://www.paypal.com/jobs
 	
 	
 	
-	  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
-        <script type="text/javascript">
-        function initialize() {
-        var address = (document.getElementById('my-address'));
-        var autocomplete = new google.maps.places.Autocomplete(address);
-        autocomplete.setTypes(['geocode']);
-        google.maps.event.addListener(autocomplete, 'place_changed', function() {
-            var place = autocomplete.getPlace();
-            if (!place.geometry) {
-                return;
-            }
 
-        var address = '';
-        if (place.address_components) {
-            address = [
-                (place.address_components[0] && place.address_components[0].short_name || ''),
-                (place.address_components[1] && place.address_components[1].short_name || ''),
-                (place.address_components[2] && place.address_components[2].short_name || '')
-                ].join(' ');
-        }
-      });
-}
-function codeAddress() {
-    geocoder = new google.maps.Geocoder();
-    var address = document.getElementById("my-address").value;
-    geocoder.geocode( { 'address': address}, function(results, status) {
-      if (status == google.maps.GeocoderStatus.OK) {
-
-      alert("Latitude: "+results[0].geometry.location.lat());
-      alert("Longitude: "+results[0].geometry.location.lng());
-      } 
-
-      else {
-        alert("Geocode was not successful for the following reason: " + status);
-      }
-    });
-  }
-google.maps.event.addDomListener(window, 'load', initialize);
-
-        </script>
-	
-	
-
-
-<div class="jquery-script-ads"><script type="text/javascript"><!-- /*<script src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery.geocoder.js"> */
-google_ad_client = "ca-pub-2783044520727903";
-/* jQuery_demo */
-google_ad_slot = "2780937993";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
 
 	
 	
@@ -480,14 +426,25 @@ new google.translate.TranslateElement({pageLanguage: 'af-ZA'}, 'google_translate
 	
 	
 	
+
+<div class="jquery-script-ads"><script type="text/javascript"><!-- /*<script src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/demo/js/jquery.geocoder.js"> */
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+	
+	
+	
 	
 		</body>
 
 
-<input type="text" id="my-address">
-<button id="getCords" onClick="codeAddress();">getLat&Long</button>
-	
-	
  
 
 		
