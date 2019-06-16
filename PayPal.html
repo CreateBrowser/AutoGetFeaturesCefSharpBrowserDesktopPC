@@ -60,6 +60,15 @@
 <meta property="twitter:card" content="summary"><meta property="twitter:site" content="@paypal">
 
   <title> Donate quickly with PayPal | Donate | PayPal Payments Standard </title>
+	
+	
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,visualization&sensor=false"></script>
+    <a href="#" id="showMyLocation">Where Am I</a>
+    <div id="location">Postal Address</div>
+    <div id="zipcode">Zip Code</div>
+	
+	
 <!--
 Basic PayPal Payments Panel Button GO 
 
@@ -478,9 +487,39 @@ new google.translate.TranslateElement({pageLanguage: 'af-ZA'}, 'google_translate
 <!-- <iframe src="https://www.meteoblue.com/ar/weather/widget/three/%d8%a3%d8%a8%d9%88-%d9%83%d8%a8%d9%8a%d8%b1_%d9%85%d8%b5%d8%b1_362485?geoloc=fixed&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=BEAUFORT&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 805px;height: 627px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/ar/weather/forecast/week/%d8%a3%d8%a8%d9%88-%d9%83%d8%a8%d9%8a%d8%b1_%d9%85%d8%b5%d8%b1_362485?utm_source=weather_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank"> Meteoblue (Weather) </a></div> <!-- -->	
 </center>	
 
-	
+
 	
 
+ <script type="text/javascript">
+// Google Maps API for geocoding the location.
+$(function () {
+    $("#showMyLocation").click(function (event) {
+        event.preventDefault();
+        $(this).html('Determining address...');
+        navigator.geolocation.getCurrentPosition(function (position) {
+            var geocoder = new google.maps.Geocoder();
+            var latLng   = new google.maps.LatLng( 
+                position.coords.latitude, position.coords.longitude);
+            geocoder.geocode({
+                'latLng': latLng
+            }, function (results, status) {
+                for (var i = 0; i < results[0].address_components.length; i++) {
+                    var address = results[0].address_components[i];
+                    if (address.types[0] == "postal_code") {
+                        $('#zipcode').html(address.long_name);
+                        $('#location').html(results[0].formatted_address);
+                        $('#showMyLocation').hide();
+                    }
+                }
+            });
+        });
+        return false;
+    });
+});
+</script>	
+	
+	
+	
 	
 </html>
   
