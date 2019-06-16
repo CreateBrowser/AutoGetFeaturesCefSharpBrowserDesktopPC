@@ -7,8 +7,8 @@ timezone: "Africa/Cairo"
 
 language: Java, .NET, Node.js, C, PHP, Go, Python, MySQL, css
 
-  PHP: PHP options: true, false
-  MYSQL_CLIENT: MySQL options: true, false
+#  PHP: PHP options: true, false
+#  MYSQL_CLIENT: MySQL options: true, false
   
 #  JAVA: Java options: true, false 
 #  POSTGRES_CLIENT: # Postgres options: true, false
