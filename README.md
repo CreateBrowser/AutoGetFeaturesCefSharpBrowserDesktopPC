@@ -9,7 +9,7 @@
 
  <br /> <p>
 
-<h2>Get Supported YouTube CefSharp browser </h2>
+<h2>Get Supported YouTube Available CefSharp Browser The Video Formats Available</h2>
 
 
 | <h6> [English - Supported browsers list - YouTube](https://www.youtube.com/supported_browsers?gl=US) </h6>| <h6> [العربية - قائمة المتصفحات المدعومة - يوتيوب]( https://www.youtube.com/supported_browsers?gl=EG) </h6>|<h6> [Chinese  - 中文 -  支持的浏览器列表 - YouTube](https://www.youtube.com/supported_browsers?gl=HK) </h6>  |
