@@ -6,8 +6,6 @@
 <div align="center">
 
 
-***
-
  <br /> <p>
 
 <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="CefSharp - Embedded Chromium for .NET"  /></a>
@@ -69,12 +67,13 @@
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
 ---
- 
- 
+<div align="center">
 
+ <br /> <p>
  <br /> <p>
 
 <h4> Get Supported YouTube Available CefSharp Browser The Video Formats Available </h4>
+<img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Supported%20Browsers%20List.png" width="700" alt="Get Supported YouTube CefSharp browser "  />
 
 
 | <h6> [English - Supported browsers list - YouTube](https://www.youtube.com/supported_browsers?gl=US) </h6>| <h6> [العربية - قائمة المتصفحات المدعومة - يوتيوب]( https://www.youtube.com/supported_browsers?gl=EG) </h6>|<h6> [Chinese  - 中文 -  支持的浏览器列表 - YouTube](https://www.youtube.com/supported_browsers?gl=HK) </h6>  |
@@ -83,9 +82,6 @@
 |Enjoy YouTube | استمتع بوقتك على يوتيوب | 请享受您的 YouTube  | 
 
 
-<img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Supported%20Browsers%20List.png" width="700" alt="Get Supported YouTube CefSharp browser "  />
-
- 
  ***
  
 [![ BuildNewGitHub ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/BuildNewGitHub.png)](http://paypal.me/MohamedOsama914/5)
