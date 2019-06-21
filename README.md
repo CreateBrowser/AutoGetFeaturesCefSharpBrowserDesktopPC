@@ -9,9 +9,8 @@
 
  <br /> <p>
 
-| <h6> English & Supported browsers list - YouTube </h6>| <h6> العربية - قائمة المتصفحات المدعومة & يوتيوب </h6>|<h6> Chinese 中文  & 支持的浏览器列表 - YouTube </h6>  |
+| <h6> [English & Supported browsers list - YouTube](https://www.youtube.com/supported_browsers?gl=US) </h6>| <h6> [العربية - قائمة المتصفحات المدعومة & يوتيوب]( https://www.youtube.com/supported_browsers?gl=EG) </h6>|<h6> Chinese 中文  & 支持的浏览器列表 - YouTube </h6>  |
 |-----------------------------------|------------------------------|-----------------------------------------|
-| <h6> https://www.youtube.com/supported_browsers?gl=US </h6> | <h6> https://www.youtube.com/supported_browsers?gl=EG </h6> | 
 | <h6> You're awesome! That's right! Your browser is up-to-date, which means you can use YouTube's latest features. Enjoy! </h6> | <h6>  انت رائع! هذا صحيح! متصفحك محدث ، مما يعني أنه يمكنك استخدام أحدث ميزات يوتيوب. استمتع! </h6> | <h6> 您的浏览器真是太棒了！ /        太好了！您的浏览器已经是最新版本，您可以尽情享用 YouTube 的最新功能！ </h6>
 |Enjoy YouTube | استمتع يوتيوب | 请享受您的 YouTube  | 
 
