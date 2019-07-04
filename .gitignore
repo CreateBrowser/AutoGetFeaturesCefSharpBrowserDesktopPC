@@ -15,6 +15,19 @@ Release/
 
 CefSharp/Debug
 CefSharp/Release
-bin/x32Debug
+bin/x32/Debug
 bin/x64/Release
 .vs/
+
+////////////////////////////////
+
+packages/ 
+
+////////////////////////////////
+```C#
+A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application.sln | Microsoft Visual Studio Solution (.sln)
+A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/App.config | XML Configuration File (.config)
+A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/packages.config | XML Configuration File (.config)
+A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj | Visual C# Project file (.csproj)
+A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj.user | Visual Studio Project User Options file (.user)
+```
