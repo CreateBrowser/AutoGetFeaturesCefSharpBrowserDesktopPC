@@ -7,20 +7,23 @@
 *.user
 *.xml
 
+////////////////////////////////
+
 bin/
 obj/
-packages/
 Debug/
 Release/
 
-CefSharp/Debug
-CefSharp/Release
+////////////////////////////////
+
+bin/Debug
+bin/Release
 bin/x32/Debug
 bin/x64/Release
-.vs/
 
 ////////////////////////////////
 
+.vs/
 packages/ 
 
 ////////////////////////////////
