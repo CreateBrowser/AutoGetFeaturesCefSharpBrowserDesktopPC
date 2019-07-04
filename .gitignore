@@ -8,7 +8,8 @@
 *.xml
 
 ========= Web =========
-=======================
+======================= cefsharp://cefsharp/default.html
+CefSharp Default Other =================================
 Resources/CefSharp.Web.Browser.Domain.Custom.HostName/
 ======================================================
 *.html
