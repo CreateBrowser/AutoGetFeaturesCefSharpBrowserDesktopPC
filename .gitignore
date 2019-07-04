@@ -35,12 +35,18 @@ packages/
 
 | Microsoft Visual Studio Solution (.sln)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application.sln 
+
 | XML Configuration File (.config)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/App.config 
+
 | XML Configuration File (.config)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/packages.config 
+
 | Visual C# Project file (.csproj)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj 
+
 | Visual Studio Project User Options file (.user)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj.user
 
+
+======================================================================================
