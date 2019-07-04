@@ -7,26 +7,31 @@
 *.user
 *.xml
 
-////////////////////////////////
+========= Web =========
+=======================
+Resources/CefSharp.Web.Browser.Domain.Custom.HostName/
+======================================================
+*.html
+======================================================
 
 bin/
 obj/
 Debug/
 Release/
 
-////////////////////////////////
+======================================================
 
 bin/Debug
 bin/Release
 bin/x32/Debug
 bin/x64/Release
 
-////////////////////////////////
+======================================================
 
 .vs/
 packages/ 
 
-////////////////////////////////
+======================================================
 
 | Microsoft Visual Studio Solution (.sln)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application.sln 
@@ -38,3 +43,4 @@ A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chr
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj 
 | Visual Studio Project User Options file (.user)
 A Create Example Auto Get Fast Browser/CefSharp Web Browser/Example CefSharp Chromium Application/ZExampleMain.csproj.user
+
