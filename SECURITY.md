@@ -1,3 +1,6 @@
+
+- [x] .CefSharpWebBrowserDesktop
+
 # Security Policy
 
 ## Supported Versions
