@@ -54,7 +54,10 @@
 
 ## Credits
 - **`Designed Powered by :`** [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
--  [**`Downloading Microsoft .NET Framework 4.7 + ( Developer Pack )`** ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)-  **`CefSharp  Web  Browser Windows Desktop PC Project.`**
+- [**`Downloading Microsoft .NET Framework 4.7 + ( Developer Pack )`** ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)  
+
+***
+## **`CefSharp  Web  Browser Windows Desktop PC Project.`**
 
 ---
 
