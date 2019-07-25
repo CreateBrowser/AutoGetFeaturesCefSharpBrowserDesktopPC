@@ -70,12 +70,12 @@
 ---
 <div align="center">
  <br /> <p>
-<!-- <img src="" width="700" alt="Get Supported YouTube CefSharp browser "  /> -->
+<!-- <img src="" width="700" alt="Get Supported YouTube CefSharp browser "  />   ?gl=EG | youtube.com/supported_browsers?gl=EG&hl=ar -->
 <h4> Get Supported YouTube Available CefSharp Browser The Video Formats Available </h4>
 
 [![ Build Get Supported YouTube CefSharp browser ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Supported%20Browsers%20List.png)](http://paypal.me/MohamedOsama914/5)
 
-| <h6> [English - Supported browsers list - YouTube](https://www.youtube.com/supported_browsers?gl=US) </h6>| <h6> [العربية - قائمة المتصفحات المدعومة - يوتيوب]( https://www.youtube.com/supported_browsers?gl=EG) </h6> |
+| <h6> [English - Supported browsers list - YouTube](https://www.youtube.com/supported_browsers?gl=US) </h6>| <h6> [العربية - قائمة المتصفحات المدعومة - يوتيوب]( https://www.youtube.com/supported_browsers?gl=EG&hl=ar) </h6> |
 |-----------------------------------|------------------------------|
 | <h6> You're awesome! That's right! Your browser is up-to-date, which means you can use YouTube's latest features. Enjoy! </h6> | <h6>  انت رائع! هذا صحيح! متصفحك محدث ، مما يعني أنه يمكنك استخدام أحدث ميزات يوتيوب. استمتع! </h6> | 
 |Enjoy YouTube | استمتع بوقتك على يوتيوب | 
