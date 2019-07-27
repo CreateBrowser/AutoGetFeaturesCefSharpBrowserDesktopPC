@@ -36,9 +36,8 @@
 
 <a href="https://www.blockchain.com/btc/address/41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bc-name-and-logo-dark-blue.svg" alt="PayPal" /></a>
 
-
- </p>  
-</div>
+</p>  
+<!-- </div> -->
 
 
 **If you enjoy this CefSharp, please consider [supporting me](https://www.paypal.me/MohamedOsama914/10) for developing and maintaining this CefSharp Web Browser.**
@@ -48,6 +47,7 @@
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
+</div>
 
 
 ***
