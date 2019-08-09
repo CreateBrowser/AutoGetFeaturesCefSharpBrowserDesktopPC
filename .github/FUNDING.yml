@@ -6,6 +6,7 @@
 #
 
 # github: # [mohamedosama914@github.com, CreateBrowser@github.com, mohamedosama914@createbrowser.noreply.github.com, createbrowser@AutoGetFeaturesCefSharpBrowserDesktopPC]  # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2] # https://github.com/mohamedosama914
+# github: [mohamedosama914, createbrowser, CreateBrowser]
 # patreon: # [mohamedosama914] # Replace with a single Patreon username
 # open_collective: # [mohamedosama914] # Replace with a single Open Collective username
 # ko_fi: # Replace with a single Ko-fi username
@@ -25,6 +26,12 @@
 #Email: No commit message
 #mail: No commit message
 
-github: [mohamedosama914, createbrowser, CreateBrowser]
+patreon: mohamedosama914
+patreon: CreateBrowser
+
+ko_fi: mohamedosama914
+ko_fi: CreateBrowser
+
+github: mohamedosama914, createbrowser
 
 custom: https://paypal.me/MohamedOsama914/10
