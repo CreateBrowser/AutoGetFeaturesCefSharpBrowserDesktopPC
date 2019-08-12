@@ -5,7 +5,6 @@
 #
 # No commit message
 #
-community_bridge: PROJECT-NAME
 # 
 #
 #
@@ -28,11 +27,7 @@ community_bridge: PROJECT-NAME
 #
 # patreon: alexmaitland
 #
-# github: [12082147+mohamedosama914@users.noreply.github.com, mohamedosama914@users.noreply.github.com] 
-# github: [12082147+mohamedosama914@users.noreply.github.com, mohamed.osama914@yahoo.com] 
-# github: [mohamedosama914@users.noreply.github.com, mohamed.osama914@yahoo.com] 
 # github: [12082147+mohamedosama914@users.noreply.github.com] 
-# github: [mohamedosama914@users.noreply.github.com] 
 # github: [mohamed.osama914@yahoo.com] 
 # custom: https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html
 # Yahoo: No commit message
@@ -52,5 +47,5 @@ community_bridge: PROJECT-NAME
 #  custom: [https://paypal.me/MohamedOsama914/5, https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html]
 #
 #
- custom: https://www.paypal.me/MohamedOsama914/5
 
+custom: https://www.paypal.me/MohamedOsama914/5
