@@ -26,9 +26,9 @@
 #mail: No commit message
 #No commit message
 # github: mohamedosama914, CreateBrowser
-
 # github: 12082147+mohamedosama914@users.noreply.github.com, mohamed.osama914@yahoo.com, CreateBrowser
- github: [mohamed.osama914@yahoo.com] 
+# github: [mohamed.osama914@yahoo.com] 
+ tidelift: .NET/.dotnet # C#/nuget # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 
 custom: https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html
 custom: https://paypal.me/MohamedOsama914/5
