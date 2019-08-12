@@ -10,10 +10,9 @@
 # open_collective: # [mohamedosama914] # Replace with a single Open Collective username
 # ko_fi: # Replace with a single Ko-fi username
 # tidelift: # C#/nuget # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-
 #
 # patreon: alexmaitland
-
+#
 # github: [12082147+mohamedosama914@users.noreply.github.com, mohamedosama914@users.noreply.github.com] 
 # github: [12082147+mohamedosama914@users.noreply.github.com, mohamed.osama914@yahoo.com] 
 # github: [mohamedosama914@users.noreply.github.com, mohamed.osama914@yahoo.com] 
@@ -28,8 +27,7 @@
 # github: mohamedosama914, CreateBrowser
 # github: [mohamed.osama914@yahoo.com] 
 # github: mohamed.osama914@yahoo.com 
-
- ko_fi: MohamedOsama914
-custom: https://paypal.me/MohamedOsama914/5
-
+# ko_fi: MohamedOsama914
 # No commit message
+
+custom: https://paypal.me/MohamedOsama914/5
