@@ -12,9 +12,7 @@ community_bridge: PROJECT-NAME
 #
 # custom: [LINK1, LINK2, LINK3, LINK4]
 #  /* https://paypal.me/MohamedOsama914/
-
- custom: https://www.paypal.me/MohamedOsama914, http://PayPal.html
-
+#
 #
 #
 #
@@ -54,3 +52,5 @@ community_bridge: PROJECT-NAME
 #  custom: [https://paypal.me/MohamedOsama914/5, https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html]
 #
 #
+ custom: https://www.paypal.me/MohamedOsama914/5
+
