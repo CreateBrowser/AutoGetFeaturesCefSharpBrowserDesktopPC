@@ -4,7 +4,7 @@ about: Create a report to help us improve
 
 ---
 
-**Describe the bug**
+**Describe the bug** No commit message
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -21,12 +21,12 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: []
+ - OS: [Windows 8.1 & 10]
  - Browser [e.g. CefSharp, Chromium, chrome]
  - Version [e.g. 22]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
+ - Device: [e.g. Win8.1, Win10, iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
