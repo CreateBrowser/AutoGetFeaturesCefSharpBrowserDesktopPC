@@ -5,12 +5,13 @@
 #
 # No commit message
 #
-# community_bridge: PROJECT-NAME
+community_bridge: PROJECT-NAME
 # 
 #
 #
-
-custom: [https://paypal.me/MohamedOsama914/5, https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html]
+#
+# custom: [LINK1, LINK2, LINK3, LINK4]
+ custom: [https://paypal.me/MohamedOsama914/, https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html, LINK3, LINK4]
 
 #
 #
