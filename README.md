@@ -119,7 +119,7 @@
 
  *With each release a new branch is created, for example the  `63.0.3` release corresponds to the `cefsharp/63` branch.  If you're new to `CefSharp`   and are downloading the source to check it out, please use a*  **Release**  branch  
 
-<p align="center"><a href="https://www.paypal.me/MohamedOsama914"><img src="https://user-images.githubusercontent.com/12082147/62966521-7f38fb00-be07-11e9-95ab-ef7835065fdc.png" /></a></p>
+<p align="center"><a href="https://www.paypal.me/MohamedOsama914"><img src="https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png" /></a></p>
 
 ---
 
@@ -154,8 +154,8 @@
 
 > # Some Screenshots
   
+[![CefSharp Version 75.1.140-pre01 ](https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png)](http://paypal.me/MohamedOsama914/5)
 
-[![CefSharp Version 75.1.140-pre01 ](https://user-images.githubusercontent.com/12082147/62966522-7fd19180-be07-11e9-885b-16eb9cf2c5cb.png)](http://paypal.me/MohamedOsama914/5)
   
 ![About Available CefSharp Version 75.1.140-pre01 ](https://user-images.githubusercontent.com/12082147/62966521-7f38fb00-be07-11e9-95ab-ef7835065fdc.png)
 
