@@ -119,7 +119,14 @@
 
  *With each release a new branch is created, for example the  `63.0.3` release corresponds to the `cefsharp/63` branch.  If you're new to `CefSharp`   and are downloading the source to check it out, please use a*  **Release**  branch  
 
+
+
+
+<!--
 <p align="center"><a href="https://www.paypal.me/MohamedOsama914"><img src="https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png" /></a></p>
+-->
+
+
 
 ---
 
