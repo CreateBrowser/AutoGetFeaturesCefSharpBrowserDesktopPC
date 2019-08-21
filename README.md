@@ -127,13 +127,14 @@
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
 | ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3809	 | 2015 | 4.5.2 & 4.7 | Development   | 
-| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/75](https://github.com/cefsharp/CefSharp/tree/cefsharp/75) | 3770	 | 2015 | 4.5.2 / 4.7 | **Pre Release** | 
+| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/75](https://github.com/cefsharp/CefSharp/tree/cefsharp/75) | 3770	 | 2015 | 4.5.2 / 4.7 | **Release** | 
+
 
 
 
 
 <!-- 
-| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Release** | 
+| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** | 
  -->
 
 
@@ -163,7 +164,8 @@
 
 > # Some Screenshots
   
-[![CefSharp Version 75.1.141 ](https://user-images.githubusercontent.com/12082147/63095869-9ba27800-bf6c-11e9-82c6-59b1c859a29c.png)](http://paypal.me/MohamedOsama914/5)
+[![CefSharp Version 75.1.141 ](https://user-images.githubusercontent.com/12082147/63189465-57929e80-c064-11e9-8d54-ae43814c2a12.png)](http://paypal.me/MohamedOsama914/5)
+
 
  
 ![About Available CefSharp Version 75.1.141 ](https://user-images.githubusercontent.com/12082147/62966521-7f38fb00-be07-11e9-95ab-ef7835065fdc.png)
