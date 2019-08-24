@@ -47,6 +47,11 @@
 <!-- </div> -->
 
 
+
+
+
+
+
 **If you enjoy this CefSharp, please consider [supporting me](https://www.paypal.me/MohamedOsama914/10) for developing and maintaining this CefSharp Web Browser.**
 
 <p align="center">
@@ -111,10 +116,10 @@
 
  # **``The Prerequisites are Required: ``**
 <!-- > ## ```Microsoft Windows 8.1 and 10 OS Desktop``` -->
-> ## ```Microsoft Windows OS 8.1 and 10 Desktop```
-> ## ```Microsoft Visual Studio 2015 Update 3```
-> ## ```Microsoft .NET Framework 4.7```
-> ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
+> ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary>
+> ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary>
+> ## <details><summary>```Microsoft .NET Framework 4.7```</summary>
+> ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary>
 
 ***
 ***
