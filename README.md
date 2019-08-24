@@ -35,7 +35,13 @@
 **Bitcoin wallet Address is.** | [Donate ( Blockchain ) Bitcoin wallet address](https://www.blockchain.com/btc/address/41aca831-2434-4fac-bab0-334f3b82a7f9)
 -->
 
+
+
+<!--
 <a href="https://www.blockchain.com/btc/address/41aca831-2434-4fac-bab0-334f3b82a7f9"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/bc-name-and-logo-dark-blue.svg" alt="PayPal" /></a>
+-->
+
+
 
 </p>  
 <!-- </div> -->
@@ -68,7 +74,12 @@
 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html)
 
----
+
+
+<!-- *** -->
+
+
+
 <div align="center">
  <br /> <p>
  
