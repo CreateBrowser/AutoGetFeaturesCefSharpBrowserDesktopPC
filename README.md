@@ -2,8 +2,6 @@
 
 
 
-
-
 <div align="center">
 
  <br /> <p>
@@ -24,7 +22,7 @@
 
 
 
-<a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="PayPal" /></a>
+<a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="Platform-Windows" /></a>
 
 
 
@@ -47,9 +45,6 @@
 
 </p>  
 <!-- </div> -->
-
-
-
 
 
 
