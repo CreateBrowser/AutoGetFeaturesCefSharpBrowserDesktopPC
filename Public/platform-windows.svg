@@ -8,7 +8,7 @@
     <text x="295" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="470">Platform </text>
     <text x="295" y="140" transform="scale(.1)" textLength="470">Platform </text>
     <text x="1285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1350"> <!-- Not Microsoft Windows OS Desktop PC --> </text>
-    <text x="3285" y="190" transform="scale(.1)" textLength="6350"> Microsoft Windows OS Desktop PC </text></g> </svg>
+    <text x="1285" y="140" transform="scale(.1)" textLength="1350"> Microsoft Windows OS Desktop </text></g> </svg>  
 
 
 
