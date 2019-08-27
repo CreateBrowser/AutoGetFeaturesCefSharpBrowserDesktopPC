@@ -80,7 +80,7 @@
 ***
 
 
-| information |
+| <!-- information --> Required |
 |--------|
 |[The Prerequisites are Required](#the-prerequisites-are-required)|
 
