@@ -135,12 +135,13 @@
 
 ***
 
- # <details><summary>**``The Prerequisites are Required: ``**</summary></details>
-<!-- > ## ```Microsoft Windows 8.1 and 10 OS Desktop``` -->
-> ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary></details>
-> ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary></details>
-> ## <details><summary>```Microsoft .NET Framework 4.7```</summary></details>
-> ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary></details>
+# <details><summary>**``The Prerequisites are Required: ``**</summary>
+   <!-- > ## ```Microsoft Windows 8.1 and 10 OS Desktop``` -->
+> ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary>
+> ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary>
+> ## <details><summary>```Microsoft .NET Framework 4.7```</summary>
+> ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary>
+</details>
 
 
 <!--<details>
