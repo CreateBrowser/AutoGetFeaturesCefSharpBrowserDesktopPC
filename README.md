@@ -2,7 +2,6 @@
 
 
 
-
 <div align="center">
 
  <br /> <p>
@@ -22,7 +21,8 @@
 -->
 
 
-# <details><summary> PayPal Payments Standard Donate </summary>  <br /> <p>   <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png" alt="Credit Card Badges" /></a></p>
+
+# <details><summary> PayPal Payments Standard Donate </summary>  <br /> <p> <a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/Button%20PayPal%20Donate.png" alt="Credit Card Badges" /></a></p>
 </details> 
 
 ## <details><summary> PayPal Credit Card</summary>  <br /> <p> <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
