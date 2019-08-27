@@ -154,11 +154,7 @@
 </details>
 -->
 
-# <details><summary>**``The Prerequisites are Required: ``**</summary>
- > ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary> </p>
- > ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary> 
- > ## <details><summary>```Microsoft .NET Framework 4.7```</summary> 
- > ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary>
+# <details><summary>**``The Prerequisites are Required: ``**</summary>  <br />  <summary><h4>```Microsoft Windows OS 8.1 and 10 Desktop```</h4></summary>       <summary><h4>```Microsoft Visual Studio 2015 Update 3```</h4></summary>   <summary><h4>```Microsoft .NET Framework 4.7```</h4></summary>  <summary><h4>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</h4></summary> 
 </details>
 
 
