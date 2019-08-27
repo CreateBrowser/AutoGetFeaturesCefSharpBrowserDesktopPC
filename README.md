@@ -8,13 +8,19 @@
  <br /> <p>
 
 <a href="http://cefsharp.github.io/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" alt="Supported CefSharp - Embedded Chromium for .NET & (Not Supported Videos mp4 - Not Supported Chrome Extensions APIs )"  /></a>
-   
-   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
-
+  
+  
+<!--   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
+-->
 
   </p>
-  <br />
-  <p>
+
+# <details><summary style="color:green">  PayPal Credit Card</summary>  <br /> <p style="color:green">   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
+</p>
+</details>
+
+<br />
+<p>
 
 
 
@@ -112,14 +118,22 @@
 
 ***
 
- # <details><summary>**``The Prerequisites are Required: ``**</summary>
+ # <details><summary>**``The Prerequisites are Required: ``**</summary></details>
 <!-- > ## ```Microsoft Windows 8.1 and 10 OS Desktop``` -->
-> ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary>
-> ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary>
-> ## <details><summary>```Microsoft .NET Framework 4.7```</summary>
-> ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary>
+> ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary></details>
+> ## <details><summary>```Microsoft Visual Studio 2015 Update 3```</summary></details>
+> ## <details><summary>```Microsoft .NET Framework 4.7```</summary></details>
+> ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary></details>
 
+
+<!--<details>
+ <summary>Paypal</summary>
+ <p>   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
+</p>
 </details>
+-->
+
+
 
 
 ***
