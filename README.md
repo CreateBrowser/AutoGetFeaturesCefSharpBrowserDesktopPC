@@ -82,8 +82,11 @@
 
 | information |
 |--------|
-|[The Prerequisites are Required](#the-prerequisites-are-required-----microsoft-windows-os-81-and-10-desktop-------microsoft-visual-studio-2015-update-3---microsoft-net-framework-47--microsoft-visual-c-2015-86-bitx64-bit)|
+|[The Prerequisites are Required](#the-prerequisites-are-required)|
 
+<!--
+|[The Prerequisites are Required](#the-prerequisites-are-required-----microsoft-windows-os-81-and-10-desktop-------microsoft-visual-studio-2015-update-3---microsoft-net-framework-47--microsoft-visual-c-2015-86-bitx64-bit)|
+-->
 
 
 
@@ -149,6 +152,14 @@
 </details>
 -->
 
+
+# **``The Prerequisites are Required:``**
+ > ## ```Microsoft Windows OS 8.1 and 10 Desktop```
+ > ## ```Microsoft Visual Studio 2015 Update 3```
+ > ## ```Microsoft .NET Framework 4.7```
+ > ## ```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```
+
+
 <!--
 # <details><summary>**``The Prerequisites are Required: ``**</summary>
  > ## <details><summary>```Microsoft Windows OS 8.1 and 10 Desktop```</summary> </p>
@@ -157,10 +168,10 @@
  > ## <details><summary>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</summary>
 </details>
 -->
-
+<!--
 # <details><summary>**``The Prerequisites are Required: ``**</summary>  <br />  <summary><h4>```Microsoft Windows OS 8.1 and 10 Desktop```</h4></summary>       <summary><h4>```Microsoft Visual Studio 2015 Update 3```</h4></summary>   <summary><h4>```Microsoft .NET Framework 4.7```</h4></summary>  <summary><h4>```Microsoft Visual C++ 2015 (86-bit)X(64-bit)```</h4></summary> 
 </details>
-
+-->
 
 <!--<details>
  <summary>Paypal</summary>
