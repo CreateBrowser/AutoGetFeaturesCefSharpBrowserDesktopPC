@@ -1,8 +1,4 @@
 
-
-
-
-
 <div align="center">
 
  <br /> <p>
@@ -84,6 +80,14 @@
 ***
 
 
+| information |
+|--------|
+|[The Prerequisites are Required](#the-prerequisites-are-required-----microsoft-windows-os-81-and-10-desktop-------microsoft-visual-studio-2015-update-3---microsoft-net-framework-47--microsoft-visual-c-2015-86-bitx64-bit)|
+
+
+
+
+
 ## Credits
 - **`Designed Powered by :`** [Mohammed Osama Mohamed Sayed Ahmed](https://github.com/mohamedosama914) 
 - [**`Downloading Microsoft .NET Framework 4.7 + ( Developer Pack )`** ](https://dotnet.microsoft.com/download/thank-you/net47-developer-pack)  
@@ -163,12 +167,13 @@
  <p>   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
 </p>
 </details>
+***
 -->
 
 
 
 
-***
+
 ***
 
 ### Releases Branches
