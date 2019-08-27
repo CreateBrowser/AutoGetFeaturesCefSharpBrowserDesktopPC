@@ -81,11 +81,12 @@
 
 
 
-
-| <!-- information --> Required |
+<!--
+|Required |
 |--------|
 |[The Prerequisites are Required](#the-prerequisites-are-required)|
-
+-->
+ <!-- information --> 
 <!--
 |[The Prerequisites are Required](#the-prerequisites-are-required-----microsoft-windows-os-81-and-10-desktop-------microsoft-visual-studio-2015-update-3---microsoft-net-framework-47--microsoft-visual-c-2015-86-bitx64-bit)|
 -->
@@ -190,6 +191,8 @@
 
 
 ***
+---
+
 
 ### Releases Branches
 
