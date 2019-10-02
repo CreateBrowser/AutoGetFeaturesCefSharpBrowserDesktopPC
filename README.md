@@ -251,10 +251,16 @@
 ***
  [![Build Downloader v75.1.142 ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v75.1.142) 
 > # Some Screenshots  
+
+[![ CefSharp Version 75.1.142 ](https://user-images.githubusercontent.com/12082147/66025863-c3877400-e4f7-11e9-89a0-a7e01c386d64.png)](http://paypal.me/MohamedOsama914/5)
+
+
+![About Available CefSharp Version 75.1.142 ](https://user-images.githubusercontent.com/12082147/66025837-ae124a00-e4f7-11e9-8a18-c31c2d513a0e.png)
+
+<!--
 [![CefSharp Version 75.1.142 ](https://user-images.githubusercontent.com/12082147/63189465-57929e80-c064-11e9-8d54-ae43814c2a12.png)](http://paypal.me/MohamedOsama914/5)
-
 ![About Available CefSharp Version 75.1.142 ](https://user-images.githubusercontent.com/12082147/63639225-16684300-c691-11e9-8d53-bf4f60a8663f.png)
-
+-->
 
 
 ***
