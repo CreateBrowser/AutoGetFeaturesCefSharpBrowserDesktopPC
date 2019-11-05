@@ -252,7 +252,6 @@
 
 
 
-
 >  ## Get :1st_place_medal: `CefSharp version: 75.1.143 (75.0.3770.100)`
   [![ Get Release ](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v75.1.143.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/75.1.143)
 ***
@@ -263,6 +262,7 @@
 
 
 ![About Available CefSharp Version 75.1.143 ](https://user-images.githubusercontent.com/12082147/66025837-ae124a00-e4f7-11e9-8a18-c31c2d513a0e.png)
+
 
 ***
 
