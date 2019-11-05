@@ -248,28 +248,19 @@
 
 ---
 
+
+
 ***
 
-
-
+<!--
 >  ## Get :1st_place_medal: `CefSharp version: 75.1.143 (75.0.3770.100)`
-
  [![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v75.1.143.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/75.1.141)
-
-
-
-[![0](https://Createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v75.1.143.svg?style=flat&label=WinForms)](http://)
-
-
 ***
  [![Build Downloader v75.1.143 ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v75.1.143) 
 > # Some Screenshots  
-
 [![ CefSharp Version 75.1.143 ](https://user-images.githubusercontent.com/12082147/66025863-c3877400-e4f7-11e9-89a0-a7e01c386d64.png)](http://paypal.me/MohamedOsama914/5)
-
-
 ![About Available CefSharp Version 75.1.143 ](https://user-images.githubusercontent.com/12082147/66025837-ae124a00-e4f7-11e9-8a18-c31c2d513a0e.png)
-
+-->
 
 ***
 
