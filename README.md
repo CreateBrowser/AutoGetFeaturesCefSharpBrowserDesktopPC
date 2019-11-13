@@ -1,4 +1,4 @@
-
+![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?style=flat-square)
 <div align="center">
 
  <br /> <p>
