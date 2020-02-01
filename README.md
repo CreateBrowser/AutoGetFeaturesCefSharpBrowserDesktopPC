@@ -222,8 +222,8 @@
 
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
-| ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3904	 | 2015 | 4.5.2 & 4.7 | Development   | 
-| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/75](https://github.com/cefsharp/CefSharp/tree/cefsharp/75) | 3770	 | 2015 | 4.5.2 / 4.7 | **Release** | 
+| ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3945	 | 2015 | 4.5.2 & 4.7 | Development   | 
+| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/79](https://github.com/cefsharp/CefSharp/tree/cefsharp/79) | 3945	 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 
 
@@ -238,7 +238,8 @@
 
 | Branch              **Unsupported**                                | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
-| [cefsharp/77](https://github.com/cefsharp/CefSharp/tree/cefsharp/77) | 3865 | 2015 | 4.5.2 / 4.7 | [Unsupported](https://github.com/cefsharp/CefSharp/issues/2953) |
+| [cefsharp/77](https://github.com/cefsharp/CefSharp/tree/cefsharp/77) | 3865 | 2015 | 4.5.2 / 4.7 | Unsupported |
+| [cefsharp/75](https://github.com/cefsharp/CefSharp/tree/cefsharp/75) | 3770 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/71](https://github.com/cefsharp/CefSharp/tree/cefsharp/71) | 3578 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/69](https://github.com/cefsharp/CefSharp/tree/cefsharp/69) | 3497 | 2015 | 4.5.2 / 4.7 | Unsupported |
@@ -256,8 +257,10 @@
 
 > # Some Screenshots  
 
-[![ CefSharp Version 75.1.143 ](https://user-images.githubusercontent.com/12082147/68884748-79132d00-071c-11ea-882c-5fb95a8eafd4.PNG)](http://paypal.me/MohamedOsama914/5)
-![About Available CefSharp Version 75.1.143 ](https://user-images.githubusercontent.com/12082147/68884837-ad86e900-071c-11ea-9c00-699c246e3ceb.PNG)
+[![ CefSharp Version 79.1.35 ](https://user-images.githubusercontent.com/12082147/73596648-b2458700-452c-11ea-8c5b-79d0954a0cdb.PNG)](http://paypal.me/MohamedOsama914/5)
+
+
+![About Available CefSharp Version79.1.35 ](https://user-images.githubusercontent.com/12082147/73596647-b1acf080-452c-11ea-8fc8-8f5d2b4fba60.PNG)
 
 
 ***
