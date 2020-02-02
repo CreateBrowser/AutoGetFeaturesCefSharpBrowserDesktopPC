@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "createmoresoftware",
+  "private_key_id": "b92b807199528368785d0fca4b67470e146e76d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAiitF4OPLY+jr\nx0t6ezqtPTDdgqUZiq/zhrTEquJZuRZeYi7dOlP2GAdToYzna+CZgA9mu5n4KOqJ\n4Vrz/lrG9MfdOkPj/UjU4kRaRWmFoO948Qj9h8uGSwjlWhJ40IIpkzpt1/DOvjKn\n90Wrj/TNLvVsQ6PxSpcCXp0m981K9d09MOnnlGOh2WOstA4mUAFfbS5DA72EjgSl\nTQ0QMYe3fsFs28ZABPN29cqafR3Kl596/xPs8ocvT0QZe00PQ6uUEZQY1tB6Ft3b\nreXweGcS1q1rJqDACwMaJbmbzT2nfbL/1ZMLuElVnufWERP+lQj1RHu6nW0+3MRR\nI+d1M1lfAgMBAAECgf8rnyIussTpT7l1sbFoDoM8vKBVj0PYhZNXmS1bYVvm+AgZ\nWiVD+fMLzmXajL9frxEztc/Hdrlrf9mjY2s33Gi0qsCdXpYDEV9u29SgnxlJLS0U\nOYfP6PQzeMyLKd0Fgjf7M2AJguML9AuGAn/GXtcXpYv0+14pTLzpzIXOTlY0pRqg\nRnllT1bRpP44IQ2FG+I/SiBqbJVW7+NvtnT638dqdeNWR25y/RY2bUvOf5Mndy4O\nnxIUrrEMZDeoC6KqbJQr8OdTy9B+XnFaMLerS4n1p4iNZagLnPyRrqNViLuVM3dE\nw+Ie3Dsp4694r+nPsn8R4y6/8/GXu5ySPbFcVMECgYEA7lddXxl8mZ16XYGIOizO\nIuUhQbvBpgPoQnJ6pCOYeIQj1EoBxQeX4jTAYD2hPmC+WoQqe5+4Vskiib1eztsy\nWdgu9HLOn+7T584Ip7PPj5tauug6b4idCcx4d/lhjBFsaSS0X1qAFnvnXTTqJAvI\n9f8pP/Tmy8zqGgCpOXU7UJECgYEAzs4VTnbFGOWL/fFAsjaWJ/C0NHMsBuPeIadX\nS2JPFr+KIv7NyQpvHZyhg9CGU7S0fAlc29K7MZZcG0B35P7W3Fh8xjAvSb9q90ik\n72i9/hEdFOi/IgWwCidqIqp9DcJ/axfnJvSO7B/ORtR5GeLcXwYRSp1kHwlxw3Rw\nr8ISAu8CgYBy7pgtCspF/WWLf7Ikc4S32QwPea3pE4tFt5SiYDPfMcFhVorB62Z3\ng36dKjr+LIK+fWtLD/tBhl5sU3BLifIe1xvVbyNqhi2TY4xS6meV1ZGL/f5n2FX5\n6qrRF+XNOH2xuixsquSHcxpfnOunlDNFRNUsbTl6X4coINd5yKlgsQKBgQCSCEhX\nXdsUF5PhQCjVL2Kc1YYKu4FNZD8JOKeV3dfHUn3y9EbQPgP0vxP2hps0JJiGNf5S\nY943x9tGiyGenK2QbxO8x228/+RCthNx017GN8N3blr5ZVbH9MknrYgc3UkokHpz\nsaHy7wq0TXkuZFoE573yGG4I1Jx2zpR8J+icFQKBgQCnXGzefZd49OGN5IYCpgE5\nGt3aTr6NqWHTWNaawCiu1jeNEjlZS0/d/OM7mA9EEt9Y10PML5L59/TI3kVoUF09\n+B/jFTxNvpGDCPGpdASreJVBuSu8SF3pTnOyX3yPBe+ESOcg9VkUPEwHmCUouWo9\nUzvgILCt4ddBWqYYRQvtsQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "createmoresoftware@createmoresoftware.iam.gserviceaccount.com",
+  "client_id": "111004468734159938917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/createmoresoftware%40createmoresoftware.iam.gserviceaccount.com"
+}
