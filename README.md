@@ -250,10 +250,10 @@
 ---
 
 ***
->  ## Get :1st_place_medal: `CefSharp version: 79.1.35 (79.0.3945.130)`
-[![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v79.1.35.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/79.1.35)
+>  ## Get :1st_place_medal: `CefSharp version: 79.1.350 (79.0.3945.130)`
+[![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/CefSharp.WinForms.v79.1.350.svg?style=flat&label=WinForms)](https://www.nuget.org/packages/CefSharp.WinForms/79.1.350)
 ***
- [![Build Downloader v79.1.35 ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v79.1.35) 
+ [![Build Downloader v79.1.350 ](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases/tag/v79.1.350) 
 
 > # Some Screenshots  
 
