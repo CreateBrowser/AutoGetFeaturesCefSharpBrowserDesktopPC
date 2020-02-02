@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -82,13 +82,6 @@ namespace Win_OS_Forms_Application
             /// </summary>
             /// 
 
-           
-            /// <summary>
-            /// 
-            /// </summary>
-            ///
-            
-
             #region CEF Settings Browser
 
             CefSharpSettings.LegacyJavascriptBindingEnabled = true; //true
@@ -117,17 +110,17 @@ namespace Win_OS_Forms_Application
             ///
             /// WidevineCdm
             /// 
+            //
+           /// Cef.RegisterWidevineCdm(@"WidevineCdm\");
+           /// Cef.RegisterWidevineCdmAsync(@"WidevineCdm\");
 
-            Cef.RegisterWidevineCdm(@"WidevineCdm\");
-            Cef.RegisterWidevineCdmAsync(@"WidevineCdm\");
+           /// settings.CefCommandLineArgs.Add("enable-widevine", "1");
+           /// settings.CefCommandLineArgs.Add("enable-widevine-cdm", "1");
 
-            settings.CefCommandLineArgs.Add("enable-widevine", "1");
-            settings.CefCommandLineArgs.Add("enable-widevine-cdm", "1");
-
-            settings.CefCommandLineArgs.Add("--enable-widevine-cdm --widevine-cdm-path", @"WidevineCdm\widevinecdm.dll"); //
-            settings.CefCommandLineArgs.Add("--register-pepper-plugins", @"WidevineCdm\widevinecdm.dll");
-            Cef.RegisterWidevineCdm(@".\WidevineCdm");
-
+           /// settings.CefCommandLineArgs.Add("--enable-widevine-cdm --widevine-cdm-path", @"WidevineCdm\widevinecdm.dll"); //
+           /// settings.CefCommandLineArgs.Add("--register-pepper-plugins", @"WidevineCdm\widevinecdm.dll");
+           /// Cef.RegisterWidevineCdm(@".\WidevineCdm");
+            //
             /// <summary>
             /// 
             /// </summary>
@@ -399,12 +392,10 @@ namespace Win_OS_Forms_Application
             ChromiumWebBrowser.DisplayHandler = new Win_OS_Forms_Application.Handler.DisplayHandler();
             ChromiumWebBrowser.MenuHandler = new Win_OS_Forms_Application.Handler.Example.MenuHandler();
 
-            /* ChromiumWebBrowser.DragHandler = new ChromiumApplication.Main.Handler.Example.DragHandler();    */
+            /* ChromiumWebBrowser.DragHandler = new ChromiumApplication.Main.Handler.Example.DragHandler();    */            
+            /* ChromiumWebBrowser.RequestHandler = new WinFormsRequestHandler(openNewTab);    */
+             ChromiumWebBrowser.RequestHandler = new RequestHandler();
 
-            ChromiumWebBrowser.RequestHandler = new RequestHandler();
-            
-            // ChromiumWebBrowser.RequestHandler = new WinFormsRequestHandler(openNewTab);
-            
             /* Customize Handler */
             RequestContextSettings requestContextSettings = new RequestContextSettings();
             requestContextSettings.AcceptLanguageList = "en-US,en,ar,zh-CN,zh-TW,ko,ja,en-GB";
