@@ -111,8 +111,8 @@
     <Compile Include="Handler\CustomMenuHandler.cs" />
     <Compile Include="Handler\DisplayHandler.cs" />
     <Compile Include="Handler\DownloadHandler.cs" />
-    <None Include="CreateMoreDeveloperBusiness.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Handler\Example\Customize\AMyCustomMenuHandler.cs" />
     <Compile Include="Handler\Example\Customize\Request.cs" />
