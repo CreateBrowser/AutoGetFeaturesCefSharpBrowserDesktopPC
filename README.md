@@ -43,14 +43,9 @@
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/releases"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Windows.CI.Build.svg" alt="Windows.Build.CreateWebBrowser" /></a>
 <a href="http://paypal.me/MohamedOsama914/5"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal" /></a>
 
-
-
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC"><img src="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/platform-windows.svg" alt="Platform-Windows" /></a>
-
-
-
-
 <a href="https://github.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+
 
 <!--<a href="https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/PayPal.html"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal" /></a>-->
 
