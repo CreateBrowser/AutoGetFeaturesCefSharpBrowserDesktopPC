@@ -220,6 +220,7 @@
 
 
 
+
 ---
 
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
@@ -234,6 +235,8 @@
 <!-- 
 | [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | **Pre-Release** | 
  -->
+
+
 
 
 
