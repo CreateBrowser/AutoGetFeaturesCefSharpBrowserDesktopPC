@@ -99,7 +99,7 @@ namespace Win_OS_Forms_Application
             // settings.BrowserSubprocessPath = @"CefSharp.BrowserSubprocess.exe";
 
             /// UserAgent
-            settings.UserAgent = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 CefSharp_Web_Browser/79.0.3945.130";
+            settings.UserAgent = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 CefSharp_Web_Browser/81.0.4044.138";
 
             /// AcceptLanguageList
             settings.AcceptLanguageList = "en-US,en,ar,zh-CN,zh-TW,ko,ja,en-GB";
