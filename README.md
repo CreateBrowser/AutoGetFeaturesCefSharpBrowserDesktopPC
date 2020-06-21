@@ -224,8 +224,8 @@
 
 | CefSharp.WinForms |  Branch            | CEF Version | VC++ Version | .Net Version | Status | 
 |----------------------------------------------------------------------|------|------|-------|-----------------|-------|
-| ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 3945	 | 2015 | 4.5.2 & 4.7 | Development   | 
-| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/79](https://github.com/cefsharp/CefSharp/tree/cefsharp/79) | 3945	 | 2015 | 4.5.2 / 4.7 | **Release** | 
+| ![ Get Release](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/Unknown.master.svg?style=flat&label=WinForms) | [master](https://github.com/cefsharp/CefSharp/) | 4103 | 2015 | 4.5.2 & 4.7 | Development   | 
+| [![Build Status](https://createbrowser.github.io/AutoGetFeaturesCefSharpBrowserDesktopPC/Public/build-passing.svg)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master) | [cefsharp/79](https://github.com/cefsharp/CefSharp/tree/cefsharp/81) | 4044	 | 2015 | 4.5.2 / 4.7 | **Release** | 
 
 
 
@@ -240,6 +240,7 @@
 
 | Branch              **Unsupported**                                | CEF Version | VC++ Version | .Net Version | Status |
 |----------------------------------------------------------------------|------|------|-------|-----------------|
+| [cefsharp/79](https://github.com/cefsharp/CefSharp/tree/cefsharp/79) | 3945 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/77](https://github.com/cefsharp/CefSharp/tree/cefsharp/77) | 3865 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/75](https://github.com/cefsharp/CefSharp/tree/cefsharp/75) | 3770 | 2015 | 4.5.2 / 4.7 | Unsupported |
 | [cefsharp/73](https://github.com/cefsharp/CefSharp/tree/cefsharp/73) | 3683 | 2015 | 4.5.2 / 4.7 | Unsupported |
