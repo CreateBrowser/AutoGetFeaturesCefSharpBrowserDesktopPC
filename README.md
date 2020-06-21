@@ -14,7 +14,7 @@
 <!--   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
 -->
 
-  </p>
+ </p>
 
 <!--
 # <details><summary style="color:green">  PayPal Credit Card</summary>  <br /> <p style="color:green">   <a href="http://paypal.me/MohamedOsama914/2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppppcmcvdam.png" alt="Credit Card Badges" /></a>
