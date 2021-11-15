@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Reflection;
 using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
+using CefSharp.WinForms;
+using CefSharp;
 namespace CefSharp_Web_Browser
 public partial class Form1 : Form    
 {     
@@ -15,12 +15,12 @@ public ChromiumWebBrowser CefSharp_Web_Browser;
 public Form1()
 {
 InitializeComponent();
+//  Text = "CefSharp Web Browser";
+ShowIcon = false;
 //// Set Google API keys, used for Geolocation requests sans GPS.  See http://www.chromium.org/developers/how-tos/api-keys
      Environment.SetEnvironmentVariable("GOOGLE_API_KEY", "#");
      Environment.SetEnvironmentVariable("GOOGLE_DEFAULT_CLIENT_ID", "#");
      Environment.SetEnvironmentVariable("GOOGLE_DEFAULT_CLIENT_SECRET", "#");
-//  Text = "CefSharp Web Browser";
-ShowIcon = false;
 CefSettings settings = new CefSettings();            
 settings.BrowserSubprocessPath = System.IO.Path.GetFullPath("CefSharp.BrowserSubprocess.exe");
 Cef.Initialize(settings);
